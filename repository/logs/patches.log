@@ -1,0 +1,16 @@
+[2020-02-23 1:27:16,772]  DETALLADO {org.wso2.carbon.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2020-02-23 1:27:16,790]  DETALLADO {org.wso2.carbon.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2020-02-23 1:27:16,792]  DETALLADO {org.wso2.carbon.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2020-02-23 1:27:16,793]  DETALLADO {org.wso2.carbon.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  
+[2020-02-24 14:37:31,543]  DETALLADO {org.wso2.carbon.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2020-02-24 14:37:31,627]  DETALLADO {org.wso2.carbon.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2020-02-24 14:37:31,629]  DETALLADO {org.wso2.carbon.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2020-02-24 14:37:31,631]  DETALLADO {org.wso2.carbon.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  
+[2020-02-24 14:49:00,656]  DETALLADO {org.wso2.carbon.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2020-02-24 14:49:00,665]  DETALLADO {org.wso2.carbon.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2020-02-24 14:49:00,667]  DETALLADO {org.wso2.carbon.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2020-02-24 14:49:00,668]  DETALLADO {org.wso2.carbon.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  
+[2020-02-24 20:54:22,888]  DETALLADO {org.wso2.carbon.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2020-02-24 20:54:22,947]  DETALLADO {org.wso2.carbon.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2020-02-24 20:54:22,953]  DETALLADO {org.wso2.carbon.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2020-02-24 20:54:22,957]  DETALLADO {org.wso2.carbon.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  

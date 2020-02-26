@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><endpoint xmlns="http://ws.apache.org/ns/synapse" name="Mapa-Digital_Port_84--vv1.0_APIproductionEndpoint">
+    <http uri-template="http://localhost:84/api/v1/mapa-digital">
+        <timeout>
+            <responseAction>fault</responseAction>
+        </timeout>
+    </http>
+    <property name="ENDPOINT_ADDRESS" value="http://localhost:84/api/v1/mapa-digital"/>
+</endpoint>

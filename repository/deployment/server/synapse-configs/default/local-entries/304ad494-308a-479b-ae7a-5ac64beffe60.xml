@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><localEntry xmlns="http://ws.apache.org/ns/synapse" key="304ad494-308a-479b-ae7a-5ac64beffe60">{
+  "openapi" : "3.0.1",
+  "info" : {
+    "title" : "Mapa-Digital_Port_84",
+    "version" : "v1.0"
+  },
+  "servers" : [ {
+    "url" : "/"
+  } ],
+  "security" : [ {
+    "default" : [ ]
+  } ],
+  "paths" : {
+    "/sectors" : {
+      "get" : {
+        "description" : "Sirve para listar los sectores dentro del modulo de georeferenciacion",
+        "parameters" : [ ],
+        "responses" : {
+          "200" : {
+            "description" : "ok"
+          }
+        },
+        "security" : [ {
+          "default" : [ ]
+        } ],
+        "x-auth-type" : "Application &amp; Application User",
+        "x-throttling-tier" : "Unlimited"
+      }
+    },
+    "/contar-emprendimientos" : {
+      "get" : {
+        "description" : "Este recurso es para el indicador inicial",
+        "parameters" : [ ],
+        "responses" : {
+          "200" : {
+            "description" : "ok"
+          }
+        },
+        "security" : [ {
+          "default" : [ ]
+        } ],
+        "x-auth-type" : "None",
+        "x-throttling-tier" : null
+      }
+    },
+    "/tipo-negocio" : {
+      "get" : {
+        "description" : "Para filtar en el mapa-digital los emprendimientos",
+        "parameters" : [ ],
+        "responses" : {
+          "200" : {
+            "description" : "ok"
+          }
+        },
+        "security" : [ {
+          "default" : [ ]
+        } ],
+        "x-auth-type" : "None",
+        "x-throttling-tier" : null
+      }
+    },
+    "/georeferenciar" : {
+      "get" : {
+        "description" : "Se utiliza para filtar los emprendimientos por sector y tipo de negocio",
+        "parameters" : [ {
+          "name" : "id_sector",
+          "in" : "header",
+          "required" : false,
+          "style" : "simple",
+          "explode" : false,
+          "schema" : {
+            "type" : "string"
+          }
+        }, {
+          "name" : "id_tipo_negocio",
+          "in" : "header",
+          "required" : false,
+          "style" : "simple",
+          "explode" : false,
+          "schema" : {
+            "type" : "string"
+          }
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "ok"
+          }
+        },
+        "security" : [ {
+          "default" : [ ]
+        } ],
+        "x-auth-type" : "None",
+        "x-throttling-tier" : null
+      }
+    },
+    "/tipo-negocio/{id}" : {
+      "get" : {
+        "description" : "sirve para obtener el tipo de negocio por su id",
+        "parameters" : [ {
+          "name" : "id",
+          "in" : "path",
+          "required" : true,
+          "style" : "simple",
+          "explode" : false,
+          "schema" : {
+            "type" : "string",
+            "format" : "string"
+          }
+        } ],
+        "responses" : {
+          "200" : {
+            "description" : "ok"
+          }
+        },
+        "security" : [ {
+          "default" : [ ]
+        } ],
+        "x-auth-type" : "None",
+        "x-throttling-tier" : null
+      }
+    }
+  },
+  "components" : {
+    "securitySchemes" : {
+      "default" : {
+        "type" : "oauth2",
+        "flows" : {
+          "implicit" : {
+            "authorizationUrl" : "https://test.com",
+            "scopes" : { }
+          }
+        }
+      }
+    }
+  }
+}</localEntry>

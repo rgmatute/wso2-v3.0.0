@@ -1,0 +1,6 @@
+config:
+  http_request_timeout: 10000
+  export_directory: .wso2apictl\exported
+  kubernetes_mode: false
+  token_type: JWT
+environments: {}

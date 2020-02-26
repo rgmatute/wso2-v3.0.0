@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><localEntry xmlns="http://ws.apache.org/ns/synapse" key="41940dae-cce1-4b33-93fd-37f274deb5db">{
+  "openapi" : "3.0.1",
+  "info" : {
+    "title" : "Validate-Jwt-Token",
+    "version" : "v1.0"
+  },
+  "servers" : [ {
+    "url" : "/"
+  } ],
+  "security" : [ {
+    "default" : [ ]
+  } ],
+  "paths" : {
+    "/accounts/validate-token" : {
+      "post" : {
+        "description" : "Este recurso es solo para validar si el token jwt es valido",
+        "parameters" : [ ],
+        "responses" : {
+          "200" : {
+            "description" : "ok"
+          }
+        },
+        "security" : [ {
+          "default" : [ ]
+        } ],
+        "x-auth-type" : "Application &amp; Application User",
+        "x-throttling-tier" : null
+      }
+    }
+  },
+  "components" : {
+    "securitySchemes" : {
+      "default" : {
+        "type" : "oauth2",
+        "flows" : {
+          "implicit" : {
+            "authorizationUrl" : "https://test.com",
+            "scopes" : { }
+          }
+        }
+      }
+    }
+  }
+}</localEntry>
