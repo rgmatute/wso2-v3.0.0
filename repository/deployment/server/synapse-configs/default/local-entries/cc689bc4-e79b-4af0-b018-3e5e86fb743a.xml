@@ -24,7 +24,7 @@
           "default" : [ ]
         } ],
         "x-auth-type" : "None",
-        "x-throttling-tier" : null
+        "x-throttling-tier" : "Unlimited"
       }
     },
     "/accounts/login" : {
@@ -50,7 +50,7 @@
           "default" : [ ]
         } ],
         "x-auth-type" : "None",
-        "x-throttling-tier" : null
+        "x-throttling-tier" : "Unlimited"
       }
     },
     "/accounts/register" : {
@@ -76,7 +76,7 @@
           "default" : [ ]
         } ],
         "x-auth-type" : "None",
-        "x-throttling-tier" : null
+        "x-throttling-tier" : "Unlimited"
       }
     },
     "/georeferencia/find-all-select" : {
@@ -92,7 +92,7 @@
           "default" : [ ]
         } ],
         "x-auth-type" : "None",
-        "x-throttling-tier" : null
+        "x-throttling-tier" : "Unlimited"
       }
     }
   },

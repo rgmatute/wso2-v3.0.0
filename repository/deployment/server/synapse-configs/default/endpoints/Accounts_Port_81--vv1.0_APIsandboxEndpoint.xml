@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><endpoint xmlns="http://ws.apache.org/ns/synapse" name="Accounts_Port_81--vv1.0_APIsandboxEndpoint">
-    <http uri-template="http://192.168.0.108:81/api/v1">
+    <http uri-template="http://localhost:81/api/v1">
         <timeout>
             <responseAction>fault</responseAction>
         </timeout>
     </http>
-    <property name="ENDPOINT_ADDRESS" value="http://192.168.0.108:81/api/v1"/>
+    <property name="ENDPOINT_ADDRESS" value="http://localhost:81/api/v1"/>
 </endpoint>

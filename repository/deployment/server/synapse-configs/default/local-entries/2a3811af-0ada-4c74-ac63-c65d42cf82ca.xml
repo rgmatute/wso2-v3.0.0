@@ -54,7 +54,7 @@
           "default" : [ ]
         } ],
         "x-auth-type" : "None",
-        "x-throttling-tier" : null
+        "x-throttling-tier" : "Unlimited"
       }
     },
     "/emprendimientos/{id}" : {
@@ -88,7 +88,7 @@
           "default" : [ ]
         } ],
         "x-auth-type" : "None",
-        "x-throttling-tier" : null
+        "x-throttling-tier" : "Unlimited"
       },
       "put" : {
         "parameters" : [ {
@@ -111,6 +111,42 @@
             "type" : "string"
           }
         } ],
+        "responses" : {
+          "200" : {
+            "description" : "ok"
+          }
+        },
+        "security" : [ {
+          "default" : [ ]
+        } ],
+        "x-auth-type" : "None",
+        "x-throttling-tier" : "Unlimited"
+      }
+    },
+    "/emprendimiento/addImage/{id_emprendimiento}" : {
+      "post" : {
+        "description" : "sirve para guardar imagenes relacionadas a un emprendimeinto",
+        "parameters" : [ {
+          "name" : "id_emprendimiento",
+          "in" : "path",
+          "required" : true,
+          "style" : "simple",
+          "explode" : false,
+          "schema" : {
+            "type" : "string",
+            "format" : "string"
+          }
+        } ],
+        "requestBody" : {
+          "content" : {
+            "application/json" : {
+              "schema" : {
+                "type" : "object"
+              }
+            }
+          },
+          "required" : false
+        },
         "responses" : {
           "200" : {
             "description" : "ok"

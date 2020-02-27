@@ -34,7 +34,7 @@
           "default" : [ ]
         } ],
         "x-auth-type" : "None",
-        "x-throttling-tier" : null
+        "x-throttling-tier" : "Unlimited"
       }
     },
     "/accounts/update-password" : {
@@ -50,7 +50,7 @@
           "default" : [ ]
         } ],
         "x-auth-type" : "None",
-        "x-throttling-tier" : null
+        "x-throttling-tier" : "Unlimited"
       }
     }
   },

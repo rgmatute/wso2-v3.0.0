@@ -20,6 +20,27 @@
             <send/>
         </outSequence>
     </resource>
+    <resource methods="POST" uri-template="/emprendimiento/addImage/{id_emprendimiento}" faultSequence="fault">
+        <inSequence>
+            <property name="api.ut.backendRequestTime" expression="get-property('SYSTEM_TIME')"/>
+            <filter source="$ctx:AM_KEY_TYPE" regex="PRODUCTION">
+                <then>
+                    <send>
+                        <endpoint key="Georeferencia_Port_83--vv1.0_APIproductionEndpoint"/>
+                    </send>
+                </then>
+                <else>
+                    <send>
+                        <endpoint key="Georeferencia_Port_83--vv1.0_APIsandboxEndpoint"/>
+                    </send>
+                </else>
+            </filter>
+        </inSequence>
+        <outSequence>
+            <class name="org.wso2.carbon.apimgt.gateway.handlers.analytics.APIMgtResponseHandler"/>
+            <send/>
+        </outSequence>
+    </resource>
     <resource methods="GET" uri-template="/emprendimientos/{id}" faultSequence="fault">
         <inSequence>
             <property name="api.ut.backendRequestTime" expression="get-property('SYSTEM_TIME')"/>
