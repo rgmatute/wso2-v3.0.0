@@ -32,3 +32,12 @@
 2020-02-25T03:13:01,294 [-] [PassThroughMessageProcessor-64]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /api/v1/mapa-digital/contar-emprendimientos, HEALTH CHECK URL = /api/v1/mapa-digital/contar-emprendimientos
 2020-02-25T03:14:44,801 [-] [PassThroughMessageProcessor-67]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /api/v1/mapa-digital/contar-emprendimientos, HEALTH CHECK URL = /api/v1/mapa-digital/contar-emprendimientos
 2020-02-25T03:14:50,788 [-] [PassThroughMessageProcessor-70]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /api/v1/mapa-digital/contar-emprendimientos, HEALTH CHECK URL = /api/v1/mapa-digital/contar-emprendimientos
+2020-02-27T21:05:09,009 [-] [Thread-4]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2020-02-27T21:05:09,069 [-] [Thread-4]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2020-02-27T21:05:09,084 [-] [Thread-4]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2020-02-28T21:44:59,506 [-] [Thread-4]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2020-02-28T21:44:59,582 [-] [Thread-4]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2020-02-28T21:44:59,588 [-] [Thread-4]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2020-02-29T19:04:19,377 [-] [Component Resolve Thread (Bundle 144)]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2020-02-29T19:04:19,407 [-] [Component Resolve Thread (Bundle 144)]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2020-02-29T19:04:19,412 [-] [Component Resolve Thread (Bundle 144)]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService

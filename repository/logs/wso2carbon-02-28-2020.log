@@ -1,0 +1,711 @@
+TID: [-1] [] [2020-02-28 08:07:54,984]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:54,984]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,342]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,345]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,347]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,358]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,361]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,364]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,371]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,371]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,374]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,375]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,395]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,404]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,407]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,424]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,436]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,396]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,439]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,439]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,443]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,444]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,448]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,450]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,452]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,454]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,454]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,456]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,461]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,457]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,473]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,476]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,477]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,480]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,482]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,483]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,486]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,488]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,491]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,493]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,494]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,495]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,503]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,504]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,506]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,525]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1] [] [2020-02-28 08:07:57,576]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1] [] [2020-02-28 08:07:57,499]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,587]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,589]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,594]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,596]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,598]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,548]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,602]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,602]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,604]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,605]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,608]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,609]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,613]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,623]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,628]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,783]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,627]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:57,828]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,071]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,075]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,076]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,193]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,195]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,200]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,202]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,206]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,208]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,215]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,222]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,227]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,229]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,234]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,236]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,238]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,240]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,242]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,244]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,248]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,251]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,255]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,258]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,391]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,432]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,500]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,521]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,557]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,568]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,611]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,614]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,626]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,628]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,634]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,638]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,640]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,111]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,661]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,663]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,667]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,698]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,746]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1] [] [2020-02-28 08:07:58,752]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1234] [] [2020-02-28 08:07:58,831]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1] [] [2020-02-28 08:07:58,804]  WARN {org.wso2.carbon.databridge.agent.endpoint.DataEndpointGroup} - No receiver is reachable at reconnection, will try to reconnect every 30 sec
+TID: [-1234] [] [2020-02-28 08:07:58,864]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,083]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,119]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,178]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,201]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,206]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,232]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,300]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,324]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,338]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,396]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,421]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,459]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,492]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,536]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,542]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,571]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,623]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,612]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,658]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,708]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,717]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,734]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,756]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,776]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,789]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,891]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,894]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,944]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:07:59,971]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,033]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,138]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,175]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,194]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,219]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,260]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,346]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,408]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,451]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,468]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,476]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,484]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,491]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,498]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,359]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,556]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,838]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,840]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,847]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,849]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,888]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,888]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,910]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,910]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,933]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:00,950]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:01,037]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:01,156]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:01,219]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:01,244]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:01,247]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:01,318]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:01,332]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:01,343]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:01,345]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:01,476]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:01,391]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:01,490]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:01,655]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:02,826]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:02,829]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:02,854]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:02,866]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:02,879]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:02,879]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:02,914]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:02,918]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:02,923]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:02,924]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:02,929]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:02,930]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:02,977]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:02,977]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:02,995]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:02,999]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,009]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,012]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,018]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,019]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,031]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,049]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,065]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,071]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,101]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,121]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,147]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,251]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,261]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,278]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,284]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,301]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,315]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 08:08:03,325]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1] [] [2020-02-28 08:16:58,156]  WARN {org.apache.synapse.commons.util.MiscellaneousUtil} - Error loading properties from a file at from the System defined location: access-log.properties
+TID: [-1234] [] [2020-02-28 11:26:17,436]  INFO {org.wso2.carbon.core.init.CarbonServerManager} - Shutdown hook triggered....
+TID: [-1234] [] [2020-02-28 11:26:17,478]  INFO {org.wso2.carbon.core.init.CarbonServerManager} - Gracefully shutting down WSO2 API Manager...
+TID: [-1234] [] [2020-02-28 11:26:17,508]  INFO {org.wso2.carbon.core.ServerManagement} - Starting to switch to maintenance mode...
+TID: [-1234] [] [2020-02-28 11:26:17,511]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpListener} - Stopping Pass-through HTTP Listener..
+TID: [-1234] [] [2020-02-28 11:26:17,513]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - Shutting down IO Reactor bind for port 8280
+TID: [-1] [] [2020-02-28 11:26:17,518]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - HTTP-Listener I/O dispatcher Listener shutdown.
+TID: [-1234] [] [2020-02-28 11:26:17,603]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpMultiSSLListener} - Stopping Pass-through HTTPS Listener..
+TID: [-1234] [] [2020-02-28 11:26:17,604]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - Shutting down IO Reactor bind for port 8243
+TID: [-1] [] [2020-02-28 11:26:17,637]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - HTTPS-Listener I/O dispatcher Listener shutdown.
+TID: [-1234] [] [2020-02-28 11:26:17,648]  INFO {org.wso2.carbon.core.ServerManagement} - Stopped all transport listeners
+TID: [-1234] [] [2020-02-28 11:26:17,649]  INFO {org.wso2.carbon.core.ServerManagement} - Waiting for request service completion...
+TID: [-1234] [] [2020-02-28 11:26:17,692]  INFO {org.wso2.carbon.core.ServerManagement} - All requests have been served.
+TID: [-1234] [] [2020-02-28 11:26:17,692]  INFO {org.wso2.carbon.core.ServerManagement} - Waiting for deployment completion...
+TID: [-1234] [accountrecoveryendpoint] [2020-02-28 11:26:18,637]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/accountrecoveryendpoint]
+TID: [-1234] [authenticationendpoint] [2020-02-28 11:26:19,673]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/authenticationendpoint]
+TID: [-1234] [api#am#admin#v0.15] [2020-02-28 11:26:20,945]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/am/admin/v0.15]
+TID: [-1234] [am#sample#pizzashack#v1] [2020-02-28 11:26:21,016]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/am/sample/pizzashack/v1]
+TID: [-1234] [api#am#publisher#v0.15] [2020-02-28 11:26:21,991]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/am/publisher/v0.15]
+TID: [-1234] [api#identity#user#v1.0] [2020-02-28 11:26:22,477]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/identity/user/v1.0]
+TID: [-1234] [api#identity#consent-mgt#v1.0] [2020-02-28 11:26:23,047]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/identity/consent-mgt/v1.0]
+TID: [-1234] [throttle#data#v1] [2020-02-28 11:26:26,891]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/throttle/data/v1]
+TID: [-1234] [am#sample#calculator#v1] [2020-02-28 11:26:26,973]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/am/sample/calculator/v1]
+TID: [-1234] [api#am#store#v0.15] [2020-02-28 11:26:27,863]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/am/store/v0.15]
+TID: [-1234] [api#identity#recovery#v0.9] [2020-02-28 11:26:28,303]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/identity/recovery/v0.9]
+TID: [-1234] [api#am#store#v1.0] [2020-02-28 11:26:28,357]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/am/store/v1.0]
+TID: [-1234] [client-registration#v0.15] [2020-02-28 11:26:29,496]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/client-registration/v0.15]
+TID: [-1234] [api#am#publisher#v1.0] [2020-02-28 11:26:30,624]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/am/publisher/v1.0]
+TID: [-1234] [oauth2] [2020-02-28 11:26:31,330]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/oauth2]
+TID: [-1234] [devportal] [2020-02-28 11:26:31,352]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/devportal]
+TID: [-1234] [admin] [2020-02-28 11:26:31,373]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/admin]
+TID: [-1234] [publisher] [2020-02-28 11:26:31,401]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/publisher]
+TID: [-1234] [publisher] [2020-02-28 11:26:31,403]  INFO {org.wso2.carbon.core.ServerManagement} - All deployment tasks have been completed.
+TID: [-1234] [publisher] [2020-02-28 11:26:31,405]  INFO {org.wso2.carbon.core.ServerManagement} - Waiting for server task completion...
+TID: [-1234] [publisher] [2020-02-28 11:26:31,442]  INFO {org.wso2.carbon.core.ServerManagement} - All server tasks have been completed.
+TID: [-1234] [publisher] [2020-02-28 11:26:31,443]  INFO {org.wso2.carbon.core.init.CarbonServerManager} - Shutting down WSO2 API Manager...
+TID: [-1234] [publisher] [2020-02-28 11:26:31,448]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSTransportHandler} - Starting to Shutdown the Listener...
+TID: [-1234] [publisher] [2020-02-28 11:26:33,461]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSTaskManager} - Task manager for jms consumer 1000 shutdown
+TID: [-1234] [publisher] [2020-02-28 11:26:33,463]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSListener} - Stopped listening for JMS messages to listener : Siddhi-JMS-Consumer#tokenRevocation
+TID: [-1234] [publisher] [2020-02-28 11:26:34,467]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSTaskManager} - Task manager for jms consumer 1000 shutdown
+TID: [-1234] [publisher] [2020-02-28 11:26:34,469]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSListener} - Stopped listening for JMS messages to listener : Siddhi-JMS-Consumer#throttleData
+TID: [-1234] [publisher] [2020-02-28 11:26:34,491]  INFO {org.wso2.carbon.core.init.CarbonServerManager} - Shutting down OSGi framework...
+TID: [-1234] [] [2020-02-28 11:26:34,592]  INFO {org.wso2.carbon.core.init.CarbonServerManager} - Stopping CarbonServerManager...
+TID: [-1234] [] [2020-02-28 11:26:34,657]  INFO {org.wso2.carbon.websocket.transport.WebsocketTransportSender} - WSS Sender Shutdown
+TID: [-1] [] [2020-02-28 11:26:34,665]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpSender} - HTTP Sender shutdown
+TID: [-1] [] [2020-02-28 11:26:34,669]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpSSLSender} - HTTPS Sender shutdown
+TID: [-1234] [] [2020-02-28 11:26:34,670]  INFO {org.wso2.carbon.websocket.transport.WebsocketTransportSender} - WS Sender Shutdown
+TID: [-1234] [] [2020-02-28 11:26:34,699]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpListener} - Destroying PassThroughHttpListener
+TID: [-1234] [] [2020-02-28 11:26:34,702]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpMultiSSLListener} - Destroying PassThroughHttpListener
+TID: [-1234] [publisher] [2020-02-28 11:26:34,949]  INFO {org.wso2.carbon.event.processor.core.internal.CarbonEventProcessorService} - Successfully shutdown ExecutionPlans
+TID: [-1234] [publisher] [2020-02-28 11:26:34,988]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSTransportHandler} - Starting to Shutdown the Listener...
+TID: [-1234] [publisher] [2020-02-28 11:26:35,182]  INFO {org.apache.synapse.Axis2SynapseController} - Undeploying the Synapse service...
+TID: [-1234] [publisher] [2020-02-28 11:26:35,184]  INFO {org.apache.synapse.Axis2SynapseController} - Undeploying Proxy services...
+TID: [-1234] [publisher] [2020-02-28 11:26:35,185]  INFO {org.apache.synapse.Axis2SynapseController} - Undeploying EventSources...
+TID: [-1234] [publisher] [2020-02-28 11:26:35,223]  INFO {org.apache.synapse.inbound.InboundEndpoint} - Destroying Inbound Endpoint: WebSocketInboundEndpoint
+TID: [-1234] [publisher] [2020-02-28 11:26:35,278]  INFO {org.apache.synapse.inbound.InboundEndpoint} - Destroying Inbound Endpoint: SecureWebSocketEP
+TID: [-1234] [publisher] [2020-02-28 11:26:35,362]  INFO {org.apache.synapse.rest.API} - Destroying API: admin--Validate-Jwt-Token:vv1.0
+TID: [-1234] [publisher] [2020-02-28 11:26:35,421]  INFO {org.apache.synapse.rest.API} - Destroying API: admin--Georeferencia_Port_83:vv1.0
+TID: [-1234] [publisher] [2020-02-28 11:26:35,427]  INFO {org.apache.synapse.rest.API} - Destroying API: admin--Mapa-Digital_Port_84:vv1.0
+TID: [-1234] [publisher] [2020-02-28 11:26:35,429]  INFO {org.apache.synapse.rest.API} - Destroying API: admin--Security_Port_82:vv1.0
+TID: [-1234] [publisher] [2020-02-28 11:26:35,433]  INFO {org.apache.synapse.rest.API} - Destroying API: admin--Accounts_Port_81:vv1.0
+TID: [-1234] [publisher] [2020-02-28 11:26:35,436]  INFO {org.apache.synapse.rest.API} - Destroying API: _WSO2AMAuthorizeAPI_
+TID: [-1234] [publisher] [2020-02-28 11:26:35,439]  INFO {org.apache.synapse.rest.API} - Destroying API: _WSO2AMUserInfoAPI_
+TID: [-1234] [publisher] [2020-02-28 11:26:35,441]  INFO {org.apache.synapse.rest.API} - Destroying API: _OpenService_
+TID: [-1234] [publisher] [2020-02-28 11:26:35,444]  INFO {org.apache.synapse.rest.API} - Destroying API: _WSO2AMRevokeAPI_
+TID: [-1234] [publisher] [2020-02-28 11:26:35,445]  INFO {org.apache.synapse.rest.API} - Destroying API: _WSO2AMTokenAPI_
+TID: [-1234] [publisher] [2020-02-28 11:26:35,448]  INFO {org.apache.synapse.task.SynapseTaskManager} - Shutting down the task manager
+TID: [-1234] [publisher] [2020-02-28 11:26:35,657]  INFO {org.wso2.carbon.metrics.impl.reporter.AbstractReporter} - Stopped JMX reporter for Metrics
+TID: [-1234] [publisher] [2020-02-28 11:26:35,858]  INFO {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent} - Stopping the carbon web-app registered under : /
+TID: [-1234] [publisher] [2020-02-28 11:26:38,023]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher undeployed successfully : EmailPublisher.xml
+TID: [-1234] [publisher] [2020-02-28 11:26:38,039]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher deployment held back and in inactive state : EmailPublisher.xml, waiting for Output Event Adapter dependency : email
+TID: [-1234] [publisher] [2020-02-28 11:26:38,040]  INFO {org.wso2.carbon.event.publisher.core.internal.CarbonEventPublisherService} - Event publisher : EmailPublisher  is in inactive state because dependency could not be found : email
+TID: [-1234] [publisher] [2020-02-28 11:26:38,041]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher undeployed successfully : blockingEventJMSPublisher.xml
+TID: [-1234] [publisher] [2020-02-28 11:26:38,513]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher deployment held back and in inactive state : blockingEventJMSPublisher.xml, waiting for Output Event Adapter dependency : jms
+TID: [-1234] [publisher] [2020-02-28 11:26:38,514]  INFO {org.wso2.carbon.event.publisher.core.internal.CarbonEventPublisherService} - Event publisher : blockingEventJMSPublisher  is in inactive state because dependency could not be found : jms
+TID: [-1234] [publisher] [2020-02-28 11:26:38,515]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher undeployed successfully : jmsEventPublisher_1.10.0.xml
+TID: [-1234] [publisher] [2020-02-28 11:26:38,542]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher deployment held back and in inactive state : jmsEventPublisher_1.10.0.xml, waiting for Output Event Adapter dependency : jms
+TID: [-1234] [publisher] [2020-02-28 11:26:38,543]  INFO {org.wso2.carbon.event.publisher.core.internal.CarbonEventPublisherService} - Event publisher : jmsEventPublisher-1.0.0  is in inactive state because dependency could not be found : jms
+TID: [-1234] [publisher] [2020-02-28 11:26:38,544]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher undeployed successfully : jmsEventPublisher.xml
+TID: [-1234] [publisher] [2020-02-28 11:26:38,576]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher deployment held back and in inactive state : jmsEventPublisher.xml, waiting for Output Event Adapter dependency : jms
+TID: [-1234] [publisher] [2020-02-28 11:26:38,576]  INFO {org.wso2.carbon.event.publisher.core.internal.CarbonEventPublisherService} - Event publisher : jmsEventPublisher  is in inactive state because dependency could not be found : jms
+TID: [-1234] [publisher] [2020-02-28 11:26:38,578]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher undeployed successfully : keyTemplateEventPublisher.xml
+TID: [-1234] [publisher] [2020-02-28 11:26:38,608]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher deployment held back and in inactive state : keyTemplateEventPublisher.xml, waiting for Output Event Adapter dependency : jms
+TID: [-1234] [publisher] [2020-02-28 11:26:38,608]  INFO {org.wso2.carbon.event.publisher.core.internal.CarbonEventPublisherService} - Event publisher : keyTemplateEventPublisher  is in inactive state because dependency could not be found : jms
+TID: [-1234] [publisher] [2020-02-28 11:26:38,610]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher undeployed successfully : tokenRevokeEventJMSPublisher.xml
+TID: [-1234] [publisher] [2020-02-28 11:26:38,634]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher deployment held back and in inactive state : tokenRevokeEventJMSPublisher.xml, waiting for Output Event Adapter dependency : jms
+TID: [-1234] [publisher] [2020-02-28 11:26:38,635]  INFO {org.wso2.carbon.event.publisher.core.internal.CarbonEventPublisherService} - Event publisher : tokenRevocationJMSPublisher  is in inactive state because dependency could not be found : jms
+TID: [-1234] [publisher] [2020-02-28 11:26:38,674]  INFO {org.wso2.carbon.databridge.receiver.binary.internal.BinaryDataReceiverServiceComponent} - Binary Data Receiver server shutting down...
+TID: [-1234] [publisher] [2020-02-28 11:26:38,675]  INFO {org.wso2.carbon.databridge.receiver.binary.internal.BinaryDataReceiver} - Stopping Binary Server..
+TID: [-1234] [] [2020-02-28 11:26:41,459]  INFORMACIÓN {org.wso2.carbon.core.init.CarbonServerManager} - Shutdown complete 
+TID: [-1234] [] [2020-02-28 11:26:41,465]  INFORMACIÓN {org.wso2.carbon.core.init.CarbonServerManager} - Halting JVM 
+TID: [-1234] [] [2020-02-28 21:41:12,069]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} - Starting WSO2 Carbon...
+TID: [-1234] [] [2020-02-28 21:41:12,097]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} - Operating System : Windows 10 10.0, amd64
+TID: [-1234] [] [2020-02-28 21:41:12,097]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} - Java Home        : C:\Program Files\Java\jdk1.8.0_191\jre
+TID: [-1234] [] [2020-02-28 21:41:12,098]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} - Java Version     : 1.8.0_191
+TID: [-1234] [] [2020-02-28 21:41:12,099]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} - Java VM          : Java HotSpot(TM) 64-Bit Server VM 25.191-b12,Oracle Corporation
+TID: [-1234] [] [2020-02-28 21:41:12,099]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} - Carbon Home      : C:\WSO2
+TID: [-1234] [] [2020-02-28 21:41:12,099]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} - Java Temp Dir    : C:\WSO2\tmp
+TID: [-1234] [] [2020-02-28 21:41:12,100]  INFO {org.wso2.carbon.core.internal.CarbonCoreActivator} - User             : Matute, es-ES, America/Bogota
+TID: [-1] [] [2020-02-28 21:41:12,578]  INFO {org.wso2.carbon.crypto.provider.internal.DefaultCryptoProviderComponent} - 'CryptoService.Secret' property has not been set. 'org.wso2.carbon.crypto.provider.SymmetricKeyInternalCryptoProvider' won't be registered as an internal crypto provider. Please set the secret if the provider needs to be registered.
+TID: [-1] [] [2020-02-28 21:41:13,527]  INFO {org.wso2.carbon.event.output.adapter.kafka.internal.ds.KafkaEventAdapterServiceDS} - Successfully deployed the Kafka output event adaptor service
+TID: [-1] [] [2020-02-28 21:41:13,874]  INFO {org.wso2.carbon.event.template.manager.core.internal.ds.TemplateDeployerServiceTrackerDS} - Successfully deployed the execution manager tracker service
+TID: [-1234] [] [2020-02-28 21:41:25,565]  INFO {org.wso2.carbon.consent.mgt.core.internal.ConsentManagerComponent} - ConsentManagerComponent is activated.
+TID: [-1] [] [2020-02-28 21:41:27,717]  INFO {org.wso2.carbon.databridge.receiver.binary.internal.BinaryDataReceiver} - Started Binary SSL Transport on port : 9711
+TID: [-1] [] [2020-02-28 21:41:27,718]  INFO {org.wso2.carbon.databridge.receiver.binary.internal.BinaryDataReceiver} - Started Binary TCP Transport on port : 9611
+TID: [-1234] [] [2020-02-28 21:41:27,753]  INFO {org.wso2.carbon.databridge.core.internal.DataBridgeDS} - Successfully deployed Agent Server 
+TID: [-1234] [] [2020-02-28 21:41:28,895]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} - Configured Registry in 126ms
+TID: [-1234] [] [2020-02-28 21:41:28,952]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} - Connected to mount at configregistry in 34ms
+TID: [-1234] [] [2020-02-28 21:41:28,953]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} - Connected to mount at govregistry in 36ms
+TID: [-1234] [] [2020-02-28 21:41:29,089]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} - Connected to mount at configregistry in 1ms
+TID: [-1234] [] [2020-02-28 21:41:29,103]  INFO {org.wso2.carbon.registry.core.jdbc.EmbeddedRegistryService} - Connected to mount at govregistry in 14ms
+TID: [-1234] [] [2020-02-28 21:41:29,139]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} - Registry Mode    : READ-WRITE
+TID: [-1234] [] [2020-02-28 21:41:30,097]  INFO {org.wso2.carbon.metrics.impl.util.JmxReporterBuilder} - Creating JMX reporter for Metrics with domain 'org.wso2.carbon.metrics'
+TID: [-1234] [] [2020-02-28 21:41:30,116]  INFO {org.wso2.carbon.metrics.impl.reporter.AbstractReporter} - Started JMX reporter for Metrics
+TID: [-1234] [] [2020-02-28 21:41:51,924]  INFO {org.wso2.carbon.registry.indexing.solr.SolrClient} - Default Embedded Solr Server Initialized
+TID: [-1234] [] [2020-02-28 21:41:52,465]  INFO {org.wso2.carbon.user.core.internal.UserStoreMgtDSComponent} - Carbon UserStoreMgtDSComponent activated successfully.
+TID: [-1234] [] [2020-02-28 21:42:26,942]  INFO {org.wso2.carbon.identity.user.store.configuration.deployer.UserStoreConfigurationDeployer} - User Store Configuration Deployer initiated.
+TID: [-1234] [] [2020-02-28 21:42:26,945]  INFO {org.wso2.carbon.identity.user.store.configuration.deployer.UserStoreConfigurationDeployer} - User Store Configuration Deployer initiated.
+TID: [-1234] [] [2020-02-28 21:42:28,719]  INFO {org.wso2.carbon.websocket.transport.WebsocketTransportSender} - WSS Sender started
+TID: [-1234] [] [2020-02-28 21:42:28,760]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpSender} - Initializing Pass-through HTTP/S Sender...
+TID: [-1234] [] [2020-02-28 21:42:29,015]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpSender} - Pass-through HTTP Sender started...
+TID: [-1234] [] [2020-02-28 21:42:29,017]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpSSLSender} - Initializing Pass-through HTTP/S Sender...
+TID: [-1234] [] [2020-02-28 21:42:29,059]  INFO {org.apache.synapse.transport.nhttp.config.ClientConnFactoryBuilder} - customSSLProfiles configuration is loaded from path: C:\WSO2\repository/resources/security/sslprofiles.xml
+TID: [-1234] [] [2020-02-28 21:42:29,061]  INFO {org.apache.synapse.transport.nhttp.config.ClientConnFactoryBuilder} - HTTPS Loading custom SSL profiles for the HTTPS sender
+TID: [-1234] [] [2020-02-28 21:42:29,071]  INFO {org.apache.synapse.transport.nhttp.config.ClientConnFactoryBuilder} - HTTPS Custom SSL profiles initialized for 1 servers
+TID: [-1234] [] [2020-02-28 21:42:29,076]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpSSLSender} - Pass-through HTTPS Sender started...
+TID: [-1234] [] [2020-02-28 21:42:29,096]  INFO {org.wso2.carbon.websocket.transport.WebsocketTransportSender} - WS Sender started
+TID: [-1234] [] [2020-02-28 21:42:29,143]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpListener} - Initializing Pass-through HTTP/S Listener...
+TID: [-1234] [] [2020-02-28 21:42:29,642]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpMultiSSLListener} - Initializing Pass-through HTTP/S Listener...
+TID: [-1234] [] [2020-02-28 21:42:29,683]  INFO {org.apache.synapse.transport.nhttp.config.ServerConnFactoryBuilder} - SSLProfile configuration is loaded from path: C:\WSO2\repository/resources/security/listenerprofiles.xml
+TID: [-1234] [I18nEmailMgtConfigService] [2020-02-28 21:42:32,975]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} - Deploying Axis2 service: I18nEmailMgtConfigService {super-tenant}
+TID: [-1234] [AccountCredentialMgtConfigService] [2020-02-28 21:42:35,732]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} - Deploying Axis2 service: AccountCredentialMgtConfigService {super-tenant}
+TID: [-1234] [UserIdentityManagementAdminService] [2020-02-28 21:42:35,745]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} - Deploying Axis2 service: UserIdentityManagementAdminService {super-tenant}
+TID: [-1234] [UserInformationRecoveryService] [2020-02-28 21:42:35,770]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} - Deploying Axis2 service: UserInformationRecoveryService {super-tenant}
+TID: [-1234] [] [2020-02-28 21:42:43,495]  INFO {org.wso2.carbon.core.init.CarbonServerManager} - Repository       : C:\WSO2/repository/deployment/server/
+TID: [-1] [] [2020-02-28 21:42:43,519]  INFO {org.wso2.carbon.event.input.adapter.kafka.internal.ds.KafkaEventAdapterServiceHolder} - Kafka input event adaptor waiting for dependent configurations to load
+TID: [-1234] [] [2020-02-28 21:42:43,737]  INFO {org.wso2.carbon.andes.core.internal.ds.QueueManagerServiceDS} - Successfully created the queue manager service
+TID: [-1234] [] [2020-02-28 21:42:43,745]  INFO {org.wso2.carbon.andes.core.internal.ds.SubscriptionManagerServiceDS} - Successfully created the subscription manager service
+TID: [-1234] [] [2020-02-28 21:42:57,826]  INFO {org.wso2.carbon.core.multitenancy.eager.TenantLoadingConfig} - Using tenant lazy loading policy...
+TID: [-1234] [] [2020-02-28 21:42:57,852]  INFO {org.wso2.carbon.core.internal.permission.update.PermissionUpdater} - Permission cache updated for tenant -1234
+TID: [-1234] [] [2020-02-28 21:42:59,251]  WARN {org.wso2.carbon.identity.application.mgt.internal.ApplicationManagementServiceComponent} - Templates directory not found at C:\WSO2\repository\resources\identity\authntemplates
+TID: [-1234] [] [2020-02-28 21:43:00,445]  INFO {org.wso2.carbon.user.core.internal.UserStoreMgtDSComponent} - Claim manager set for class org.wso2.carbon.user.core.common.DefaultRealm
+TID: [-1234] [] [2020-02-28 21:43:00,449]  INFO {org.wso2.carbon.user.core.internal.UserStoreMgtDSComponent} - Claim manager set for class org.wso2.carbon.user.core.jdbc.JDBCUserStoreManager
+TID: [-1] [] [2020-02-28 21:43:00,771]  INFO {org.wso2.carbon.identity.entitlement.internal.SchemaBuilder} - XACML policy schema loaded successfully.
+TID: [-1234] [] [2020-02-28 21:43:00,870]  INFO {org.wso2.carbon.identity.oauth.config.OAuthServerConfiguration} - The default OAuth token issuer will be used. No custom token generator is set.
+TID: [-1234] [] [2020-02-28 21:43:01,254]  INFO {org.wso2.carbon.identity.oauth2.internal.OAuth2ServiceComponent} - PKCE Support enabled.
+TID: [-1234] [] [2020-02-28 21:43:02,278]  INFO {org.wso2.carbon.identity.application.authentication.framework.store.SessionDataStore} - Thread pool size for temporary authentication context data delete task: 20
+TID: [-1234] [] [2020-02-28 21:43:02,545]  WARN {org.wso2.carbon.identity.event.internal.IdentityEventServiceComponent} - Properties for default.notification.sender is not configured. This event handler will not be activated
+TID: [-1234] [] [2020-02-28 21:43:05,385]  INFO {org.wso2.carbon.mediation.initializer.ServiceBusInitializer} - Starting ESB...
+TID: [-1234] [] [2020-02-28 21:43:05,481]  INFO {org.wso2.carbon.mediation.initializer.ServiceBusInitializer} - Initializing Apache Synapse...
+TID: [-1234] [] [2020-02-28 21:43:05,506]  INFO {org.apache.synapse.SynapseControllerFactory} - Using Synapse home : C:\WSO2\.
+TID: [-1234] [] [2020-02-28 21:43:05,508]  INFO {org.apache.synapse.SynapseControllerFactory} - Using synapse.xml location : C:\WSO2\.\.\repository\deployment\server\synapse-configs\default
+TID: [-1234] [] [2020-02-28 21:43:05,510]  INFO {org.apache.synapse.SynapseControllerFactory} - Using server name : localhost
+TID: [-1234] [] [2020-02-28 21:43:05,522]  INFO {org.apache.synapse.SynapseControllerFactory} - The timeout handler will run every : 15s
+TID: [-1234] [] [2020-02-28 21:43:05,567]  INFO {org.apache.synapse.Axis2SynapseController} - Initializing Synapse at : Fri Feb 28 21:43:05 COT 2020
+TID: [-1234] [] [2020-02-28 21:43:05,599]  INFO {org.wso2.carbon.mediation.initializer.CarbonSynapseController} - Loading the mediation configuration from the file system
+TID: [-1234] [] [2020-02-28 21:43:05,605]  INFO {org.apache.synapse.config.xml.MultiXMLConfigurationBuilder} - Building synapse configuration from the synapse artifact repository at : .\.\repository/deployment/server/synapse-configs\default
+TID: [-1234] [] [2020-02-28 21:43:05,633]  INFO {org.apache.synapse.config.xml.XMLConfigurationBuilder} - Generating the Synapse configuration model by parsing the XML configuration
+TID: [-1234] [] [2020-02-28 21:43:05,813]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : 2a3811af-0ada-4c74-ac63-c65d42cf82ca was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:05,837]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : 304ad494-308a-479b-ae7a-5ac64beffe60 was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:05,857]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : 41940dae-cce1-4b33-93fd-37f274deb5db was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:05,885]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : bacd087f-16bd-439b-ab64-d3077a078910 was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:05,900]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : cc689bc4-e79b-4af0-b018-3e5e86fb743a was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:05,998]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Accounts_Port_81--vv1.0_APIproductionEndpoint was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,009]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Accounts_Port_81--vv1.0_APIsandboxEndpoint was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,021]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,034]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Georeferencia_Port_83--vv1.0_APIsandboxEndpoint was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,045]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Mapa-Digital_Port_84--vv1.0_APIproductionEndpoint was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,058]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Mapa-Digital_Port_84--vv1.0_APIsandboxEndpoint was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,069]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Security_Port_82--vv1.0_APIproductionEndpoint was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,081]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Security_Port_82--vv1.0_APIsandboxEndpoint was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,094]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Validate-Jwt-Token--vv1.0_APIproductionEndpoint was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,104]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Validate-Jwt-Token--vv1.0_APIsandboxEndpoint was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,255]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Sequence : dispatchSeq was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,408]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Sequence : fault was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,493]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Sequence : main was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,508]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Sequence : outDispatchSeq was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,523]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Sequence : _auth_failure_handler_ was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,560]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Sequence : _build_ was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,688]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Sequence : _cors_request_handler_ was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,704]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Sequence : _graphql_failure_handler was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,742]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Sequence : _production_key_error_ was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,768]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Sequence : _resource_mismatch_handler_ was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,790]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Sequence : _sandbox_key_error_ was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,841]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Sequence : _threat_fault_ was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,868]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Sequence : _throttle_out_handler_ was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:06,919]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Sequence : _token_fault_ was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:07,002]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Proxy service : WorkflowCallbackService was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:08,352]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : admin--Accounts_Port_81:vv1.0 was added to the Synapse configuration successfully
+TID: [-1] [] [2020-02-28 21:43:08,538]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 21:43:08,548]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : admin--Georeferencia_Port_83:vv1.0 was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:08,787]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : admin--Mapa-Digital_Port_84:vv1.0 was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:08,904]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : admin--Security_Port_82:vv1.0 was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:08,973]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : admin--Validate-Jwt-Token:vv1.0 was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:09,025]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : _WSO2AMAuthorizeAPI_ was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:09,068]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : _OpenService_ was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:09,106]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : _WSO2AMRevokeAPI_ was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:09,134]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : _WSO2AMTokenAPI_ was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:09,161]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : _WSO2AMUserInfoAPI_ was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:09,192]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Inbound Endpoint : SecureWebSocketEP was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:09,209]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Inbound Endpoint : WebSocketInboundEndpoint was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:09,211]  INFO {org.apache.synapse.config.SynapseConfigurationBuilder} - Loaded Synapse configuration from the artifact repository at : .\.\repository/deployment/server/synapse-configs\default
+TID: [-1234] [] [2020-02-28 21:43:09,214]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : SERVER_HOST was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:09,216]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : SERVER_IP was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:43:09,223]  INFO {org.apache.synapse.Axis2SynapseController} - Loading mediator extensions...
+TID: [-1234] [echo] [2020-02-28 21:43:10,749]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} - Deploying Axis2 service: echo {super-tenant}
+TID: [-1234] [Version] [2020-02-28 21:43:10,859]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} - Deploying Axis2 service: Version {super-tenant}
+TID: [-1234] [] [2020-02-28 21:43:10,952]  INFO {org.wso2.carbon.event.stream.core.EventStreamDeployer} - Stream definition is deployed successfully  : id_gov_notify_stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:10,962]  INFO {org.wso2.carbon.event.stream.core.EventStreamDeployer} - Stream definition is deployed successfully  : org.wso2.apimgt.token.revocation.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:10,972]  INFO {org.wso2.carbon.event.stream.core.EventStreamDeployer} - Stream definition is deployed successfully  : org.wso2.blocking.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:10,983]  INFO {org.wso2.carbon.event.stream.core.EventStreamDeployer} - Stream definition is deployed successfully  : org.wso2.botDetectionData.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:10,993]  INFO {org.wso2.carbon.event.stream.core.EventStreamDeployer} - Stream definition is deployed successfully  : org.wso2.keytemplate.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:11,004]  INFO {org.wso2.carbon.event.stream.core.EventStreamDeployer} - Stream definition is deployed successfully  : org.wso2.throttle.globalThrottle.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:11,014]  INFO {org.wso2.carbon.event.stream.core.EventStreamDeployer} - Stream definition is deployed successfully  : org.wso2.throttle.globalThrottle.stream:1.1.0
+TID: [-1234] [] [2020-02-28 21:43:11,037]  INFO {org.wso2.carbon.event.stream.core.EventStreamDeployer} - Stream definition is deployed successfully  : org.wso2.throttle.processed.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:11,058]  INFO {org.wso2.carbon.event.stream.core.EventStreamDeployer} - Stream definition is deployed successfully  : org.wso2.throttle.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:11,082]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - WSO2EventConsumer added to the junction. Stream:id_gov_notify_stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:11,107]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher configuration successfully deployed and in active state : EmailPublisher
+TID: [-1234] [] [2020-02-28 21:43:11,140]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - WSO2EventConsumer added to the junction. Stream:org.wso2.blocking.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:11,170]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher configuration successfully deployed and in active state : blockingEventJMSPublisher
+TID: [-1234] [] [2020-02-28 21:43:11,200]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - WSO2EventConsumer added to the junction. Stream:org.wso2.throttle.globalThrottle.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:11,202]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher configuration successfully deployed and in active state : jmsEventPublisher
+TID: [-1234] [] [2020-02-28 21:43:11,224]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - WSO2EventConsumer added to the junction. Stream:org.wso2.throttle.globalThrottle.stream:1.1.0
+TID: [-1234] [] [2020-02-28 21:43:11,225]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher configuration successfully deployed and in active state : jmsEventPublisher-1.0.0
+TID: [-1234] [] [2020-02-28 21:43:11,247]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - WSO2EventConsumer added to the junction. Stream:org.wso2.keytemplate.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:11,249]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher configuration successfully deployed and in active state : keyTemplateEventPublisher
+TID: [-1234] [] [2020-02-28 21:43:11,270]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - WSO2EventConsumer added to the junction. Stream:org.wso2.apimgt.token.revocation.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:11,273]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher configuration successfully deployed and in active state : tokenRevocationJMSPublisher
+TID: [-1234] [] [2020-02-28 21:43:11,309]  INFO {org.wso2.carbon.event.input.adapter.core.internal.InputAdapterRuntime} - Connecting receiver blockingWso2EventReceiver
+TID: [-1234] [] [2020-02-28 21:43:11,312]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Producer added to the junction. Stream:org.wso2.blocking.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:11,316]  INFO {org.wso2.carbon.event.receiver.core.EventReceiverDeployer} - Event Receiver configuration successfully deployed and in active state: blockingWso2EventReceiver
+TID: [-1234] [] [2020-02-28 21:43:11,327]  INFO {org.wso2.carbon.event.input.adapter.core.internal.InputAdapterRuntime} - Connecting receiver keyTemplateWso2EventReceiver
+TID: [-1234] [] [2020-02-28 21:43:11,329]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Producer added to the junction. Stream:org.wso2.keytemplate.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:11,333]  INFO {org.wso2.carbon.event.receiver.core.EventReceiverDeployer} - Event Receiver configuration successfully deployed and in active state: keyTemplateWso2EventReceiver
+TID: [-1234] [] [2020-02-28 21:43:11,344]  INFO {org.wso2.carbon.event.receiver.core.EventReceiverDeployer} - Event receiver deployment held back and in inactive state: throttleEventReceiver.xml, waiting for Input Event Adapter dependency: http
+TID: [-1234] [] [2020-02-28 21:43:11,354]  INFO {org.wso2.carbon.event.input.adapter.core.internal.InputAdapterRuntime} - Connecting receiver throttleWSO2EventReceiver
+TID: [-1234] [] [2020-02-28 21:43:11,356]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Producer added to the junction. Stream:org.wso2.throttle.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:11,358]  INFO {org.wso2.carbon.event.receiver.core.EventReceiverDeployer} - Event Receiver configuration successfully deployed and in active state: throttleWSO2EventReceiver
+TID: [-1234] [] [2020-02-28 21:43:11,369]  INFO {org.wso2.carbon.event.input.adapter.core.internal.InputAdapterRuntime} - Connecting receiver tokenRevocationWso2EventReceiver
+TID: [-1234] [] [2020-02-28 21:43:11,370]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Producer added to the junction. Stream:org.wso2.apimgt.token.revocation.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:11,372]  INFO {org.wso2.carbon.event.receiver.core.EventReceiverDeployer} - Event Receiver configuration successfully deployed and in active state: tokenRevocationWso2EventReceiver
+TID: [-1234] [] [2020-02-28 21:43:12,061]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Producer added to the junction. Stream:org.wso2.throttle.processed.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:12,065]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Consumer added to the junction. Stream:org.wso2.throttle.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:12,068]  INFO {org.wso2.carbon.event.processor.core.EventProcessorDeployer} - Execution plan is deployed successfully and in active state  : requestPreProcessorExecutionPlan
+TID: [-1234] [] [2020-02-28 21:43:12,282]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Producer added to the junction. Stream:org.wso2.throttle.globalThrottle.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:12,292]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Consumer added to the junction. Stream:org.wso2.throttle.processed.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:12,297]  INFO {org.wso2.carbon.event.processor.core.EventProcessorDeployer} - Execution plan is deployed successfully and in active state  : carbon.super_app_10PerMin
+TID: [-1234] [] [2020-02-28 21:43:12,629]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Producer added to the junction. Stream:org.wso2.throttle.globalThrottle.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:12,631]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Consumer added to the junction. Stream:org.wso2.throttle.processed.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:12,665]  INFO {org.wso2.carbon.event.processor.core.EventProcessorDeployer} - Execution plan is deployed successfully and in active state  : carbon.super_app_20PerMin
+TID: [-1234] [] [2020-02-28 21:43:12,954]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Producer added to the junction. Stream:org.wso2.throttle.globalThrottle.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:13,216]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Consumer added to the junction. Stream:org.wso2.throttle.processed.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:13,254]  INFO {org.wso2.carbon.event.processor.core.EventProcessorDeployer} - Execution plan is deployed successfully and in active state  : carbon.super_app_50PerMin
+TID: [-1234] [] [2020-02-28 21:43:13,423]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Producer added to the junction. Stream:org.wso2.throttle.globalThrottle.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:13,427]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Consumer added to the junction. Stream:org.wso2.throttle.processed.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:13,430]  INFO {org.wso2.carbon.event.processor.core.EventProcessorDeployer} - Execution plan is deployed successfully and in active state  : carbon.super_resource_10KPerMin_default
+TID: [-1234] [] [2020-02-28 21:43:13,595]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Producer added to the junction. Stream:org.wso2.throttle.globalThrottle.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:13,598]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Consumer added to the junction. Stream:org.wso2.throttle.processed.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:13,601]  INFO {org.wso2.carbon.event.processor.core.EventProcessorDeployer} - Execution plan is deployed successfully and in active state  : carbon.super_resource_20KPerMin_default
+TID: [-1234] [] [2020-02-28 21:43:13,899]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Producer added to the junction. Stream:org.wso2.throttle.globalThrottle.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:13,943]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Consumer added to the junction. Stream:org.wso2.throttle.processed.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:13,958]  INFO {org.wso2.carbon.event.processor.core.EventProcessorDeployer} - Execution plan is deployed successfully and in active state  : carbon.super_resource_50KPerMin_default
+TID: [-1234] [] [2020-02-28 21:43:14,110]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Producer added to the junction. Stream:org.wso2.throttle.globalThrottle.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:14,112]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Consumer added to the junction. Stream:org.wso2.throttle.processed.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:14,115]  INFO {org.wso2.carbon.event.processor.core.EventProcessorDeployer} - Execution plan is deployed successfully and in active state  : carbon.super_sub_Bronze
+TID: [-1234] [] [2020-02-28 21:43:14,340]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Producer added to the junction. Stream:org.wso2.throttle.globalThrottle.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:14,344]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Consumer added to the junction. Stream:org.wso2.throttle.processed.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:14,348]  INFO {org.wso2.carbon.event.processor.core.EventProcessorDeployer} - Execution plan is deployed successfully and in active state  : carbon.super_sub_Gold
+TID: [-1234] [] [2020-02-28 21:43:14,578]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Producer added to the junction. Stream:org.wso2.throttle.globalThrottle.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:14,582]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Consumer added to the junction. Stream:org.wso2.throttle.processed.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:14,584]  INFO {org.wso2.carbon.event.processor.core.EventProcessorDeployer} - Execution plan is deployed successfully and in active state  : carbon.super_sub_Silver
+TID: [-1234] [] [2020-02-28 21:43:14,723]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Producer added to the junction. Stream:org.wso2.throttle.globalThrottle.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:14,724]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Consumer added to the junction. Stream:org.wso2.throttle.processed.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:43:14,728]  INFO {org.wso2.carbon.event.processor.core.EventProcessorDeployer} - Execution plan is deployed successfully and in active state  : carbon.super_sub_Unauthenticated
+TID: [-1] [] [2020-02-28 21:43:23,548]  INFO {org.wso2.carbon.event.processor.manager.core.internal.CarbonEventManagementService} - Starting polling event receivers
+TID: [-1234] [accountrecoveryendpoint] [2020-02-28 21:43:28,732]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} - Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/accountrecoveryendpoint].File[C:\WSO2\repository\deployment\server\webapps\accountrecoveryendpoint]
+TID: [-1234] [am#sample#calculator#v1] [2020-02-28 21:43:33,882]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} - Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/am/sample/calculator/v1].File[C:\WSO2\repository\deployment\server\webapps\am#sample#calculator#v1.war]
+TID: [-1234] [am#sample#pizzashack#v1] [2020-02-28 21:43:37,679]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} - Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/am/sample/pizzashack/v1].File[C:\WSO2\repository\deployment\server\webapps\am#sample#pizzashack#v1.war]
+TID: [-1234] [api#am#admin#v0.15] [2020-02-28 21:43:46,459]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} - Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/am/admin/v0.15].File[C:\WSO2\repository\deployment\server\webapps\api#am#admin#v0.15.war]
+TID: [-1] [] [2020-02-28 21:43:50,684]  WARN {org.wso2.carbon.apimgt.gateway.throttling.util.BlockingConditionRetriever} - Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+TID: [-1] [] [2020-02-28 21:43:50,684]  WARN {org.wso2.carbon.apimgt.gateway.throttling.util.KeyTemplateRetriever} - Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+TID: [-1] [] [2020-02-28 21:43:50,684]  WARN {org.wso2.carbon.apimgt.gateway.jwt.RevokedJWTTokensRetriever} - Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+TID: [-1234] [api#am#publisher#v0.15] [2020-02-28 21:43:52,041]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} - Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/am/publisher/v0.15].File[C:\WSO2\repository\deployment\server\webapps\api#am#publisher#v0.15.war]
+TID: [-1234] [api#am#publisher#v1.0] [2020-02-28 21:43:57,707]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} - Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/am/publisher/v1.0].File[C:\WSO2\repository\deployment\server\webapps\api#am#publisher#v1.0.war]
+TID: [-1] [] [2020-02-28 21:43:57,807]  WARN {org.wso2.carbon.application.deployer.internal.AppDeployerServiceComponent} - Waiting for required OSGi services: org.wso2.carbon.application.deployer.synapse.service.SynapseAppDeployerService,org.wso2.carbon.mediation.initializer.services.SynapseEnvironmentService,
+TID: [-1] [] [2020-02-28 21:43:57,849]  WARN {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} - Waiting for required OSGi services: org.wso2.carbon.application.deployer.service.CappDeploymentService,org.wso2.carbon.server.admin.common.IServerAdmin,org.wso2.carbon.throttling.agent.ThrottlingAgent,
+TID: [-1234] [api#am#store#v0.15] [2020-02-28 21:44:03,014]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} - Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/am/store/v0.15].File[C:\WSO2\repository\deployment\server\webapps\api#am#store#v0.15.war]
+TID: [-1] [] [2020-02-28 21:44:07,690]  WARN {org.wso2.carbon.apimgt.gateway.throttling.util.BlockingConditionRetriever} - Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+TID: [-1] [] [2020-02-28 21:44:07,690]  WARN {org.wso2.carbon.apimgt.gateway.jwt.RevokedJWTTokensRetriever} - Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+TID: [-1] [] [2020-02-28 21:44:07,690]  WARN {org.wso2.carbon.apimgt.gateway.throttling.util.KeyTemplateRetriever} - Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+TID: [-1234] [api#am#store#v1.0] [2020-02-28 21:44:08,567]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} - Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/am/store/v1.0].File[C:\WSO2\repository\deployment\server\webapps\api#am#store#v1.0.war]
+TID: [-1234] [api#identity#consent-mgt#v1.0] [2020-02-28 21:44:12,614]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} - Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/identity/consent-mgt/v1.0].File[C:\WSO2\repository\deployment\server\webapps\api#identity#consent-mgt#v1.0.war]
+TID: [-1234] [api#identity#recovery#v0.9] [2020-02-28 21:44:16,856]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} - Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/identity/recovery/v0.9].File[C:\WSO2\repository\deployment\server\webapps\api#identity#recovery#v0.9.war]
+TID: [-1234] [api#identity#user#v1.0] [2020-02-28 21:44:20,952]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} - Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/identity/user/v1.0].File[C:\WSO2\repository\deployment\server\webapps\api#identity#user#v1.0.war]
+TID: [-1234] [authenticationendpoint] [2020-02-28 21:44:23,084]  INFO {org.wso2.carbon.identity.application.authentication.endpoint.util.TenantDataManager} - EndpointConfig.properties file loaded from ./repository/conf/identity/EndpointConfig.properties
+TID: [-1234] [authenticationendpoint] [2020-02-28 21:44:23,090]  INFO {org.wso2.carbon.identity.application.authentication.endpoint.util.MutualSSLManager} - EndpointConfig.properties file loaded from ./repository/conf/identity/EndpointConfig.properties
+TID: [-1234] [authenticationendpoint] [2020-02-28 21:44:23,136]  INFO {org.wso2.carbon.identity.application.authentication.endpoint.util.EndpointConfigManager} - EndpointConfig.properties file loaded from ./repository/conf/identity/EndpointConfig.properties
+TID: [-1] [] [2020-02-28 21:44:24,707]  WARN {org.wso2.carbon.apimgt.gateway.throttling.util.KeyTemplateRetriever} - Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+TID: [-1] [] [2020-02-28 21:44:24,707]  WARN {org.wso2.carbon.apimgt.gateway.jwt.RevokedJWTTokensRetriever} - Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+TID: [-1] [] [2020-02-28 21:44:24,721]  WARN {org.wso2.carbon.apimgt.gateway.throttling.util.BlockingConditionRetriever} - Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+TID: [-1234] [authenticationendpoint] [2020-02-28 21:44:35,958]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} - Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/authenticationendpoint].File[C:\WSO2\repository\deployment\server\webapps\authenticationendpoint]
+TID: [-1] [] [2020-02-28 21:44:41,714]  WARN {org.wso2.carbon.apimgt.gateway.jwt.RevokedJWTTokensRetriever} - Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+TID: [-1] [] [2020-02-28 21:44:41,716]  WARN {org.wso2.carbon.apimgt.gateway.throttling.util.KeyTemplateRetriever} - Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+TID: [-1] [] [2020-02-28 21:44:41,736]  WARN {org.wso2.carbon.apimgt.gateway.throttling.util.BlockingConditionRetriever} - Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+TID: [-1234] [client-registration#v0.15] [2020-02-28 21:44:41,750]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} - Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/client-registration/v0.15].File[C:\WSO2\repository\deployment\server\webapps\client-registration#v0.15.war]
+TID: [-1234] [oauth2] [2020-02-28 21:44:47,271]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} - Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/oauth2].File[C:\WSO2\repository\deployment\server\webapps\oauth2.war]
+TID: [-1234] [throttle#data#v1] [2020-02-28 21:44:51,561]  INFO {org.wso2.carbon.webapp.mgt.TomcatGenericWebappsDeployer} - Deployed webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/throttle/data/v1].File[C:\WSO2\repository\deployment\server\webapps\throttle#data#v1.war]
+TID: [-1] [] [2020-02-28 21:44:57,807]  WARN {org.wso2.carbon.application.deployer.internal.AppDeployerServiceComponent} - Waiting for required OSGi services: org.wso2.carbon.application.deployer.synapse.service.SynapseAppDeployerService,org.wso2.carbon.mediation.initializer.services.SynapseEnvironmentService,
+TID: [-1] [] [2020-02-28 21:44:57,833]  WARN {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} - Waiting for required OSGi services: org.wso2.carbon.application.deployer.service.CappDeploymentService,org.wso2.carbon.server.admin.common.IServerAdmin,org.wso2.carbon.throttling.agent.ThrottlingAgent,
+TID: [-1] [] [2020-02-28 21:44:58,722]  WARN {org.wso2.carbon.apimgt.gateway.throttling.util.KeyTemplateRetriever} - Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+TID: [-1] [] [2020-02-28 21:44:58,722]  WARN {org.wso2.carbon.apimgt.gateway.jwt.RevokedJWTTokensRetriever} - Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+TID: [-1] [] [2020-02-28 21:44:58,743]  WARN {org.wso2.carbon.apimgt.gateway.throttling.util.BlockingConditionRetriever} - Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+TID: [-1234] [] [2020-02-28 21:44:59,500]  INFO {org.apache.synapse.Axis2SynapseController} - Deploying the Synapse service...
+TID: [-1234] [] [2020-02-28 21:44:59,503]  INFO {org.apache.synapse.Axis2SynapseController} - Deploying Proxy services...
+TID: [-1234] [] [2020-02-28 21:44:59,505]  INFO {org.apache.synapse.core.axis2.ProxyService} - Building Axis service for Proxy service : WorkflowCallbackService
+TID: [-1234] [] [2020-02-28 21:44:59,580]  INFO {org.apache.synapse.core.axis2.ProxyService} - Adding service WorkflowCallbackService to the Axis2 configuration
+TID: [-1234] [WorkflowCallbackService] [2020-02-28 21:44:59,584]  INFO {org.wso2.carbon.core.deployment.DeploymentInterceptor} - Deploying Axis2 service: WorkflowCallbackService {super-tenant}
+TID: [-1234] [] [2020-02-28 21:44:59,586]  INFO {org.apache.synapse.core.axis2.ProxyService} - Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+TID: [-1234] [] [2020-02-28 21:44:59,588]  INFO {org.apache.synapse.Axis2SynapseController} - Deployed Proxy service : WorkflowCallbackService
+TID: [-1234] [] [2020-02-28 21:44:59,590]  INFO {org.apache.synapse.Axis2SynapseController} - Deploying EventSources...
+TID: [-1234] [] [2020-02-28 21:44:59,721]  INFO {org.apache.synapse.inbound.InboundEndpoint} - Initializing Inbound Endpoint: WebSocketInboundEndpoint
+TID: [-1] [] [2020-02-28 21:45:00,967]  INFO {org.wso2.carbon.databridge.core.DataBridge} - user admin connected
+TID: [-1234] [] [2020-02-28 21:45:01,844]  INFO {org.wso2.carbon.inbound.endpoint.protocol.websocket.management.WebsocketEndpointManager} - Netty Listener starting on port 9099
+TID: [-1234] [] [2020-02-28 21:45:01,846]  INFO {org.apache.synapse.inbound.InboundEndpoint} - Initializing Inbound Endpoint: SecureWebSocketEP
+TID: [-1234] [] [2020-02-28 21:45:01,923]  INFO {org.wso2.carbon.inbound.endpoint.protocol.websocket.management.WebsocketEndpointManager} - Netty SSL Listener starting on port 8099
+TID: [-1234] [] [2020-02-28 21:45:01,929]  INFO {org.apache.synapse.rest.API} - Initializing API: admin--Validate-Jwt-Token:vv1.0
+TID: [-1234] [] [2020-02-28 21:45:02,035]  INFO {org.apache.synapse.rest.API} - Initializing API: admin--Georeferencia_Port_83:vv1.0
+TID: [-1234] [] [2020-02-28 21:45:02,037]  INFO {org.apache.synapse.rest.API} - Initializing API: admin--Mapa-Digital_Port_84:vv1.0
+TID: [-1234] [] [2020-02-28 21:45:02,040]  INFO {org.apache.synapse.rest.API} - Initializing API: admin--Security_Port_82:vv1.0
+TID: [-1234] [] [2020-02-28 21:45:02,043]  INFO {org.apache.synapse.rest.API} - Initializing API: admin--Accounts_Port_81:vv1.0
+TID: [-1234] [] [2020-02-28 21:45:02,045]  INFO {org.apache.synapse.rest.API} - Initializing API: _WSO2AMAuthorizeAPI_
+TID: [-1234] [] [2020-02-28 21:45:02,046]  INFO {org.apache.synapse.rest.API} - Initializing API: _WSO2AMUserInfoAPI_
+TID: [-1234] [] [2020-02-28 21:45:02,051]  INFO {org.apache.synapse.rest.API} - Initializing API: _OpenService_
+TID: [-1234] [] [2020-02-28 21:45:02,052]  INFO {org.apache.synapse.rest.API} - Initializing API: _WSO2AMRevokeAPI_
+TID: [-1234] [] [2020-02-28 21:45:02,054]  INFO {org.apache.synapse.rest.API} - Initializing API: _WSO2AMTokenAPI_
+TID: [-1234] [] [2020-02-28 21:45:02,056]  INFO {org.apache.synapse.ServerManager} - Server ready for processing...
+TID: [-1234] [] [2020-02-28 21:45:03,775]  INFO {org.wso2.carbon.inbound.endpoint.protocol.websocket.management.WebsocketEndpointManager} - Netty Listener already started on port 8099
+TID: [-1234] [] [2020-02-28 21:45:03,778]  INFO {org.wso2.carbon.inbound.endpoint.protocol.websocket.management.WebsocketEndpointManager} - Netty Listener already started on port 9099
+TID: [-1234] [] [2020-02-28 21:45:04,025]  INFO {org.wso2.carbon.andes.internal.QpidServiceComponent} - Activating Andes Message Broker Engine...
+TID: [-1234] [] [2020-02-28 21:45:05,502]  INFO {qpid.message.broker.listening} - [Broker] BRK-1002 : Starting : Listening on TCP port 5672
+TID: [-1234] [] [2020-02-28 21:45:05,521]  INFO {qpid.message.broker.listening} - [Broker] BRK-1002 : Starting : Listening on TCP/SSL port 8672
+TID: [-1234] [] [2020-02-28 21:45:05,537]  INFO {org.wso2.carbon.andes.internal.QpidServiceComponent} - AMQP Host Address : 0.0.0.0 Port : 5672
+TID: [-1234] [] [2020-02-28 21:45:05,541]  INFO {org.wso2.carbon.andes.internal.QpidServiceComponent} - Successfully connected to AMQP server on port 5672
+TID: [-1234] [] [2020-02-28 21:45:05,567]  WARN {org.wso2.carbon.andes.internal.QpidServiceComponent} - MQTT Transport is disabled as per configuration.
+TID: [-1234] [] [2020-02-28 21:45:05,576]  INFO {org.wso2.carbon.andes.internal.QpidServiceComponent} - WSO2 Message Broker is started.
+TID: [-1234] [] [2020-02-28 21:45:05,697]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSConnectionFactory} - JMS ConnectionFactory : Siddhi-JMS-Consumer initialized
+TID: [-1234] [] [2020-02-28 21:45:05,710]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSTransportHandler} - Starting jms topic consumer thread for the throttleData topic...
+TID: [-1234] [] [2020-02-28 21:45:05,713]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSTransportHandler} - Starting jms topic consumer thread for the tokenRevocation topic...
+TID: [-1234] [] [2020-02-28 21:45:08,744]  INFO {org.wso2.carbon.databridge.receiver.thrift.internal.ThriftServerStartupObserver} -  Thrift Data Receiver is disabled.
+TID: [-1234] [] [2020-02-28 21:45:08,748]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpListener} - Starting Pass-through HTTP Listener...
+TID: [-1234] [] [2020-02-28 21:45:08,779]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - Pass-through HTTP Listener started on 0:0:0:0:0:0:0:0:8280
+TID: [-1234] [] [2020-02-28 21:45:08,783]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpMultiSSLListener} - Starting Pass-through HTTPS Listener...
+TID: [-1234] [] [2020-02-28 21:45:08,790]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - Pass-through HTTPS Listener started on 0:0:0:0:0:0:0:0:8243
+TID: [-1234] [] [2020-02-28 21:45:09,289]  INFO {org.wso2.carbon.ntask.core.service.impl.TaskServiceImpl} - Task service starting in STANDALONE mode...
+TID: [-1234] [] [2020-02-28 21:45:09,417]  INFO {org.wso2.carbon.registry.eventing.internal.RegistryEventingServiceComponent} - Successfully Initialized Eventing on Registry
+TID: [-1234] [] [2020-02-28 21:45:10,079]  INFO {org.wso2.carbon.core.init.JMXServerManager} - JMX Service URL  : service:jmx:rmi://localhost:11111/jndi/rmi://localhost:9999/jmxrmi
+TID: [-1234] [] [2020-02-28 21:45:10,101]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} - Server           :  WSO2 API Manager-3.0.0
+TID: [-1234] [] [2020-02-28 21:45:10,105]  INFO {org.wso2.carbon.core.internal.StartupFinalizerServiceComponent} - WSO2 Carbon started in 350 sec
+TID: [-1234] [] [2020-02-28 21:45:11,757]  INFO {org.wso2.carbon.ui.internal.CarbonUIServiceComponent} - Mgt Console URL  : https://localhost:9443/carbon/
+TID: [-1234] [] [2020-02-28 21:45:11,765]  INFO {org.wso2.carbon.ui.internal.CarbonUIServiceComponent} - API Developer Portal Default Context : https://localhost:9443/devportal
+TID: [-1234] [] [2020-02-28 21:45:11,784]  INFO {org.wso2.carbon.ui.internal.CarbonUIServiceComponent} - API Publisher Default Context : https://localhost:9443/publisher
+TID: [-1234] [] [2020-02-28 21:45:12,131]  INFO {org.wso2.carbon.event.receiver.core.EventReceiverDeployer} - Event Receiver undeployed successfully: throttleEventReceiver.xml
+TID: [-1234] [] [2020-02-28 21:45:12,146]  INFO {org.wso2.carbon.event.input.adapter.core.internal.InputAdapterRuntime} - Connecting receiver throttleEventReceiver
+TID: [-1234] [] [2020-02-28 21:45:12,155]  INFO {org.wso2.carbon.event.stream.core.internal.EventJunction} - Producer added to the junction. Stream:org.wso2.throttle.request.stream:1.0.0
+TID: [-1234] [] [2020-02-28 21:45:12,161]  INFO {org.wso2.carbon.event.receiver.core.EventReceiverDeployer} - Event Receiver configuration successfully deployed and in active state: throttleEventReceiver
+TID: [-1] [] [2020-02-28 21:45:12,417]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSListener} - Connection attempt: 1 for JMS Provider for listener: Siddhi-JMS-Consumer#throttleData was successful!
+TID: [-1] [] [2020-02-28 21:45:12,447]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSTaskManager} - Task manager for Siddhi-JMS-Consumer [re-]initialized
+TID: [-1] [] [2020-02-28 21:45:12,490]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSListener} - Connection attempt: 1 for JMS Provider for listener: Siddhi-JMS-Consumer#tokenRevocation was successful!
+TID: [-1] [] [2020-02-28 21:45:12,556]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSTaskManager} - Task manager for Siddhi-JMS-Consumer [re-]initialized
+TID: [-1] [] [2020-02-28 21:45:15,518]  WARN {org.wso2.carbon.apimgt.jms.listener.utils.JMSListener} - Polling tasks on destination : throttleData of type topic for listener Siddhi-JMS-Consumer#throttleData have not yet started after 3 seconds ..
+TID: [-1] [] [2020-02-28 21:45:15,610]  WARN {org.wso2.carbon.apimgt.jms.listener.utils.JMSListener} - Polling tasks on destination : tokenRevocation of type topic for listener Siddhi-JMS-Consumer#tokenRevocation have not yet started after 3 seconds ..
+TID: [-1] [] [2020-02-28 21:45:19,411]  WARN {org.wso2.carbon.apimgt.jms.listener.utils.JMSUtils} - Cannot locate destination : throttleData
+TID: [-1] [] [2020-02-28 21:45:19,408]  WARN {org.wso2.carbon.apimgt.jms.listener.utils.JMSUtils} - Cannot locate destination : tokenRevocation
+TID: [-1234] [] [2020-02-28 21:48:23,627]  INFO {org.wso2.carbon.identity.oauth.config.OAuthServerConfiguration} - An instance of org.wso2.carbon.apimgt.keymgt.issuers.APIMTokenIssuer is created for Identity OAuth token generation.
+TID: [-1234] [publisher] [2020-02-28 21:48:24,261] ERROR {JAGGERY.services.refresh.refresh:jag} - {}
+TID: [-1234] [api/am/publisher/v1.0] [2020-02-28 21:48:24,509] ERROR {org.wso2.carbon.apimgt.impl.AMDefaultKeyManagerImpl} - Invalid OAuth Token : Invalid Access Token. ACTIVE access token is not found.
+TID: [-1234] [api/am/publisher/v1.0] [2020-02-28 21:48:24,517] ERROR {org.wso2.carbon.apimgt.rest.api.util.impl.WebAppAuthenticatorImpl} - Provided access token is invalid
+TID: [-1] [] [2020-02-28 21:54:02,259]  WARN {org.apache.synapse.transport.http.access.AccessConfiguration} - Error loading properties from file: access-log.properties
+TID: [-1] [] [2020-02-28 21:54:02,268]  WARN {org.apache.synapse.commons.util.MiscellaneousUtil} - Error loading properties from a file at from the System defined location: access-log.properties
+TID: [-1] [] [2020-02-28 21:54:02,273]  WARN {org.apache.synapse.commons.util.MiscellaneousUtil} - Error loading properties from a file at from the System defined location: access-log.properties
+TID: [-1234] [] [2020-02-28 21:54:02,896]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : gov:/apimgt/statistics/ga-config.xml was added to the Synapse configuration successfully
+TID: [-1234] [] [2020-02-28 21:54:02,978]  INFO {org.apache.synapse.core.axis2.TimeoutHandler} - This engine will expire all callbacks after GLOBAL_TIMEOUT: 120 seconds, irrespective of the timeout action, after the specified or optional timeout
+TID: [-1234] [api/am/publisher/v1.0] [2020-02-28 22:09:56,674] ERROR {org.wso2.carbon.apimgt.rest.api.publisher.v1.impl.ApisApiServiceImpl} - Error occurred while sending the HEAD request to the given endpoint url: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.commons.httpclient.protocol.ReflectionSocketFactory.createSocket(ReflectionSocketFactory.java:140)
+	at org.apache.commons.httpclient.protocol.DefaultProtocolSocketFactory.createSocket(DefaultProtocolSocketFactory.java:125)
+	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:323)
+	at org.wso2.carbon.apimgt.rest.api.publisher.v1.impl.ApisApiServiceImpl.sendHttpHEADRequest(ApisApiServiceImpl.java:3719)
+	at org.wso2.carbon.apimgt.rest.api.publisher.v1.impl.ApisApiServiceImpl.validateEndpoint(ApisApiServiceImpl.java:2737)
+	at org.wso2.carbon.apimgt.rest.api.publisher.v1.ApisApi.validateEndpoint(ApisApi.java:1027)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:193)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103)
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPost(AbstractHTTPServlet.java:220)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.wso2.carbon.identity.context.rewrite.valve.TenantContextRewriteValve.invoke(TenantContextRewriteValve.java:80)
+	at org.wso2.carbon.identity.authz.valve.AuthorizationValve.invoke(AuthorizationValve.java:100)
+	at org.wso2.carbon.identity.auth.valve.AuthenticationValve.invoke(AuthenticationValve.java:74)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:99)
+	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:49)
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:62)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:146)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
+	at org.wso2.carbon.tomcat.ext.valves.RequestCorrelationIdValve.invoke(RequestCorrelationIdValve.java:116)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+TID: [-1234] [AuthenticationAdmin] [2020-02-28 22:10:40,592]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:10:40,591-0500]
+TID: [-1234] [AuthenticationAdmin] [2020-02-28 22:10:42,326]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:10:42,326-0500]
+TID: [-1234] [APILocalEntryAdmin] [2020-02-28 22:10:42,941]  WARN {org.wso2.carbon.localentry.service.LocalEntryAdmin} - No entry exists by the key : 85885425-2230-48bf-a1a7-5e441c365e17
+TID: [-1234] [APILocalEntryAdmin] [2020-02-28 22:10:43,081]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : 85885425-2230-48bf-a1a7-5e441c365e17 was added to the Synapse configuration successfully
+TID: [-1234] [APIGatewayAdmin] [2020-02-28 22:10:45,394]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : admin--Carga_Excel:vv1.0 was added to the Synapse configuration successfully
+TID: [-1234] [APIGatewayAdmin] [2020-02-28 22:10:45,396]  INFO {org.apache.synapse.rest.API} - Initializing API: admin--Carga_Excel:vv1.0
+TID: [-1234] [APIGatewayAdmin] [2020-02-28 22:10:48,080]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Carga_Excel--vv1.0_APIproductionEndpoint was added to the Synapse configuration successfully
+TID: [-1234] [APIGatewayAdmin] [2020-02-28 22:10:48,262]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Carga_Excel--vv1.0_APIsandboxEndpoint was added to the Synapse configuration successfully
+TID: [-1234] [AuthenticationAdmin] [2020-02-28 22:10:48,498]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:10:48,498-0500]
+TID: [-1234] [AuthenticationAdmin] [2020-02-28 22:12:10,219]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:12:10,219-0500]
+TID: [-1234] [AuthenticationAdmin] [2020-02-28 22:12:12,193]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:12:12,192-0500]
+TID: [-1234] [AuthenticationAdmin] [2020-02-28 22:12:12,417]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:12:12,417-0500]
+TID: [-1234] [AuthenticationAdmin] [2020-02-28 22:12:12,614]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:12:12,614-0500]
+TID: [-1234] [APILocalEntryAdmin] [2020-02-28 22:12:12,662]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : 85885425-2230-48bf-a1a7-5e441c365e17 was removed from the Synapse configuration successfully
+TID: [-1234] [APILocalEntryAdmin] [2020-02-28 22:12:12,692]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : 85885425-2230-48bf-a1a7-5e441c365e17 was added to the Synapse configuration successfully
+TID: [-1234] [APIGatewayAdmin] [2020-02-28 22:12:12,794]  INFO {org.apache.synapse.rest.API} - Destroying API: admin--Carga_Excel:vv1.0
+TID: [-1234] [APIGatewayAdmin] [2020-02-28 22:12:12,822]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : admin--Carga_Excel:vv1.0 was removed from the Synapse configuration successfully
+TID: [-1234] [APIGatewayAdmin] [2020-02-28 22:12:12,824]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : admin--Carga_Excel:vv1.0 was added to the Synapse configuration successfully
+TID: [-1234] [APIGatewayAdmin] [2020-02-28 22:12:12,826]  INFO {org.apache.synapse.rest.API} - Initializing API: admin--Carga_Excel:vv1.0
+TID: [-1234] [APIGatewayAdmin] [2020-02-28 22:12:12,908]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Carga_Excel--vv1.0_APIproductionEndpoint was added to the Synapse configuration successfully
+TID: [-1234] [APIGatewayAdmin] [2020-02-28 22:12:12,948]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Carga_Excel--vv1.0_APIsandboxEndpoint was added to the Synapse configuration successfully
+TID: [-1234] [AuthenticationAdmin] [2020-02-28 22:12:13,092]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:12:13,092-0500]
+TID: [-1234] [AuthenticationAdmin] [2020-02-28 22:12:13,594]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:12:13,594-0500]
+TID: [-1234] [AuthenticationAdmin] [2020-02-28 22:14:00,330]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:14:00,330-0500]
+TID: [-1234] [AuthenticationAdmin] [2020-02-28 22:14:00,938]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:14:00,938-0500]
+TID: [-1234] [AuthenticationAdmin] [2020-02-28 22:14:01,056]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:14:01,056-0500]
+TID: [-1234] [AuthenticationAdmin] [2020-02-28 22:14:01,226]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:14:01,226-0500]
+TID: [-1234] [APILocalEntryAdmin] [2020-02-28 22:14:01,263]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : 85885425-2230-48bf-a1a7-5e441c365e17 was removed from the Synapse configuration successfully
+TID: [-1234] [APILocalEntryAdmin] [2020-02-28 22:14:01,302]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : 85885425-2230-48bf-a1a7-5e441c365e17 was added to the Synapse configuration successfully
+TID: [-1234] [APIGatewayAdmin] [2020-02-28 22:14:01,375]  INFO {org.apache.synapse.rest.API} - Destroying API: admin--Carga_Excel:vv1.0
+TID: [-1234] [APIGatewayAdmin] [2020-02-28 22:14:01,390]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : admin--Carga_Excel:vv1.0 was removed from the Synapse configuration successfully
+TID: [-1234] [APIGatewayAdmin] [2020-02-28 22:14:01,393]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : admin--Carga_Excel:vv1.0 was added to the Synapse configuration successfully
+TID: [-1234] [APIGatewayAdmin] [2020-02-28 22:14:01,402]  INFO {org.apache.synapse.rest.API} - Initializing API: admin--Carga_Excel:vv1.0
+TID: [-1234] [APIGatewayAdmin] [2020-02-28 22:14:01,476]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Carga_Excel--vv1.0_APIproductionEndpoint was added to the Synapse configuration successfully
+TID: [-1234] [APIGatewayAdmin] [2020-02-28 22:14:01,521]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Carga_Excel--vv1.0_APIsandboxEndpoint was added to the Synapse configuration successfully
+TID: [-1234] [AuthenticationAdmin] [2020-02-28 22:14:01,678]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:14:01,678-0500]
+TID: [-1234] [AuthenticationAdmin] [2020-02-28 22:14:01,939]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:14:01,939-0500]
+TID: [-1234] [] [2020-02-28 23:00:51,505] ERROR {org.wso2.carbon.apimgt.gateway.handlers.security.jwt.JWTValidator} - JWT token is expired
+TID: [-1234] [] [2020-02-28 23:00:51,515]  WARN {org.wso2.carbon.apimgt.gateway.handlers.security.APIAuthenticationHandler} - API authentication failure due to Access Token Expired

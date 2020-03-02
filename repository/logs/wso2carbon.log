@@ -1,579 +1,109 @@
-TID: [-1234] [] [2020-02-27 00:16:00,999] ERROR {org.wso2.carbon.apimgt.gateway.handlers.security.jwt.JWTValidator} - JWT token is expired
-TID: [-1234] [] [2020-02-27 00:16:01,039]  WARN {org.wso2.carbon.apimgt.gateway.handlers.security.APIAuthenticationHandler} - API authentication failure due to Access Token Expired
-TID: [-1] [] [2020-02-27 00:16:21,123]  WARN {org.apache.synapse.commons.util.MiscellaneousUtil} - Error loading properties from a file at from the System defined location: access-log.properties
-TID: [-1234] [publisher] [2020-02-27 01:15:43,742] ERROR {JAGGERY.services.refresh.refresh:jag} - {}
-TID: [-1234] [api/am/publisher/v1.0] [2020-02-27 01:15:43,761] ERROR {org.wso2.carbon.apimgt.impl.AMDefaultKeyManagerImpl} - Invalid OAuth Token : Invalid Access Token. ACTIVE access token is not found.
-TID: [-1234] [api/am/publisher/v1.0] [2020-02-27 01:15:43,762] ERROR {org.wso2.carbon.apimgt.rest.api.util.impl.WebAppAuthenticatorImpl} - Provided access token is invalid
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:19:33,827]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:19:33,827-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:19:34,067]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:19:34,067-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:19:34,186]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:19:34,186-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:19:34,353]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:19:34,353-0500]
-TID: [-1234] [APILocalEntryAdmin] [2020-02-27 01:19:34,376]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : 2a3811af-0ada-4c74-ac63-c65d42cf82ca was removed from the Synapse configuration successfully
-TID: [-1234] [APILocalEntryAdmin] [2020-02-27 01:19:34,384]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : 2a3811af-0ada-4c74-ac63-c65d42cf82ca was added to the Synapse configuration successfully
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:19:34,505]  INFO {org.apache.synapse.rest.API} - Destroying API: admin--Georeferencia_Port_83:vv1.0
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:19:34,527]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : admin--Georeferencia_Port_83:vv1.0 was removed from the Synapse configuration successfully
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:19:34,529]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : admin--Georeferencia_Port_83:vv1.0 was added to the Synapse configuration successfully
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:19:34,530]  INFO {org.apache.synapse.rest.API} - Initializing API: admin--Georeferencia_Port_83:vv1.0
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:19:34,572]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint was added to the Synapse configuration successfully
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:19:34,682]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Georeferencia_Port_83--vv1.0_APIsandboxEndpoint was added to the Synapse configuration successfully
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:19:34,768]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:19:34,768-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:19:35,019]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:19:35,019-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:19:35,034]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:19:35,034-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:19:35,047]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:19:35,047-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:19:35,058]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:19:35,058-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:19:35,075]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:19:35,075-0500]
-TID: [-1] [] [2020-02-27 01:28:35,812]  WARN {org.apache.synapse.transport.passthru.ConnectCallback} - Connection refused or failed for : localhost/127.0.0.1:83
-TID: [-1234] [] [2020-02-27 01:28:35,813]  WARN {org.apache.synapse.endpoints.EndpointContext} - Endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://localhost:83/api/v1 will be marked SUSPENDED as it failed
-TID: [-1234] [] [2020-02-27 01:28:35,815]  WARN {org.apache.synapse.endpoints.EndpointContext} - Suspending endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://localhost:83/api/v1 - current suspend duration is : 30000ms - Next retry after : Thu Feb 27 01:29:05 COT 2020
-TID: [-1234] [] [2020-02-27 01:28:35,816]  INFO {org.apache.synapse.mediators.builtin.LogMediator} - STATUS = Executing default 'fault' sequence, ERROR_CODE = 101503, ERROR_MESSAGE = Error connecting to the back end
-TID: [-1] [] [2020-02-27 01:41:34,595]  INFO {org.apache.synapse.transport.passthru.SourceHandler} - Writer null when calling informWriterError
-TID: [-1] [] [2020-02-27 01:41:34,595]  WARN {org.apache.synapse.transport.passthru.TargetHandler} - Connection time out after while in state : REQUEST_DONE Socket Timeout : 180000 correlation_id : null Remote Address : localhost/127.0.0.1:81
-TID: [-1] [] [2020-02-27 01:40:48,774]  INFO {org.apache.synapse.endpoints.EndpointContext} - Endpoint : Accounts_Port_81--vv1.0_APIproductionEndpoint with address http://localhost:81/api/v1 has been marked for SUSPENSION, but no further retries remain. Thus it will be SUSPENDED.
-TID: [-1234] [] [2020-02-27 01:29:28,123]  INFO {org.apache.synapse.endpoints.EndpointContext} - Endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://localhost:83/api/v1 currently SUSPENDED will now be marked active since it processed its last message
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:39:24,949]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:39:24,949-0500]
-TID: [-1] [] [2020-02-27 01:32:27,966]  INFO {org.apache.synapse.transport.passthru.SourceHandler} - Writer null when calling informWriterError
-TID: [-1] [] [2020-02-27 01:41:37,264]  WARN {org.apache.synapse.endpoints.EndpointContext} - Suspending endpoint : Accounts_Port_81--vv1.0_APIproductionEndpoint with address http://localhost:81/api/v1 - current suspend duration is : 30000ms - Next retry after : Thu Feb 27 01:42:07 COT 2020
-TID: [-1234] [api/am/publisher/v1.0] [2020-02-27 01:39:54,923]  INFO {org.apache.axis2.transport.http.HTTPSender} - Unable to sendViaPost to url[https://localhost:9443/services/AuthenticationAdmin] java.net.SocketTimeoutException: Read timed out
-	at java.net.SocketInputStream.socketRead0(Native Method)
-	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
-	at java.net.SocketInputStream.read(SocketInputStream.java:171)
-	at java.net.SocketInputStream.read(SocketInputStream.java:141)
-	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
-	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
-	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:975)
-	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:933)
-	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
-	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:265)
-	at org.apache.commons.httpclient.HttpParser.readRawLine(HttpParser.java:78)
-	at org.apache.commons.httpclient.HttpParser.readLine(HttpParser.java:106)
-	at org.apache.commons.httpclient.HttpConnection.readLine(HttpConnection.java:1116)
-	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.readLine(MultiThreadedHttpConnectionManager.java:1413)
-	at org.apache.commons.httpclient.HttpMethodBase.readStatusLine(HttpMethodBase.java:1973)
-	at org.apache.commons.httpclient.HttpMethodBase.readResponse(HttpMethodBase.java:1735)
-	at org.apache.commons.httpclient.HttpMethodBase.execute(HttpMethodBase.java:1098)
-	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:398)
-	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
-	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
-	at org.apache.axis2.transport.http.AbstractHTTPSender.executeMethod(AbstractHTTPSender.java:712)
-	at org.apache.axis2.transport.http.HTTPSender.sendViaPost(HTTPSender.java:223)
-	at org.apache.axis2.transport.http.HTTPSender.send(HTTPSender.java:82)
-	at org.apache.axis2.transport.http.CommonsHTTPTransportSender.writeMessageWithCommons(CommonsHTTPTransportSender.java:459)
-	at org.apache.axis2.transport.http.CommonsHTTPTransportSender.invoke(CommonsHTTPTransportSender.java:286)
-	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
-	at org.apache.axis2.description.OutInAxisOperationClient.send(OutInAxisOperation.java:442)
-	at org.apache.axis2.description.OutInAxisOperationClient.executeImpl(OutInAxisOperation.java:228)
-	at org.apache.axis2.client.OperationClient.execute(OperationClient.java:149)
-	at org.wso2.carbon.authenticator.stub.AuthenticationAdminStub.login(AuthenticationAdminStub.java:1343)
-	at org.wso2.carbon.apimgt.impl.utils.AbstractAPIGatewayAdminClient.login_aroundBody2(AbstractAPIGatewayAdminClient.java:87)
-	at org.wso2.carbon.apimgt.impl.utils.AbstractAPIGatewayAdminClient.login(AbstractAPIGatewayAdminClient.java:66)
-	at org.wso2.carbon.apimgt.impl.utils.AbstractAPIGatewayAdminClient.setup_aroundBody0(AbstractAPIGatewayAdminClient.java:50)
-	at org.wso2.carbon.apimgt.impl.utils.AbstractAPIGatewayAdminClient.setup(AbstractAPIGatewayAdminClient.java:49)
-	at org.wso2.carbon.apimgt.impl.utils.APIGatewayAdminClient.<init>(APIGatewayAdminClient.java:57)
-	at org.wso2.carbon.apimgt.impl.APIGatewayManager.isAPIPublished_aroundBody20(APIGatewayManager.java:844)
-	at org.wso2.carbon.apimgt.impl.APIGatewayManager.isAPIPublished(APIGatewayManager.java:841)
-	at org.wso2.carbon.apimgt.impl.APIProviderImpl.updateApiArtifact_aroundBody70(APIProviderImpl.java:1311)
-	at org.wso2.carbon.apimgt.impl.APIProviderImpl.updateApiArtifact(APIProviderImpl.java:1290)
-	at org.wso2.carbon.apimgt.impl.APIProviderImpl.updateAPI_aroundBody66(APIProviderImpl.java:1125)
-	at org.wso2.carbon.apimgt.impl.APIProviderImpl.updateAPI(APIProviderImpl.java:1056)
-	at org.wso2.carbon.apimgt.impl.UserAwareAPIProvider.manageAPI_aroundBody12(UserAwareAPIProvider.java:118)
-	at org.wso2.carbon.apimgt.impl.UserAwareAPIProvider.manageAPI(UserAwareAPIProvider.java:107)
-	at org.wso2.carbon.apimgt.rest.api.publisher.v1.impl.ApisApiServiceImpl.apisApiIdPut(ApisApiServiceImpl.java:651)
-	at org.wso2.carbon.apimgt.rest.api.publisher.v1.ApisApi.apisApiIdPut(ApisApi.java:583)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)
-	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
-	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:193)
-	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103)
-	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
-	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
-	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
-	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
-	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)
-	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)
-	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)
-	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)
-	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216)
-	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301)
-	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPut(AbstractHTTPServlet.java:237)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:663)
-	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
-	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
-	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
-	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
-	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
-	at org.wso2.carbon.identity.context.rewrite.valve.TenantContextRewriteValve.invoke(TenantContextRewriteValve.java:80)
-	at org.wso2.carbon.identity.authz.valve.AuthorizationValve.invoke(AuthorizationValve.java:100)
-	at org.wso2.carbon.identity.auth.valve.AuthenticationValve.invoke(AuthenticationValve.java:74)
-	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:99)
-	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:49)
-	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:62)
-	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:146)
-	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
-	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
-	at org.wso2.carbon.tomcat.ext.valves.RequestCorrelationIdValve.invoke(RequestCorrelationIdValve.java:116)
-	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
-	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
-	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
-	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
-	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
-	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
-	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
-	at java.lang.Thread.run(Thread.java:748)
-
-TID: [-1] [] [2020-02-27 01:41:37,270]  INFO {org.apache.synapse.mediators.builtin.LogMediator} - STATUS = Executing default 'fault' sequence, ERROR_CODE = 101504, ERROR_MESSAGE = Send timeout
-TID: [-1] [] [2020-02-27 01:41:37,264]  WARN {org.apache.synapse.transport.passthru.SourceHandler} - Connection time out after request is read: http-incoming-2463 Socket Timeout : 180000 Remote Address : /0:0:0:0:0:0:0:1:61944
-TID: [-1] [] [2020-02-27 01:41:37,270]  WARN {org.apache.synapse.transport.passthru.SourceHandler} - Connection time out after request is read: http-incoming-2457 Socket Timeout : 180000 Remote Address : /0:0:0:0:0:0:0:1:61298
-TID: [-1234] [api/am/publisher/v1.0] [2020-02-27 01:41:37,273] ERROR {org.wso2.carbon.apimgt.impl.APIGatewayManager} - Error occurred when check api is published on gatewayProduction and Sandbox org.apache.axis2.AxisFault: Error while contacting the authentication admin services
-	at org.wso2.carbon.apimgt.impl.utils.AbstractAPIGatewayAdminClient.login_aroundBody2(AbstractAPIGatewayAdminClient.java:92)
-	at org.wso2.carbon.apimgt.impl.utils.AbstractAPIGatewayAdminClient.login(AbstractAPIGatewayAdminClient.java:66)
-	at org.wso2.carbon.apimgt.impl.utils.AbstractAPIGatewayAdminClient.setup_aroundBody0(AbstractAPIGatewayAdminClient.java:50)
-	at org.wso2.carbon.apimgt.impl.utils.AbstractAPIGatewayAdminClient.setup(AbstractAPIGatewayAdminClient.java:49)
-	at org.wso2.carbon.apimgt.impl.utils.APIGatewayAdminClient.<init>(APIGatewayAdminClient.java:57)
-	at org.wso2.carbon.apimgt.impl.APIGatewayManager.isAPIPublished_aroundBody20(APIGatewayManager.java:844)
-	at org.wso2.carbon.apimgt.impl.APIGatewayManager.isAPIPublished(APIGatewayManager.java:841)
-	at org.wso2.carbon.apimgt.impl.APIProviderImpl.updateApiArtifact_aroundBody70(APIProviderImpl.java:1311)
-	at org.wso2.carbon.apimgt.impl.APIProviderImpl.updateApiArtifact(APIProviderImpl.java:1290)
-	at org.wso2.carbon.apimgt.impl.APIProviderImpl.updateAPI_aroundBody66(APIProviderImpl.java:1125)
-	at org.wso2.carbon.apimgt.impl.APIProviderImpl.updateAPI(APIProviderImpl.java:1056)
-	at org.wso2.carbon.apimgt.impl.UserAwareAPIProvider.manageAPI_aroundBody12(UserAwareAPIProvider.java:118)
-	at org.wso2.carbon.apimgt.impl.UserAwareAPIProvider.manageAPI(UserAwareAPIProvider.java:107)
-	at org.wso2.carbon.apimgt.rest.api.publisher.v1.impl.ApisApiServiceImpl.apisApiIdPut(ApisApiServiceImpl.java:651)
-	at org.wso2.carbon.apimgt.rest.api.publisher.v1.ApisApi.apisApiIdPut(ApisApi.java:583)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)
-	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
-	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:193)
-	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103)
-	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
-	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
-	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
-	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
-	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)
-	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)
-	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)
-	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)
-	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216)
-	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301)
-	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPut(AbstractHTTPServlet.java:237)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:663)
-	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
-	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
-	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
-	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
-	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
-	at org.wso2.carbon.identity.context.rewrite.valve.TenantContextRewriteValve.invoke(TenantContextRewriteValve.java:80)
-	at org.wso2.carbon.identity.authz.valve.AuthorizationValve.invoke(AuthorizationValve.java:100)
-	at org.wso2.carbon.identity.auth.valve.AuthenticationValve.invoke(AuthenticationValve.java:74)
-	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:99)
-	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:49)
-	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:62)
-	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:146)
-	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
-	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
-	at org.wso2.carbon.tomcat.ext.valves.RequestCorrelationIdValve.invoke(RequestCorrelationIdValve.java:116)
-	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
-	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
-	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
-	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
-	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
-	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
-	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
-	at java.lang.Thread.run(Thread.java:748)
-Caused by: org.apache.axis2.AxisFault: Read timed out
-	at org.apache.axis2.AxisFault.makeFault(AxisFault.java:430)
-	at org.apache.axis2.transport.http.HTTPSender.sendViaPost(HTTPSender.java:227)
-	at org.apache.axis2.transport.http.HTTPSender.send(HTTPSender.java:82)
-	at org.apache.axis2.transport.http.CommonsHTTPTransportSender.writeMessageWithCommons(CommonsHTTPTransportSender.java:459)
-	at org.apache.axis2.transport.http.CommonsHTTPTransportSender.invoke(CommonsHTTPTransportSender.java:286)
-	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
-	at org.apache.axis2.description.OutInAxisOperationClient.send(OutInAxisOperation.java:442)
-	at org.apache.axis2.description.OutInAxisOperationClient.executeImpl(OutInAxisOperation.java:228)
-	at org.apache.axis2.client.OperationClient.execute(OperationClient.java:149)
-	at org.wso2.carbon.authenticator.stub.AuthenticationAdminStub.login(AuthenticationAdminStub.java:1343)
-	at org.wso2.carbon.apimgt.impl.utils.AbstractAPIGatewayAdminClient.login_aroundBody2(AbstractAPIGatewayAdminClient.java:87)
-	... 66 more
-Caused by: java.net.SocketTimeoutException: Read timed out
-	at java.net.SocketInputStream.socketRead0(Native Method)
-	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
-	at java.net.SocketInputStream.read(SocketInputStream.java:171)
-	at java.net.SocketInputStream.read(SocketInputStream.java:141)
-	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
-	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
-	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:975)
-	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:933)
-	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
-	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:265)
-	at org.apache.commons.httpclient.HttpParser.readRawLine(HttpParser.java:78)
-	at org.apache.commons.httpclient.HttpParser.readLine(HttpParser.java:106)
-	at org.apache.commons.httpclient.HttpConnection.readLine(HttpConnection.java:1116)
-	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.readLine(MultiThreadedHttpConnectionManager.java:1413)
-	at org.apache.commons.httpclient.HttpMethodBase.readStatusLine(HttpMethodBase.java:1973)
-	at org.apache.commons.httpclient.HttpMethodBase.readResponse(HttpMethodBase.java:1735)
-	at org.apache.commons.httpclient.HttpMethodBase.execute(HttpMethodBase.java:1098)
-	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:398)
-	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
-	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
-	at org.apache.axis2.transport.http.AbstractHTTPSender.executeMethod(AbstractHTTPSender.java:712)
-	at org.apache.axis2.transport.http.HTTPSender.sendViaPost(HTTPSender.java:223)
-	... 75 more
-
-TID: [-1] [] [2020-02-27 01:41:37,395] ERROR {org.apache.synapse.transport.passthru.SourceHandler} - I/O error: Se ha forzado la interrupción de una conexión existente por el host remoto java.io.IOException: Se ha forzado la interrupción de una conexión existente por el host remoto
-	at sun.nio.ch.SocketDispatcher.read0(Native Method)
-	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
-	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
-	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
-	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
-	at org.apache.http.impl.nio.reactor.SessionInputBufferImpl.fill(SessionInputBufferImpl.java:164)
-	at org.apache.http.impl.nio.codecs.AbstractMessageParser.fillBuffer(AbstractMessageParser.java:136)
-	at org.apache.synapse.transport.http.conn.LoggingNHttpServerConnection$LoggingNHttpMessageParser.fillBuffer(LoggingNHttpServerConnection.java:403)
-	at org.apache.http.impl.nio.DefaultNHttpServerConnection.consumeInput(DefaultNHttpServerConnection.java:261)
-	at org.apache.synapse.transport.http.conn.LoggingNHttpServerConnection.consumeInput(LoggingNHttpServerConnection.java:114)
-	at org.apache.synapse.transport.passthru.ServerIODispatch.onInputReady(ServerIODispatch.java:82)
-	at org.apache.synapse.transport.passthru.ServerIODispatch.onInputReady(ServerIODispatch.java:39)
-	at org.apache.http.impl.nio.reactor.AbstractIODispatch.inputReady(AbstractIODispatch.java:113)
-	at org.apache.http.impl.nio.reactor.BaseIOReactor.readable(BaseIOReactor.java:159)
-	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvent(AbstractIOReactor.java:338)
-	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvents(AbstractIOReactor.java:316)
-	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:277)
-	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:105)
-	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:586)
-	at java.lang.Thread.run(Thread.java:748)
-
-TID: [-1] [] [2020-02-27 01:41:37,594]  WARN {org.apache.synapse.transport.passthru.PassThroughHttpSender} - Trying to submit a response to an already closed connection : http-incoming-2463
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:41:37,276] ERROR {org.apache.axis2.transport.http.AxisServlet} - java.io.IOException: Se ha anulado una conexión establecida por el software en su equipo host. org.apache.catalina.connector.ClientAbortException: java.io.IOException: Se ha anulado una conexión establecida por el software en su equipo host.
-	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:299)
-	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:262)
-	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:118)
-	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:141)
-	at org.apache.axis2.transport.http.AxisServlet.doPost(AxisServlet.java:183)
-	at org.wso2.carbon.core.transports.CarbonServlet.doPost(CarbonServlet.java:238)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
-	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61)
-	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128)
-	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
-	at org.wso2.carbon.tomcat.ext.servlet.DelegationServlet.service(DelegationServlet.java:68)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.owasp.csrfguard.CsrfGuardFilter.doFilter(CsrfGuardFilter.java:72)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.wso2.carbon.tomcat.ext.filter.CharacterSetFilter.doFilter(CharacterSetFilter.java:65)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
-	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
-	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
-	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
-	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
-	at org.wso2.carbon.identity.context.rewrite.valve.TenantContextRewriteValve.invoke(TenantContextRewriteValve.java:80)
-	at org.wso2.carbon.identity.authz.valve.AuthorizationValve.invoke(AuthorizationValve.java:100)
-	at org.wso2.carbon.identity.auth.valve.AuthenticationValve.invoke(AuthenticationValve.java:74)
-	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:99)
-	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:49)
-	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:62)
-	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:146)
-	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
-	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
-	at org.wso2.carbon.tomcat.ext.valves.RequestCorrelationIdValve.invoke(RequestCorrelationIdValve.java:116)
-	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
-	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
-	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
-	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
-	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
-	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
-	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
-	at java.lang.Thread.run(Thread.java:748)
-Caused by: java.io.IOException: Se ha anulado una conexión establecida por el software en su equipo host.
-	at sun.nio.ch.SocketDispatcher.write0(Native Method)
-	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51)
-	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
-	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
-	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:471)
-	at org.apache.tomcat.util.net.SecureNioChannel.write(SecureNioChannel.java:787)
-	at org.apache.tomcat.util.net.NioBlockingSelector.write(NioBlockingSelector.java:101)
-	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:152)
-	at org.apache.tomcat.util.net.SecureNioChannel.flush(SecureNioChannel.java:131)
-	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.doWrite(NioEndpoint.java:1265)
-	at org.apache.tomcat.util.net.SocketWrapperBase.doWrite(SocketWrapperBase.java:793)
-	at org.apache.tomcat.util.net.SocketWrapperBase.flushBlocking(SocketWrapperBase.java:746)
-	at org.apache.tomcat.util.net.SocketWrapperBase.flush(SocketWrapperBase.java:736)
-	at org.apache.coyote.http11.Http11OutputBuffer$SocketOutputBuffer.flush(Http11OutputBuffer.java:564)
-	at org.apache.coyote.http11.filters.ChunkedOutputFilter.flush(ChunkedOutputFilter.java:157)
-	at org.apache.coyote.http11.Http11OutputBuffer.flush(Http11OutputBuffer.java:217)
-	at org.apache.coyote.http11.Http11Processor.flush(Http11Processor.java:1150)
-	at org.apache.coyote.AbstractProcessor.action(AbstractProcessor.java:394)
-	at org.apache.coyote.Response.action(Response.java:209)
-	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:295)
-	... 55 more
-
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:41:37,871] ERROR {org.apache.synapse.transport.passthru.PassThroughHttpSSLSender} - IO Error sending response message org.apache.axis2.AxisFault: java.io.IOException: Se ha anulado una conexión establecida por el software en su equipo host.
-	at org.apache.axis2.AxisFault.makeFault(AxisFault.java:430)
-	at org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:78)
-	at org.apache.synapse.transport.passthru.PassThroughHttpSender.sendUsingOutputStream(PassThroughHttpSender.java:328)
-	at org.apache.synapse.transport.passthru.PassThroughHttpSender.invoke(PassThroughHttpSender.java:292)
-	at org.apache.axis2.engine.AxisEngine.sendFault(AxisEngine.java:525)
-	at org.apache.axis2.transport.http.AxisServlet.handleFault(AxisServlet.java:434)
-	at org.apache.axis2.transport.http.AxisServlet.doPost(AxisServlet.java:217)
-	at org.wso2.carbon.core.transports.CarbonServlet.doPost(CarbonServlet.java:238)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
-	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61)
-	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128)
-	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
-	at org.wso2.carbon.tomcat.ext.servlet.DelegationServlet.service(DelegationServlet.java:68)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.owasp.csrfguard.CsrfGuardFilter.doFilter(CsrfGuardFilter.java:72)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.wso2.carbon.tomcat.ext.filter.CharacterSetFilter.doFilter(CharacterSetFilter.java:65)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
-	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
-	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
-	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
-	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
-	at org.wso2.carbon.identity.context.rewrite.valve.TenantContextRewriteValve.invoke(TenantContextRewriteValve.java:80)
-	at org.wso2.carbon.identity.authz.valve.AuthorizationValve.invoke(AuthorizationValve.java:100)
-	at org.wso2.carbon.identity.auth.valve.AuthenticationValve.invoke(AuthenticationValve.java:74)
-	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:99)
-	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:49)
-	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:62)
-	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:146)
-	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
-	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
-	at org.wso2.carbon.tomcat.ext.valves.RequestCorrelationIdValve.invoke(RequestCorrelationIdValve.java:116)
-	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
-	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
-	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
-	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
-	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
-	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
-	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
-	at java.lang.Thread.run(Thread.java:748)
-Caused by: com.ctc.wstx.exc.WstxIOException: java.io.IOException: Se ha anulado una conexión establecida por el software en su equipo host.
-	at com.ctc.wstx.sw.BaseStreamWriter._finishDocument(BaseStreamWriter.java:1406)
-	at com.ctc.wstx.sw.BaseStreamWriter.close(BaseStreamWriter.java:247)
-	at org.apache.axiom.om.impl.MTOMXMLStreamWriter.close(MTOMXMLStreamWriter.java:188)
-	at org.apache.axiom.om.impl.llom.OMSerializableImpl.serializeAndConsume(OMSerializableImpl.java:197)
-	at org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:74)
-	... 56 more
-Caused by: org.apache.catalina.connector.ClientAbortException: java.io.IOException: Se ha anulado una conexión establecida por el software en su equipo host.
-	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:299)
-	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:262)
-	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:118)
-	at com.ctc.wstx.io.UTF8Writer.flush(UTF8Writer.java:103)
-	at com.ctc.wstx.sw.BufferingXmlWriter.flush(BufferingXmlWriter.java:225)
-	at com.ctc.wstx.sw.BufferingXmlWriter.close(BufferingXmlWriter.java:198)
-	at com.ctc.wstx.sw.BaseStreamWriter._finishDocument(BaseStreamWriter.java:1404)
-	... 60 more
-Caused by: java.io.IOException: Se ha anulado una conexión establecida por el software en su equipo host.
-	at sun.nio.ch.SocketDispatcher.write0(Native Method)
-	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51)
-	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
-	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
-	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:471)
-	at org.apache.tomcat.util.net.SecureNioChannel.write(SecureNioChannel.java:787)
-	at org.apache.tomcat.util.net.NioBlockingSelector.write(NioBlockingSelector.java:101)
-	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:152)
-	at org.apache.tomcat.util.net.SecureNioChannel.flush(SecureNioChannel.java:131)
-	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.doWrite(NioEndpoint.java:1265)
-	at org.apache.tomcat.util.net.SocketWrapperBase.doWrite(SocketWrapperBase.java:793)
-	at org.apache.tomcat.util.net.SocketWrapperBase.flushBlocking(SocketWrapperBase.java:746)
-	at org.apache.tomcat.util.net.SocketWrapperBase.flush(SocketWrapperBase.java:736)
-	at org.apache.coyote.http11.Http11OutputBuffer$SocketOutputBuffer.flush(Http11OutputBuffer.java:564)
-	at org.apache.coyote.http11.filters.ChunkedOutputFilter.flush(ChunkedOutputFilter.java:157)
-	at org.apache.coyote.http11.Http11OutputBuffer.flush(Http11OutputBuffer.java:217)
-	at org.apache.coyote.http11.Http11Processor.flush(Http11Processor.java:1150)
-	at org.apache.coyote.AbstractProcessor.action(AbstractProcessor.java:394)
-	at org.apache.coyote.Response.action(Response.java:209)
-	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:295)
-	... 66 more
-
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:41:38,047]  INFO {org.apache.axis2.transport.http.AxisServlet} - org.apache.axis2.AxisFault: IO Error sending response message
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:41:38,163]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:41:38,163-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:41:38,058] ERROR {org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/].[bridgeservlet]} - Servlet.service() for servlet [bridgeservlet] in context with path [/] threw exception [org.apache.axis2.AxisFault: IO Error sending response message] with root cause java.io.IOException: Se ha anulado una conexión establecida por el software en su equipo host.
-	at sun.nio.ch.SocketDispatcher.write0(Native Method)
-	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51)
-	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
-	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
-	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:471)
-	at org.apache.tomcat.util.net.SecureNioChannel.write(SecureNioChannel.java:787)
-	at org.apache.tomcat.util.net.NioBlockingSelector.write(NioBlockingSelector.java:101)
-	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:152)
-	at org.apache.tomcat.util.net.SecureNioChannel.flush(SecureNioChannel.java:131)
-	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.doWrite(NioEndpoint.java:1265)
-	at org.apache.tomcat.util.net.SocketWrapperBase.doWrite(SocketWrapperBase.java:793)
-	at org.apache.tomcat.util.net.SocketWrapperBase.flushBlocking(SocketWrapperBase.java:746)
-	at org.apache.tomcat.util.net.SocketWrapperBase.flush(SocketWrapperBase.java:736)
-	at org.apache.coyote.http11.Http11OutputBuffer$SocketOutputBuffer.flush(Http11OutputBuffer.java:564)
-	at org.apache.coyote.http11.filters.ChunkedOutputFilter.flush(ChunkedOutputFilter.java:157)
-	at org.apache.coyote.http11.Http11OutputBuffer.flush(Http11OutputBuffer.java:217)
-	at org.apache.coyote.http11.Http11Processor.flush(Http11Processor.java:1150)
-	at org.apache.coyote.AbstractProcessor.action(AbstractProcessor.java:394)
-	at org.apache.coyote.Response.action(Response.java:209)
-	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:295)
-	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:262)
-	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:118)
-	at com.ctc.wstx.io.UTF8Writer.flush(UTF8Writer.java:103)
-	at com.ctc.wstx.sw.BufferingXmlWriter.flush(BufferingXmlWriter.java:225)
-	at com.ctc.wstx.sw.BufferingXmlWriter.close(BufferingXmlWriter.java:198)
-	at com.ctc.wstx.sw.BaseStreamWriter._finishDocument(BaseStreamWriter.java:1404)
-	at com.ctc.wstx.sw.BaseStreamWriter.close(BaseStreamWriter.java:247)
-	at org.apache.axiom.om.impl.MTOMXMLStreamWriter.close(MTOMXMLStreamWriter.java:188)
-	at org.apache.axiom.om.impl.llom.OMSerializableImpl.serializeAndConsume(OMSerializableImpl.java:197)
-	at org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:74)
-	at org.apache.synapse.transport.passthru.PassThroughHttpSender.sendUsingOutputStream(PassThroughHttpSender.java:328)
-	at org.apache.synapse.transport.passthru.PassThroughHttpSender.invoke(PassThroughHttpSender.java:292)
-	at org.apache.axis2.engine.AxisEngine.sendFault(AxisEngine.java:525)
-	at org.apache.axis2.transport.http.AxisServlet.handleFault(AxisServlet.java:434)
-	at org.apache.axis2.transport.http.AxisServlet.doPost(AxisServlet.java:217)
-	at org.wso2.carbon.core.transports.CarbonServlet.doPost(CarbonServlet.java:238)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
-	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61)
-	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128)
-	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68)
-	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
-	at org.wso2.carbon.tomcat.ext.servlet.DelegationServlet.service(DelegationServlet.java:68)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.owasp.csrfguard.CsrfGuardFilter.doFilter(CsrfGuardFilter.java:72)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.wso2.carbon.tomcat.ext.filter.CharacterSetFilter.doFilter(CharacterSetFilter.java:65)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126)
-	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
-	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
-	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
-	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
-	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
-	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
-	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
-	at org.wso2.carbon.identity.context.rewrite.valve.TenantContextRewriteValve.invoke(TenantContextRewriteValve.java:80)
-	at org.wso2.carbon.identity.authz.valve.AuthorizationValve.invoke(AuthorizationValve.java:100)
-	at org.wso2.carbon.identity.auth.valve.AuthenticationValve.invoke(AuthenticationValve.java:74)
-	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:99)
-	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:49)
-	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:62)
-	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:146)
-	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678)
-	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57)
-	at org.wso2.carbon.tomcat.ext.valves.RequestCorrelationIdValve.invoke(RequestCorrelationIdValve.java:116)
-	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
-	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
-	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
-	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
-	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
-	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
-	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
-	at java.lang.Thread.run(Thread.java:748)
-
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:41:38,588]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:41:38,588-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:41:39,794]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:41:39,794-0500]
-TID: [-1234] [APILocalEntryAdmin] [2020-02-27 01:41:39,822]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : cc689bc4-e79b-4af0-b018-3e5e86fb743a was removed from the Synapse configuration successfully
-TID: [-1234] [APILocalEntryAdmin] [2020-02-27 01:41:39,832]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : cc689bc4-e79b-4af0-b018-3e5e86fb743a was added to the Synapse configuration successfully
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:41:39,966]  INFO {org.apache.synapse.rest.API} - Destroying API: admin--Accounts_Port_81:vv1.0
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:41:39,973]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : admin--Accounts_Port_81:vv1.0 was removed from the Synapse configuration successfully
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:41:39,976]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : admin--Accounts_Port_81:vv1.0 was added to the Synapse configuration successfully
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:41:39,980]  INFO {org.apache.synapse.rest.API} - Initializing API: admin--Accounts_Port_81:vv1.0
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:41:40,045]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Accounts_Port_81--vv1.0_APIproductionEndpoint was added to the Synapse configuration successfully
-TID: [-1234] [] [2020-02-27 01:41:39,997]  INFO {org.apache.synapse.mediators.builtin.LogMediator} - STATUS = Executing default 'fault' sequence, ERROR_CODE = 303001, ERROR_MESSAGE = Currently , Address endpoint : [ Name : Accounts_Port_81--vv1.0_APIproductionEndpoint ] [ State : SUSPENDED ]
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:41:40,091]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Accounts_Port_81--vv1.0_APIsandboxEndpoint was added to the Synapse configuration successfully
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:41:40,680]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:41:40,680-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:41:42,116]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:41:42,116-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:41:42,130]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:41:42,130-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:41:42,144]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:41:42,144-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:41:42,158]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:41:42,158-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:42:29,243]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:42:29,243-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:42:29,791]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:42:29,791-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:42:29,907]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:42:29,907-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:42:30,080]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:42:30,080-0500]
-TID: [-1234] [APILocalEntryAdmin] [2020-02-27 01:42:30,123]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : bacd087f-16bd-439b-ab64-d3077a078910 was removed from the Synapse configuration successfully
-TID: [-1234] [APILocalEntryAdmin] [2020-02-27 01:42:30,134]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Local entry : bacd087f-16bd-439b-ab64-d3077a078910 was added to the Synapse configuration successfully
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:42:30,190]  INFO {org.apache.synapse.rest.API} - Destroying API: admin--Security_Port_82:vv1.0
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:42:30,192]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : admin--Security_Port_82:vv1.0 was removed from the Synapse configuration successfully
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:42:30,193]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - API : admin--Security_Port_82:vv1.0 was added to the Synapse configuration successfully
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:42:30,194]  INFO {org.apache.synapse.rest.API} - Initializing API: admin--Security_Port_82:vv1.0
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:42:30,221]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Security_Port_82--vv1.0_APIproductionEndpoint was added to the Synapse configuration successfully
-TID: [-1234] [APIGatewayAdmin] [2020-02-27 01:42:30,236]  INFO {org.wso2.carbon.mediation.dependency.mgt.DependencyTracker} - Endpoint : Security_Port_82--vv1.0_APIsandboxEndpoint was added to the Synapse configuration successfully
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:42:30,689]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:42:30,689-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:42:32,086]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:42:32,086-0500]
-TID: [-1234] [AuthenticationAdmin] [2020-02-27 01:42:32,104]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} - 'admin@carbon.super [-1234]' logged in at [2020-02-27 01:42:32,104-0500]
-TID: [-1234] [] [2020-02-27 01:44:29,224]  INFO {org.apache.synapse.mediators.builtin.LogMediator} - STATUS = Executing default 'fault' sequence, ERROR_CODE = 404, ERROR_MESSAGE = No matching resource found for given API Request
-TID: [-1234] [] [2020-02-27 01:44:38,105]  INFO {org.apache.synapse.mediators.builtin.LogMediator} - STATUS = Executing default 'fault' sequence, ERROR_CODE = 404, ERROR_MESSAGE = No matching resource found for given API Request
-TID: [-1234] [] [2020-02-27 01:44:41,892]  INFO {org.apache.synapse.mediators.builtin.LogMediator} - STATUS = Executing default 'fault' sequence, ERROR_CODE = 404, ERROR_MESSAGE = No matching resource found for given API Request
-TID: [-1234] [] [2020-02-27 01:48:27,358]  WARN {org.apache.synapse.endpoints.EndpointContext} - Endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://localhost:83/api/v1 will be marked SUSPENDED as it failed
-TID: [-1] [] [2020-02-27 01:48:27,357]  WARN {org.apache.synapse.transport.passthru.ConnectCallback} - Connection refused or failed for : localhost/127.0.0.1:83
-TID: [-1234] [] [2020-02-27 01:48:27,359]  WARN {org.apache.synapse.endpoints.EndpointContext} - Suspending endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://localhost:83/api/v1 - current suspend duration is : 30000ms - Next retry after : Thu Feb 27 01:48:57 COT 2020
-TID: [-1234] [] [2020-02-27 01:48:27,361]  INFO {org.apache.synapse.mediators.builtin.LogMediator} - STATUS = Executing default 'fault' sequence, ERROR_CODE = 101503, ERROR_MESSAGE = Error connecting to the back end
-TID: [-1234] [] [2020-02-27 01:48:36,253]  INFO {org.apache.synapse.mediators.builtin.LogMediator} - STATUS = Executing default 'fault' sequence, ERROR_CODE = 303001, ERROR_MESSAGE = Currently , Address endpoint : [ Name : Georeferencia_Port_83--vv1.0_APIproductionEndpoint ] [ State : SUSPENDED ]
-TID: [-1234] [] [2020-02-27 01:48:39,158]  INFO {org.apache.synapse.mediators.builtin.LogMediator} - STATUS = Executing default 'fault' sequence, ERROR_CODE = 303001, ERROR_MESSAGE = Currently , Address endpoint : [ Name : Georeferencia_Port_83--vv1.0_APIproductionEndpoint ] [ State : SUSPENDED ]
-TID: [-1234] [] [2020-02-27 01:48:49,797]  INFO {org.apache.synapse.mediators.builtin.LogMediator} - STATUS = Executing default 'fault' sequence, ERROR_CODE = 303001, ERROR_MESSAGE = Currently , Address endpoint : [ Name : Georeferencia_Port_83--vv1.0_APIproductionEndpoint ] [ State : SUSPENDED ]
-TID: [-1234] [] [2020-02-27 01:48:53,545]  INFO {org.apache.synapse.mediators.builtin.LogMediator} - STATUS = Executing default 'fault' sequence, ERROR_CODE = 303001, ERROR_MESSAGE = Currently , Address endpoint : [ Name : Georeferencia_Port_83--vv1.0_APIproductionEndpoint ] [ State : SUSPENDED ]
-TID: [-1234] [] [2020-02-27 01:49:08,392]  INFO {org.apache.synapse.endpoints.EndpointContext} - Endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://localhost:83/api/v1 currently SUSPENDED will now be marked active since it processed its last message
+TID: [-1] [] [2020-03-01 00:00:16,759]  WARN {org.apache.synapse.commons.util.MiscellaneousUtil} - Error loading properties from a file at from the System defined location: access-log.properties
+TID: [-1234] [] [2020-03-01 00:40:31,472] ERROR {org.wso2.carbon.apimgt.gateway.handlers.security.jwt.JWTValidator} - JWT token is expired
+TID: [-1234] [] [2020-03-01 00:40:31,486]  WARN {org.wso2.carbon.apimgt.gateway.handlers.security.APIAuthenticationHandler} - API authentication failure due to Access Token Expired
+TID: [-1] [] [2020-03-01 01:02:08,103]  INFO {org.wso2.carbon.identity.application.authentication.framework.store.SessionCleanUpService} - Session Data cleanup task is running successfully for removing expired Data
+TID: [-1234] [] [2020-03-01 01:42:19,094] ERROR {org.wso2.carbon.apimgt.gateway.handlers.security.jwt.JWTValidator} - JWT token is expired
+TID: [-1234] [] [2020-03-01 01:42:19,103]  WARN {org.wso2.carbon.apimgt.gateway.handlers.security.APIAuthenticationHandler} - API authentication failure due to Access Token Expired
+TID: [-1234] [] [2020-03-01 02:52:38,955] ERROR {org.wso2.carbon.apimgt.gateway.handlers.security.jwt.JWTValidator} - JWT token is expired
+TID: [-1234] [] [2020-03-01 02:52:38,980]  WARN {org.wso2.carbon.apimgt.gateway.handlers.security.APIAuthenticationHandler} - API authentication failure due to Access Token Expired
+TID: [-1234] [publisher] [2020-03-01 12:03:39,162] ERROR {JAGGERY.services.refresh.refresh:jag} - {}
+TID: [-1234] [api/am/publisher/v1.0] [2020-03-01 12:03:39,215] ERROR {org.wso2.carbon.apimgt.impl.AMDefaultKeyManagerImpl} - Invalid OAuth Token : Invalid Access Token. ACTIVE access token is not found.
+TID: [-1234] [api/am/publisher/v1.0] [2020-03-01 12:03:39,237] ERROR {org.wso2.carbon.apimgt.rest.api.util.impl.WebAppAuthenticatorImpl} - Provided access token is invalid
+TID: [-1234] [] [2020-03-01 14:40:34,597] ERROR {org.wso2.carbon.apimgt.gateway.handlers.security.jwt.JWTValidator} - JWT token is expired
+TID: [-1234] [] [2020-03-01 14:40:34,610]  WARN {org.wso2.carbon.apimgt.gateway.handlers.security.APIAuthenticationHandler} - API authentication failure due to Access Token Expired
+TID: [-1234] [] [2020-03-01 15:40:40,090] ERROR {org.wso2.carbon.apimgt.gateway.handlers.security.jwt.JWTValidator} - JWT token is expired
+TID: [-1234] [] [2020-03-01 15:40:40,108]  WARN {org.wso2.carbon.apimgt.gateway.handlers.security.APIAuthenticationHandler} - API authentication failure due to Access Token Expired
+TID: [-1234] [] [2020-03-01 17:23:51,248] ERROR {org.wso2.carbon.apimgt.gateway.handlers.security.jwt.JWTValidator} - JWT token is expired
+TID: [-1234] [] [2020-03-01 17:23:51,256]  WARN {org.wso2.carbon.apimgt.gateway.handlers.security.APIAuthenticationHandler} - API authentication failure due to Access Token Expired
+TID: [-1234] [] [2020-03-01 18:30:05,792]  INFO {org.wso2.carbon.core.init.CarbonServerManager} - Shutdown hook triggered....
+TID: [-1234] [] [2020-03-01 18:30:05,814]  INFO {org.wso2.carbon.core.init.CarbonServerManager} - Gracefully shutting down WSO2 API Manager...
+TID: [-1234] [] [2020-03-01 18:30:05,926]  INFO {org.wso2.carbon.core.ServerManagement} - Starting to switch to maintenance mode...
+TID: [-1234] [] [2020-03-01 18:30:05,929]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpListener} - Stopping Pass-through HTTP Listener..
+TID: [-1234] [] [2020-03-01 18:30:05,932]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - Shutting down IO Reactor bind for port 8280
+TID: [-1] [] [2020-03-01 18:30:05,939]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - HTTP-Listener I/O dispatcher Listener shutdown.
+TID: [-1234] [] [2020-03-01 18:30:06,104]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpMultiSSLListener} - Stopping Pass-through HTTPS Listener..
+TID: [-1234] [] [2020-03-01 18:30:06,105]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - Shutting down IO Reactor bind for port 8243
+TID: [-1] [] [2020-03-01 18:30:06,110]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - HTTPS-Listener I/O dispatcher Listener shutdown.
+TID: [-1234] [] [2020-03-01 18:30:06,136]  INFO {org.wso2.carbon.core.ServerManagement} - Stopped all transport listeners
+TID: [-1234] [] [2020-03-01 18:30:06,137]  INFO {org.wso2.carbon.core.ServerManagement} - Waiting for request service completion...
+TID: [-1234] [] [2020-03-01 18:30:06,327]  INFO {org.wso2.carbon.core.ServerManagement} - All requests have been served.
+TID: [-1234] [] [2020-03-01 18:30:06,328]  INFO {org.wso2.carbon.core.ServerManagement} - Waiting for deployment completion...
+TID: [-1234] [accountrecoveryendpoint] [2020-03-01 18:30:09,899]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/accountrecoveryendpoint]
+TID: [-1234] [authenticationendpoint] [2020-03-01 18:30:13,612]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/authenticationendpoint]
+TID: [-1234] [api#am#admin#v0.15] [2020-03-01 18:30:17,977]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/am/admin/v0.15]
+TID: [-1234] [am#sample#pizzashack#v1] [2020-03-01 18:30:18,544]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/am/sample/pizzashack/v1]
+TID: [-1234] [api#am#publisher#v0.15] [2020-03-01 18:30:20,751]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/am/publisher/v0.15]
+TID: [-1234] [api#identity#user#v1.0] [2020-03-01 18:30:21,965]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/identity/user/v1.0]
+TID: [-1234] [api#identity#consent-mgt#v1.0] [2020-03-01 18:30:22,906]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/identity/consent-mgt/v1.0]
+TID: [-1234] [throttle#data#v1] [2020-03-01 18:30:31,808]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/throttle/data/v1]
+TID: [-1234] [am#sample#calculator#v1] [2020-03-01 18:30:32,220]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/am/sample/calculator/v1]
+TID: [-1234] [api#am#store#v0.15] [2020-03-01 18:30:33,924]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/am/store/v0.15]
+TID: [-1234] [api#identity#recovery#v0.9] [2020-03-01 18:30:35,079]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/identity/recovery/v0.9]
+TID: [-1234] [api#am#store#v1.0] [2020-03-01 18:30:36,587]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/am/store/v1.0]
+TID: [-1234] [client-registration#v0.15] [2020-03-01 18:30:38,558]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/client-registration/v0.15]
+TID: [-1234] [api#am#publisher#v1.0] [2020-03-01 18:30:40,644]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/api/am/publisher/v1.0]
+TID: [-1234] [oauth2] [2020-03-01 18:30:41,851]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/oauth2]
+TID: [-1234] [devportal] [2020-03-01 18:30:41,883]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/devportal]
+TID: [-1234] [admin] [2020-03-01 18:30:41,909]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/admin]
+TID: [-1234] [publisher] [2020-03-01 18:30:41,949]  INFO {org.wso2.carbon.webapp.mgt.WebApplication} - Unloaded webapp: StandardEngine[Catalina].StandardHost[localhost].StandardContext[/publisher]
+TID: [-1234] [publisher] [2020-03-01 18:30:41,977]  INFO {org.wso2.carbon.core.ServerManagement} - All deployment tasks have been completed.
+TID: [-1234] [publisher] [2020-03-01 18:30:42,032]  INFO {org.wso2.carbon.core.ServerManagement} - Waiting for server task completion...
+TID: [-1234] [publisher] [2020-03-01 18:30:42,165]  INFO {org.wso2.carbon.registry.core.internal.RegistryCoreServiceComponent} - Writing logs 
+TID: [-1234] [publisher] [2020-03-01 18:30:42,217]  INFO {org.wso2.carbon.core.ServerManagement} - All server tasks have been completed.
+TID: [-1234] [publisher] [2020-03-01 18:30:42,218]  INFO {org.wso2.carbon.core.init.CarbonServerManager} - Shutting down WSO2 API Manager...
+TID: [-1234] [publisher] [2020-03-01 18:30:42,234]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSTransportHandler} - Starting to Shutdown the Listener...
+TID: [-1234] [publisher] [2020-03-01 18:30:44,245]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSTaskManager} - Task manager for jms consumer 1000 shutdown
+TID: [-1234] [publisher] [2020-03-01 18:30:44,250]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSListener} - Stopped listening for JMS messages to listener : Siddhi-JMS-Consumer#tokenRevocation
+TID: [-1234] [publisher] [2020-03-01 18:30:46,259]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSTaskManager} - Task manager for jms consumer 1000 shutdown
+TID: [-1234] [publisher] [2020-03-01 18:30:46,260]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSListener} - Stopped listening for JMS messages to listener : Siddhi-JMS-Consumer#throttleData
+TID: [-1234] [publisher] [2020-03-01 18:30:46,356]  INFO {org.wso2.carbon.core.init.CarbonServerManager} - Shutting down OSGi framework...
+TID: [-1234] [] [2020-03-01 18:30:46,686]  INFO {org.wso2.carbon.core.init.CarbonServerManager} - Stopping CarbonServerManager...
+TID: [-1234] [] [2020-03-01 18:30:46,728]  INFO {org.wso2.carbon.websocket.transport.WebsocketTransportSender} - WSS Sender Shutdown
+TID: [-1] [] [2020-03-01 18:30:46,731]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpSender} - HTTP Sender shutdown
+TID: [-1] [] [2020-03-01 18:30:46,733]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpSSLSender} - HTTPS Sender shutdown
+TID: [-1234] [] [2020-03-01 18:30:46,733]  INFO {org.wso2.carbon.websocket.transport.WebsocketTransportSender} - WS Sender Shutdown
+TID: [-1234] [] [2020-03-01 18:30:46,735]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpListener} - Destroying PassThroughHttpListener
+TID: [-1234] [] [2020-03-01 18:30:46,737]  INFO {org.apache.synapse.transport.passthru.PassThroughHttpMultiSSLListener} - Destroying PassThroughHttpListener
+TID: [-1234] [publisher] [2020-03-01 18:30:47,030]  INFO {org.wso2.carbon.event.processor.core.internal.CarbonEventProcessorService} - Successfully shutdown ExecutionPlans
+TID: [-1234] [publisher] [2020-03-01 18:30:47,143]  INFO {org.wso2.carbon.apimgt.jms.listener.utils.JMSTransportHandler} - Starting to Shutdown the Listener...
+TID: [-1234] [publisher] [2020-03-01 18:30:47,459]  INFO {org.apache.synapse.Axis2SynapseController} - Undeploying the Synapse service...
+TID: [-1234] [publisher] [2020-03-01 18:30:47,461]  INFO {org.apache.synapse.Axis2SynapseController} - Undeploying Proxy services...
+TID: [-1234] [publisher] [2020-03-01 18:30:47,463]  INFO {org.apache.synapse.Axis2SynapseController} - Undeploying EventSources...
+TID: [-1234] [publisher] [2020-03-01 18:30:47,502]  INFO {org.apache.synapse.inbound.InboundEndpoint} - Destroying Inbound Endpoint: WebSocketInboundEndpoint
+TID: [-1234] [publisher] [2020-03-01 18:30:47,563]  INFO {org.apache.synapse.inbound.InboundEndpoint} - Destroying Inbound Endpoint: SecureWebSocketEP
+TID: [-1234] [publisher] [2020-03-01 18:30:47,576]  INFO {org.apache.synapse.rest.API} - Destroying API: admin--Validate-Jwt-Token:vv1.0
+TID: [-1234] [publisher] [2020-03-01 18:30:47,580]  INFO {org.apache.synapse.rest.API} - Destroying API: admin--Georeferencia_Port_83:vv1.0
+TID: [-1234] [publisher] [2020-03-01 18:30:47,583]  INFO {org.apache.synapse.rest.API} - Destroying API: admin--Mapa-Digital_Port_84:vv1.0
+TID: [-1234] [publisher] [2020-03-01 18:30:47,609]  INFO {org.apache.synapse.rest.API} - Destroying API: admin--Security_Port_82:vv1.0
+TID: [-1234] [publisher] [2020-03-01 18:30:47,613]  INFO {org.apache.synapse.rest.API} - Destroying API: admin--Accounts_Port_81:vv1.0
+TID: [-1234] [publisher] [2020-03-01 18:30:47,616]  INFO {org.apache.synapse.rest.API} - Destroying API: admin--Carga_Excel:vv1.0
+TID: [-1234] [publisher] [2020-03-01 18:30:47,618]  INFO {org.apache.synapse.rest.API} - Destroying API: _WSO2AMAuthorizeAPI_
+TID: [-1234] [publisher] [2020-03-01 18:30:47,619]  INFO {org.apache.synapse.rest.API} - Destroying API: _WSO2AMUserInfoAPI_
+TID: [-1234] [publisher] [2020-03-01 18:30:47,621]  INFO {org.apache.synapse.rest.API} - Destroying API: _OpenService_
+TID: [-1234] [publisher] [2020-03-01 18:30:47,625]  INFO {org.apache.synapse.rest.API} - Destroying API: _WSO2AMRevokeAPI_
+TID: [-1234] [publisher] [2020-03-01 18:30:47,627]  INFO {org.apache.synapse.rest.API} - Destroying API: _WSO2AMTokenAPI_
+TID: [-1234] [publisher] [2020-03-01 18:30:47,629]  INFO {org.apache.synapse.task.SynapseTaskManager} - Shutting down the task manager
+TID: [-1234] [publisher] [2020-03-01 18:30:47,717]  INFO {org.wso2.carbon.metrics.impl.reporter.AbstractReporter} - Stopped JMX reporter for Metrics
+TID: [-1234] [publisher] [2020-03-01 18:30:47,948]  INFO {org.wso2.carbon.tomcat.ext.internal.CarbonTomcatServiceComponent} - Stopping the carbon web-app registered under : /
+TID: [-1234] [publisher] [2020-03-01 18:30:50,227]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher undeployed successfully : blockingEventJMSPublisher.xml
+TID: [-1234] [publisher] [2020-03-01 18:30:50,316]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher deployment held back and in inactive state : blockingEventJMSPublisher.xml, waiting for Output Event Adapter dependency : jms
+TID: [-1234] [publisher] [2020-03-01 18:30:50,322]  INFO {org.wso2.carbon.event.publisher.core.internal.CarbonEventPublisherService} - Event publisher : blockingEventJMSPublisher  is in inactive state because dependency could not be found : jms
+TID: [-1234] [publisher] [2020-03-01 18:30:50,323]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher undeployed successfully : jmsEventPublisher_1.10.0.xml
+TID: [-1234] [publisher] [2020-03-01 18:30:50,347]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher deployment held back and in inactive state : jmsEventPublisher_1.10.0.xml, waiting for Output Event Adapter dependency : jms
+TID: [-1234] [publisher] [2020-03-01 18:30:50,350]  INFO {org.wso2.carbon.event.publisher.core.internal.CarbonEventPublisherService} - Event publisher : jmsEventPublisher-1.0.0  is in inactive state because dependency could not be found : jms
+TID: [-1234] [publisher] [2020-03-01 18:30:50,351]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher undeployed successfully : jmsEventPublisher.xml
+TID: [-1234] [publisher] [2020-03-01 18:30:50,373]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher deployment held back and in inactive state : jmsEventPublisher.xml, waiting for Output Event Adapter dependency : jms
+TID: [-1234] [publisher] [2020-03-01 18:30:50,374]  INFO {org.wso2.carbon.event.publisher.core.internal.CarbonEventPublisherService} - Event publisher : jmsEventPublisher  is in inactive state because dependency could not be found : jms
+TID: [-1234] [publisher] [2020-03-01 18:30:50,374]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher undeployed successfully : keyTemplateEventPublisher.xml
+TID: [-1234] [publisher] [2020-03-01 18:30:50,406]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher deployment held back and in inactive state : keyTemplateEventPublisher.xml, waiting for Output Event Adapter dependency : jms
+TID: [-1234] [publisher] [2020-03-01 18:30:50,409]  INFO {org.wso2.carbon.event.publisher.core.internal.CarbonEventPublisherService} - Event publisher : keyTemplateEventPublisher  is in inactive state because dependency could not be found : jms
+TID: [-1234] [publisher] [2020-03-01 18:30:50,410]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher undeployed successfully : tokenRevokeEventJMSPublisher.xml
+TID: [-1234] [publisher] [2020-03-01 18:30:50,469]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher deployment held back and in inactive state : tokenRevokeEventJMSPublisher.xml, waiting for Output Event Adapter dependency : jms
+TID: [-1234] [publisher] [2020-03-01 18:30:50,470]  INFO {org.wso2.carbon.event.publisher.core.internal.CarbonEventPublisherService} - Event publisher : tokenRevocationJMSPublisher  is in inactive state because dependency could not be found : jms
+TID: [-1234] [publisher] [2020-03-01 18:30:50,471]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher undeployed successfully : EmailPublisher.xml
+TID: [-1234] [publisher] [2020-03-01 18:30:50,483]  INFO {org.wso2.carbon.event.publisher.core.EventPublisherDeployer} - Event Publisher deployment held back and in inactive state : EmailPublisher.xml, waiting for Output Event Adapter dependency : email
+TID: [-1234] [publisher] [2020-03-01 18:30:50,484]  INFO {org.wso2.carbon.event.publisher.core.internal.CarbonEventPublisherService} - Event publisher : EmailPublisher  is in inactive state because dependency could not be found : email
+TID: [-1234] [publisher] [2020-03-01 18:30:50,537]  INFO {org.wso2.carbon.databridge.receiver.binary.internal.BinaryDataReceiverServiceComponent} - Binary Data Receiver server shutting down...
+TID: [-1234] [publisher] [2020-03-01 18:30:50,572]  INFO {org.wso2.carbon.databridge.receiver.binary.internal.BinaryDataReceiver} - Stopping Binary Server..
+TID: [-1234] [] [2020-03-01 18:30:52,548]  INFORMACIÓN {org.wso2.carbon.core.init.CarbonServerManager} - Shutdown complete 
+TID: [-1234] [] [2020-03-01 18:30:52,569]  INFORMACIÓN {org.wso2.carbon.core.init.CarbonServerManager} - Halting JVM 

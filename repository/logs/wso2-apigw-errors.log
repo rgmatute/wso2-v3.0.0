@@ -2173,3 +2173,1025 @@ java.io.IOException: Se ha forzado la interrupción de una conexión existente p
 2020-02-26T00:18:40,668 [-] [https-jsse-nio-9443-exec-33] ERROR refresh:jag {}
 2020-02-26T00:18:40,699 [-] [https-jsse-nio-9443-exec-6] ERROR AMDefaultKeyManagerImpl Invalid OAuth Token : Invalid Access Token. ACTIVE access token is not found.
 2020-02-26T00:18:40,701 [-] [https-jsse-nio-9443-exec-6] ERROR WebAppAuthenticatorImpl Provided access token is invalid
+2020-02-26T10:44:11,495 [-] [https-jsse-nio-9443-exec-20] ERROR refresh:jag {}
+2020-02-26T10:44:11,566 [-] [https-jsse-nio-9443-exec-42] ERROR AMDefaultKeyManagerImpl Invalid OAuth Token : Invalid Access Token. ACTIVE access token is not found.
+2020-02-26T10:44:11,585 [-] [https-jsse-nio-9443-exec-42] ERROR WebAppAuthenticatorImpl Provided access token is invalid
+2020-02-26T10:45:23,346 [-] [https-jsse-nio-9443-exec-35] ERROR ApisApiServiceImpl Requested API with Id 'cc689bc4-e79b-4af0-b018-3e5i86fb743a' not found
+org.wso2.carbon.apimgt.api.APIMgtResourceNotFoundException: Failed to get API. API artifact corresponding to artifactId cc689bc4-e79b-4af0-b018-3e5i86fb743a does not exist
+	at org.wso2.carbon.apimgt.impl.AbstractAPIManager.getAPIorAPIProductByUUID_aroundBody22(AbstractAPIManager.java:603) ~[org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.impl.AbstractAPIManager.getAPIorAPIProductByUUID(AbstractAPIManager.java:543) ~[org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.rest.api.store.v1.impl.ApisApiServiceImpl.getAPIByAPIId(ApisApiServiceImpl.java:887) [classes/:?]
+	at org.wso2.carbon.apimgt.rest.api.store.v1.impl.ApisApiServiceImpl.apisApiIdGet(ApisApiServiceImpl.java:159) [classes/:?]
+	at org.wso2.carbon.apimgt.rest.api.store.v1.ApisApi.apisApiIdGet(ApisApi.java:135) [classes/:?]
+	at sun.reflect.GeneratedMethodAccessor761.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_191]
+	at org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:193) [cxf-rt-frontend-jaxrs-3.2.8.jar:3.2.8]
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103) [cxf-rt-frontend-jaxrs-3.2.8.jar:3.2.8]
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doGet(AbstractHTTPServlet.java:225) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) [tomcat-servlet-api_9.0.22.wso2v1.jar:?]
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.identity.context.rewrite.valve.TenantContextRewriteValve.invoke(TenantContextRewriteValve.java:80) [org.wso2.carbon.identity.context.rewrite.valve_1.3.6.jar:?]
+	at org.wso2.carbon.identity.authz.valve.AuthorizationValve.invoke(AuthorizationValve.java:100) [org.wso2.carbon.identity.authz.valve_1.3.6.jar:?]
+	at org.wso2.carbon.identity.auth.valve.AuthenticationValve.invoke(AuthenticationValve.java:74) [org.wso2.carbon.identity.auth.valve_1.3.6.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:99) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:49) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:62) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:146) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.RequestCorrelationIdValve.invoke(RequestCorrelationIdValve.java:116) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat_9.0.22.wso2v1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_191]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat_9.0.22.wso2v1.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+2020-02-26T10:47:25,570 [-] [PassThroughHTTPSender]  WARN ConnectCallback Connection refused or failed for : /192.168.0.108:81
+2020-02-26T10:47:25,570 [-] [PassThroughMessageProcessor-216]  WARN EndpointContext Endpoint : Accounts_Port_81--vv1.0_APIproductionEndpoint with address http://192.168.0.108:81/api/v1 will be marked SUSPENDED as it failed
+2020-02-26T10:47:25,572 [-] [PassThroughMessageProcessor-216]  WARN EndpointContext Suspending endpoint : Accounts_Port_81--vv1.0_APIproductionEndpoint with address http://192.168.0.108:81/api/v1 - current suspend duration is : 30000ms - Next retry after : Wed Feb 26 10:47:55 COT 2020
+2020-02-26T10:48:24,784 [-] [PassThroughHTTPSender]  WARN ConnectCallback Connection refused or failed for : /192.168.0.108:81
+2020-02-26T10:48:24,785 [-] [PassThroughMessageProcessor-219]  WARN EndpointContext Endpoint : Accounts_Port_81--vv1.0_APIproductionEndpoint with address http://192.168.0.108:81/api/v1 will be marked SUSPENDED as it failed
+2020-02-26T10:48:24,787 [-] [PassThroughMessageProcessor-219]  WARN EndpointContext Suspending endpoint : Accounts_Port_81--vv1.0_APIproductionEndpoint with address http://192.168.0.108:81/api/v1 - last suspend duration was : 30000ms and current suspend duration is : 30000ms - Next retry after : Wed Feb 26 10:48:54 COT 2020
+2020-02-26T10:48:58,078 [-] [PassThroughHTTPSender]  WARN ConnectCallback Connection refused or failed for : /192.168.0.108:81
+2020-02-26T10:48:58,079 [-] [PassThroughMessageProcessor-224]  WARN EndpointContext Endpoint : Accounts_Port_81--vv1.0_APIproductionEndpoint with address http://192.168.0.108:81/api/v1 will be marked SUSPENDED as it failed
+2020-02-26T10:48:58,082 [-] [PassThroughMessageProcessor-224]  WARN EndpointContext Suspending endpoint : Accounts_Port_81--vv1.0_APIproductionEndpoint with address http://192.168.0.108:81/api/v1 - last suspend duration was : 30000ms and current suspend duration is : 30000ms - Next retry after : Wed Feb 26 10:49:28 COT 2020
+2020-02-26T10:53:34,155 [-] [PassThroughHTTPSender]  WARN ConnectCallback Connection refused or failed for : /192.168.0.108:83
+2020-02-26T10:53:34,156 [-] [PassThroughMessageProcessor-306]  WARN EndpointContext Endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://192.168.0.108:83/api/v1 will be marked SUSPENDED as it failed
+2020-02-26T10:53:34,158 [-] [PassThroughMessageProcessor-306]  WARN EndpointContext Suspending endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://192.168.0.108:83/api/v1 - current suspend duration is : 30000ms - Next retry after : Wed Feb 26 10:54:04 COT 2020
+2020-02-26T10:54:18,061 [-] [PassThroughHTTPSender]  WARN ConnectCallback Connection refused or failed for : /192.168.0.108:83
+2020-02-26T10:54:18,061 [-] [PassThroughMessageProcessor-330]  WARN EndpointContext Endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://192.168.0.108:83/api/v1 will be marked SUSPENDED as it failed
+2020-02-26T10:54:18,064 [-] [PassThroughMessageProcessor-330]  WARN EndpointContext Suspending endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://192.168.0.108:83/api/v1 - last suspend duration was : 30000ms and current suspend duration is : 30000ms - Next retry after : Wed Feb 26 10:54:48 COT 2020
+2020-02-26T10:56:03,124 [-] [https-jsse-nio-9443-exec-32]  WARN AlertTypesApiServiceImpl Analytics is not enabled
+org.wso2.carbon.apimgt.impl.alertmgt.exception.AlertManagementException: Analytics Not Enabled
+	at org.wso2.carbon.apimgt.impl.alertmgt.AlertConfigManager.<init>(AlertConfigManager.java:33) ~[org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.impl.alertmgt.AlertConfigManager.getInstance_aroundBody0(AlertConfigManager.java:39) ~[org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.impl.alertmgt.AlertConfigManager.getInstance(AlertConfigManager.java:37) ~[org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.rest.api.publisher.v1.impl.AlertTypesApiServiceImpl.getPublisherAlertTypes(AlertTypesApiServiceImpl.java:45) [classes/:?]
+	at org.wso2.carbon.apimgt.rest.api.publisher.v1.AlertTypesApi.getPublisherAlertTypes(AlertTypesApi.java:52) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_191]
+	at org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:193) [cxf-rt-frontend-jaxrs-3.2.8.jar:3.2.8]
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103) [cxf-rt-frontend-jaxrs-3.2.8.jar:3.2.8]
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doGet(AbstractHTTPServlet.java:225) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) [tomcat-servlet-api_9.0.22.wso2v1.jar:?]
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.identity.context.rewrite.valve.TenantContextRewriteValve.invoke(TenantContextRewriteValve.java:80) [org.wso2.carbon.identity.context.rewrite.valve_1.3.6.jar:?]
+	at org.wso2.carbon.identity.authz.valve.AuthorizationValve.invoke(AuthorizationValve.java:100) [org.wso2.carbon.identity.authz.valve_1.3.6.jar:?]
+	at org.wso2.carbon.identity.auth.valve.AuthenticationValve.invoke(AuthenticationValve.java:74) [org.wso2.carbon.identity.auth.valve_1.3.6.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:99) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:49) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:62) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:146) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.RequestCorrelationIdValve.invoke(RequestCorrelationIdValve.java:116) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat_9.0.22.wso2v1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_191]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat_9.0.22.wso2v1.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+2020-02-26T14:23:43,299 [-] [PassThroughMessageProcessor-392] ERROR JWTValidator JWT token is expired
+2020-02-26T14:23:43,302 [-] [PassThroughMessageProcessor-392]  WARN APIAuthenticationHandler API authentication failure due to Access Token Expired
+2020-02-26T14:25:35,911 [-] [PassThroughHTTPSender]  WARN ConnectCallback Connection refused or failed for : /192.168.0.108:83
+2020-02-26T14:25:35,912 [-] [PassThroughMessageProcessor-25]  WARN EndpointContext Endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://192.168.0.108:83/api/v1 will be marked SUSPENDED as it failed
+2020-02-26T14:25:35,918 [-] [PassThroughMessageProcessor-25]  WARN EndpointContext Suspending endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://192.168.0.108:83/api/v1 - last suspend duration was : 30000ms and current suspend duration is : 30000ms - Next retry after : Wed Feb 26 14:26:05 COT 2020
+2020-02-26T14:31:14,738 [-] [https-jsse-nio-9443-exec-27] ERROR refresh:jag {}
+2020-02-26T14:31:14,758 [-] [PassThroughHTTPSender]  WARN ConnectCallback Connection refused or failed for : /192.168.0.108:83
+2020-02-26T14:31:14,758 [-] [https-jsse-nio-9443-exec-25] ERROR AMDefaultKeyManagerImpl Invalid OAuth Token : Invalid Access Token. ACTIVE access token is not found.
+2020-02-26T14:31:14,758 [-] [PassThroughMessageProcessor-53]  WARN EndpointContext Endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://192.168.0.108:83/api/v1 will be marked SUSPENDED as it failed
+2020-02-26T14:31:14,760 [-] [https-jsse-nio-9443-exec-25] ERROR WebAppAuthenticatorImpl Provided access token is invalid
+2020-02-26T14:31:14,760 [-] [PassThroughMessageProcessor-53]  WARN EndpointContext Suspending endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://192.168.0.108:83/api/v1 - last suspend duration was : 30000ms and current suspend duration is : 30000ms - Next retry after : Wed Feb 26 14:31:44 COT 2020
+2020-02-26T22:58:20,772 [-] [PassThroughMessageProcessor-319] ERROR JWTValidator JWT token is expired
+2020-02-26T22:58:20,784 [-] [PassThroughMessageProcessor-319]  WARN APIAuthenticationHandler API authentication failure due to Access Token Expired
+2020-02-27T00:16:00,999 [-] [PassThroughMessageProcessor-234] ERROR JWTValidator JWT token is expired
+2020-02-27T00:16:01,039 [-] [PassThroughMessageProcessor-234]  WARN APIAuthenticationHandler API authentication failure due to Access Token Expired
+2020-02-27T00:16:21,123 [-] [Timer-16]  WARN MiscellaneousUtil Error loading properties from a file at from the System defined location: access-log.properties
+2020-02-27T01:15:43,742 [-] [https-jsse-nio-9443-exec-15] ERROR refresh:jag {}
+2020-02-27T01:15:43,761 [-] [https-jsse-nio-9443-exec-43] ERROR AMDefaultKeyManagerImpl Invalid OAuth Token : Invalid Access Token. ACTIVE access token is not found.
+2020-02-27T01:15:43,762 [-] [https-jsse-nio-9443-exec-43] ERROR WebAppAuthenticatorImpl Provided access token is invalid
+2020-02-27T01:28:35,812 [-] [PassThroughHTTPSender]  WARN ConnectCallback Connection refused or failed for : localhost/127.0.0.1:83
+2020-02-27T01:28:35,813 [-] [PassThroughMessageProcessor-68]  WARN EndpointContext Endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://localhost:83/api/v1 will be marked SUSPENDED as it failed
+2020-02-27T01:28:35,815 [-] [PassThroughMessageProcessor-68]  WARN EndpointContext Suspending endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://localhost:83/api/v1 - current suspend duration is : 30000ms - Next retry after : Thu Feb 27 01:29:05 COT 2020
+2020-02-27T01:41:34,595 [-] [HTTP-Sender I/O dispatcher-3]  WARN TargetHandler Connection time out after while in state : REQUEST_DONE Socket Timeout : 180000 correlation_id : null Remote Address : localhost/127.0.0.1:81
+2020-02-27T01:41:37,264 [-] [Timer-12]  WARN EndpointContext Suspending endpoint : Accounts_Port_81--vv1.0_APIproductionEndpoint with address http://localhost:81/api/v1 - current suspend duration is : 30000ms - Next retry after : Thu Feb 27 01:42:07 COT 2020
+2020-02-27T01:41:37,264 [-] [HTTP-Listener I/O dispatcher-4]  WARN SourceHandler Connection time out after request is read: http-incoming-2463 Socket Timeout : 180000 Remote Address : /0:0:0:0:0:0:0:1:61944
+2020-02-27T01:41:37,270 [-] [HTTP-Listener I/O dispatcher-1]  WARN SourceHandler Connection time out after request is read: http-incoming-2457 Socket Timeout : 180000 Remote Address : /0:0:0:0:0:0:0:1:61298
+2020-02-27T01:41:37,273 [-] [https-jsse-nio-9443-exec-6] ERROR APIGatewayManager Error occurred when check api is published on gatewayProduction and Sandbox
+org.apache.axis2.AxisFault: Error while contacting the authentication admin services
+	at org.wso2.carbon.apimgt.impl.utils.AbstractAPIGatewayAdminClient.login_aroundBody2(AbstractAPIGatewayAdminClient.java:92) ~[org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.impl.utils.AbstractAPIGatewayAdminClient.login(AbstractAPIGatewayAdminClient.java:66) ~[org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.impl.utils.AbstractAPIGatewayAdminClient.setup_aroundBody0(AbstractAPIGatewayAdminClient.java:50) ~[org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.impl.utils.AbstractAPIGatewayAdminClient.setup(AbstractAPIGatewayAdminClient.java:49) ~[org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.impl.utils.APIGatewayAdminClient.<init>(APIGatewayAdminClient.java:57) ~[org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.impl.APIGatewayManager.isAPIPublished_aroundBody20(APIGatewayManager.java:844) [org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.impl.APIGatewayManager.isAPIPublished(APIGatewayManager.java:841) [org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.impl.APIProviderImpl.updateApiArtifact_aroundBody70(APIProviderImpl.java:1311) [org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.impl.APIProviderImpl.updateApiArtifact(APIProviderImpl.java:1290) [org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.impl.APIProviderImpl.updateAPI_aroundBody66(APIProviderImpl.java:1125) [org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.impl.APIProviderImpl.updateAPI(APIProviderImpl.java:1056) [org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.impl.UserAwareAPIProvider.manageAPI_aroundBody12(UserAwareAPIProvider.java:118) [org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.impl.UserAwareAPIProvider.manageAPI(UserAwareAPIProvider.java:107) [org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.rest.api.publisher.v1.impl.ApisApiServiceImpl.apisApiIdPut(ApisApiServiceImpl.java:651) [classes/:?]
+	at org.wso2.carbon.apimgt.rest.api.publisher.v1.ApisApi.apisApiIdPut(ApisApi.java:583) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_191]
+	at org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:193) [cxf-rt-frontend-jaxrs-3.2.8.jar:3.2.8]
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103) [cxf-rt-frontend-jaxrs-3.2.8.jar:3.2.8]
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPut(AbstractHTTPServlet.java:237) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:663) [tomcat-servlet-api_9.0.22.wso2v1.jar:?]
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.identity.context.rewrite.valve.TenantContextRewriteValve.invoke(TenantContextRewriteValve.java:80) [org.wso2.carbon.identity.context.rewrite.valve_1.3.6.jar:?]
+	at org.wso2.carbon.identity.authz.valve.AuthorizationValve.invoke(AuthorizationValve.java:100) [org.wso2.carbon.identity.authz.valve_1.3.6.jar:?]
+	at org.wso2.carbon.identity.auth.valve.AuthenticationValve.invoke(AuthenticationValve.java:74) [org.wso2.carbon.identity.auth.valve_1.3.6.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:99) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:49) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:62) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:146) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.RequestCorrelationIdValve.invoke(RequestCorrelationIdValve.java:116) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat_9.0.22.wso2v1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_191]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat_9.0.22.wso2v1.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+Caused by: org.apache.axis2.AxisFault: Read timed out
+	at org.apache.axis2.AxisFault.makeFault(AxisFault.java:430) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.transport.http.HTTPSender.sendViaPost(HTTPSender.java:227) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.transport.http.HTTPSender.send(HTTPSender.java:82) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.transport.http.CommonsHTTPTransportSender.writeMessageWithCommons(CommonsHTTPTransportSender.java:459) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.transport.http.CommonsHTTPTransportSender.invoke(CommonsHTTPTransportSender.java:286) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.description.OutInAxisOperationClient.send(OutInAxisOperation.java:442) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.description.OutInAxisOperationClient.executeImpl(OutInAxisOperation.java:228) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.client.OperationClient.execute(OperationClient.java:149) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.wso2.carbon.authenticator.stub.AuthenticationAdminStub.login(AuthenticationAdminStub.java:1343) ~[org.wso2.carbon.authenticator.stub_4.5.1.jar:?]
+	at org.wso2.carbon.apimgt.impl.utils.AbstractAPIGatewayAdminClient.login_aroundBody2(AbstractAPIGatewayAdminClient.java:87) ~[org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	... 66 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method) ~[?:1.8.0_191]
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116) ~[?:1.8.0_191]
+	at java.net.SocketInputStream.read(SocketInputStream.java:171) ~[?:1.8.0_191]
+	at java.net.SocketInputStream.read(SocketInputStream.java:141) ~[?:1.8.0_191]
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465) ~[?:1.8.0_191]
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503) ~[?:1.8.0_191]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:975) ~[?:1.8.0_191]
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:933) ~[?:1.8.0_191]
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105) ~[?:1.8.0_191]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246) ~[?:1.8.0_191]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265) ~[?:1.8.0_191]
+	at org.apache.commons.httpclient.HttpParser.readRawLine(HttpParser.java:78) ~[commons-httpclient_3.1.0.wso2v6.jar:?]
+	at org.apache.commons.httpclient.HttpParser.readLine(HttpParser.java:106) ~[commons-httpclient_3.1.0.wso2v6.jar:?]
+	at org.apache.commons.httpclient.HttpConnection.readLine(HttpConnection.java:1116) ~[commons-httpclient_3.1.0.wso2v6.jar:?]
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.readLine(MultiThreadedHttpConnectionManager.java:1413) ~[commons-httpclient_3.1.0.wso2v6.jar:?]
+	at org.apache.commons.httpclient.HttpMethodBase.readStatusLine(HttpMethodBase.java:1973) ~[commons-httpclient_3.1.0.wso2v6.jar:?]
+	at org.apache.commons.httpclient.HttpMethodBase.readResponse(HttpMethodBase.java:1735) ~[commons-httpclient_3.1.0.wso2v6.jar:?]
+	at org.apache.commons.httpclient.HttpMethodBase.execute(HttpMethodBase.java:1098) ~[commons-httpclient_3.1.0.wso2v6.jar:?]
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:398) ~[commons-httpclient_3.1.0.wso2v6.jar:?]
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171) ~[commons-httpclient_3.1.0.wso2v6.jar:?]
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397) ~[commons-httpclient_3.1.0.wso2v6.jar:?]
+	at org.apache.axis2.transport.http.AbstractHTTPSender.executeMethod(AbstractHTTPSender.java:712) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.transport.http.HTTPSender.sendViaPost(HTTPSender.java:223) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.transport.http.HTTPSender.send(HTTPSender.java:82) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.transport.http.CommonsHTTPTransportSender.writeMessageWithCommons(CommonsHTTPTransportSender.java:459) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.transport.http.CommonsHTTPTransportSender.invoke(CommonsHTTPTransportSender.java:286) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.description.OutInAxisOperationClient.send(OutInAxisOperation.java:442) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.description.OutInAxisOperationClient.executeImpl(OutInAxisOperation.java:228) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.client.OperationClient.execute(OperationClient.java:149) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.wso2.carbon.authenticator.stub.AuthenticationAdminStub.login(AuthenticationAdminStub.java:1343) ~[org.wso2.carbon.authenticator.stub_4.5.1.jar:?]
+	at org.wso2.carbon.apimgt.impl.utils.AbstractAPIGatewayAdminClient.login_aroundBody2(AbstractAPIGatewayAdminClient.java:87) ~[org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	... 66 more
+2020-02-27T01:41:37,395 [-] [HTTP-Listener I/O dispatcher-1] ERROR SourceHandler I/O error: Se ha forzado la interrupción de una conexión existente por el host remoto
+java.io.IOException: Se ha forzado la interrupción de una conexión existente por el host remoto
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_191]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43) ~[?:1.8.0_191]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_191]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197) ~[?:1.8.0_191]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[?:1.8.0_191]
+	at org.apache.http.impl.nio.reactor.SessionInputBufferImpl.fill(SessionInputBufferImpl.java:164) ~[httpcore-nio_4.3.3.wso2v4.jar:?]
+	at org.apache.http.impl.nio.codecs.AbstractMessageParser.fillBuffer(AbstractMessageParser.java:136) ~[httpcore-nio_4.3.3.wso2v4.jar:?]
+	at org.apache.synapse.transport.http.conn.LoggingNHttpServerConnection$LoggingNHttpMessageParser.fillBuffer(LoggingNHttpServerConnection.java:403) ~[synapse-nhttp-transport_2.1.7.wso2v131.jar:?]
+	at org.apache.http.impl.nio.DefaultNHttpServerConnection.consumeInput(DefaultNHttpServerConnection.java:261) [httpcore-nio_4.3.3.wso2v4.jar:?]
+	at org.apache.synapse.transport.http.conn.LoggingNHttpServerConnection.consumeInput(LoggingNHttpServerConnection.java:114) [synapse-nhttp-transport_2.1.7.wso2v131.jar:?]
+	at org.apache.synapse.transport.passthru.ServerIODispatch.onInputReady(ServerIODispatch.java:82) [synapse-nhttp-transport_2.1.7.wso2v131.jar:?]
+	at org.apache.synapse.transport.passthru.ServerIODispatch.onInputReady(ServerIODispatch.java:39) [synapse-nhttp-transport_2.1.7.wso2v131.jar:?]
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.inputReady(AbstractIODispatch.java:113) [httpcore-nio_4.3.3.wso2v4.jar:?]
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.readable(BaseIOReactor.java:159) [httpcore-nio_4.3.3.wso2v4.jar:?]
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvent(AbstractIOReactor.java:338) [httpcore-nio_4.3.3.wso2v4.jar:?]
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processEvents(AbstractIOReactor.java:316) [httpcore-nio_4.3.3.wso2v4.jar:?]
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:277) [httpcore-nio_4.3.3.wso2v4.jar:?]
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:105) [httpcore-nio_4.3.3.wso2v4.jar:?]
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:586) [httpcore-nio_4.3.3.wso2v4.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+2020-02-27T01:41:37,594 [-] [Timer-12]  WARN PassThroughHttpSender Trying to submit a response to an already closed connection : http-incoming-2463
+2020-02-27T01:41:37,276 [-] [https-jsse-nio-9443-exec-50] ERROR AxisServlet java.io.IOException: Se ha anulado una conexión establecida por el software en su equipo host.
+org.apache.catalina.connector.ClientAbortException: java.io.IOException: Se ha anulado una conexión establecida por el software en su equipo host.
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:299) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:262) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:118) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:141) ~[?:1.8.0_191]
+	at org.apache.axis2.transport.http.AxisServlet.doPost(AxisServlet.java:183) [axis2_1.6.1.wso2v38.jar:?]
+	at org.wso2.carbon.core.transports.CarbonServlet.doPost(CarbonServlet.java:238) [org.wso2.carbon.core_4.5.1.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660) [tomcat-servlet-api_9.0.22.wso2v1.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) [tomcat-servlet-api_9.0.22.wso2v1.jar:?]
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61) [org.eclipse.equinox.http.servlet_1.1.400.v20130418-1354.jar:?]
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128) [org.eclipse.equinox.http.servlet_1.1.400.v20130418-1354.jar:?]
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68) [org.eclipse.equinox.http.servlet_1.1.400.v20130418-1354.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) [tomcat-servlet-api_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.tomcat.ext.servlet.DelegationServlet.service(DelegationServlet.java:68) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.owasp.csrfguard.CsrfGuardFilter.doFilter(CsrfGuardFilter.java:72) [csrfguard_3.1.0.wso2v3.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.tomcat.ext.filter.CharacterSetFilter.doFilter(CharacterSetFilter.java:65) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.identity.context.rewrite.valve.TenantContextRewriteValve.invoke(TenantContextRewriteValve.java:80) [org.wso2.carbon.identity.context.rewrite.valve_1.3.6.jar:?]
+	at org.wso2.carbon.identity.authz.valve.AuthorizationValve.invoke(AuthorizationValve.java:100) [org.wso2.carbon.identity.authz.valve_1.3.6.jar:?]
+	at org.wso2.carbon.identity.auth.valve.AuthenticationValve.invoke(AuthenticationValve.java:74) [org.wso2.carbon.identity.auth.valve_1.3.6.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:99) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:49) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:62) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:146) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.RequestCorrelationIdValve.invoke(RequestCorrelationIdValve.java:116) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat_9.0.22.wso2v1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_191]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat_9.0.22.wso2v1.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+Caused by: java.io.IOException: Se ha anulado una conexión establecida por el software en su equipo host.
+	at sun.nio.ch.SocketDispatcher.write0(Native Method) ~[?:1.8.0_191]
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51) ~[?:1.8.0_191]
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93) ~[?:1.8.0_191]
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65) ~[?:1.8.0_191]
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:471) ~[?:1.8.0_191]
+	at org.apache.tomcat.util.net.SecureNioChannel.write(SecureNioChannel.java:787) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.NioBlockingSelector.write(NioBlockingSelector.java:101) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:152) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SecureNioChannel.flush(SecureNioChannel.java:131) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.doWrite(NioEndpoint.java:1265) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SocketWrapperBase.doWrite(SocketWrapperBase.java:793) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SocketWrapperBase.flushBlocking(SocketWrapperBase.java:746) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SocketWrapperBase.flush(SocketWrapperBase.java:736) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.Http11OutputBuffer$SocketOutputBuffer.flush(Http11OutputBuffer.java:564) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.filters.ChunkedOutputFilter.flush(ChunkedOutputFilter.java:157) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.Http11OutputBuffer.flush(Http11OutputBuffer.java:217) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.Http11Processor.flush(Http11Processor.java:1150) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProcessor.action(AbstractProcessor.java:394) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.Response.action(Response.java:209) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:295) ~[tomcat_9.0.22.wso2v1.jar:?]
+	... 55 more
+2020-02-27T01:41:37,871 [-] [https-jsse-nio-9443-exec-50] ERROR PassThroughHttpSSLSender IO Error sending response message
+org.apache.axis2.AxisFault: java.io.IOException: Se ha anulado una conexión establecida por el software en su equipo host.
+	at org.apache.axis2.AxisFault.makeFault(AxisFault.java:430) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:78) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.synapse.transport.passthru.PassThroughHttpSender.sendUsingOutputStream(PassThroughHttpSender.java:328) [synapse-nhttp-transport_2.1.7.wso2v131.jar:?]
+	at org.apache.synapse.transport.passthru.PassThroughHttpSender.invoke(PassThroughHttpSender.java:292) [synapse-nhttp-transport_2.1.7.wso2v131.jar:?]
+	at org.apache.axis2.engine.AxisEngine.sendFault(AxisEngine.java:525) [axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.transport.http.AxisServlet.handleFault(AxisServlet.java:434) [axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.transport.http.AxisServlet.doPost(AxisServlet.java:217) [axis2_1.6.1.wso2v38.jar:?]
+	at org.wso2.carbon.core.transports.CarbonServlet.doPost(CarbonServlet.java:238) [org.wso2.carbon.core_4.5.1.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660) [tomcat-servlet-api_9.0.22.wso2v1.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) [tomcat-servlet-api_9.0.22.wso2v1.jar:?]
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61) [org.eclipse.equinox.http.servlet_1.1.400.v20130418-1354.jar:?]
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128) [org.eclipse.equinox.http.servlet_1.1.400.v20130418-1354.jar:?]
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68) [org.eclipse.equinox.http.servlet_1.1.400.v20130418-1354.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) [tomcat-servlet-api_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.tomcat.ext.servlet.DelegationServlet.service(DelegationServlet.java:68) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.owasp.csrfguard.CsrfGuardFilter.doFilter(CsrfGuardFilter.java:72) [csrfguard_3.1.0.wso2v3.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.tomcat.ext.filter.CharacterSetFilter.doFilter(CharacterSetFilter.java:65) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.identity.context.rewrite.valve.TenantContextRewriteValve.invoke(TenantContextRewriteValve.java:80) [org.wso2.carbon.identity.context.rewrite.valve_1.3.6.jar:?]
+	at org.wso2.carbon.identity.authz.valve.AuthorizationValve.invoke(AuthorizationValve.java:100) [org.wso2.carbon.identity.authz.valve_1.3.6.jar:?]
+	at org.wso2.carbon.identity.auth.valve.AuthenticationValve.invoke(AuthenticationValve.java:74) [org.wso2.carbon.identity.auth.valve_1.3.6.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:99) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:49) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:62) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:146) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.RequestCorrelationIdValve.invoke(RequestCorrelationIdValve.java:116) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat_9.0.22.wso2v1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_191]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat_9.0.22.wso2v1.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+Caused by: com.ctc.wstx.exc.WstxIOException: java.io.IOException: Se ha anulado una conexión establecida por el software en su equipo host.
+	at com.ctc.wstx.sw.BaseStreamWriter._finishDocument(BaseStreamWriter.java:1406) ~[axiom_1.2.11.wso2v16.jar:?]
+	at com.ctc.wstx.sw.BaseStreamWriter.close(BaseStreamWriter.java:247) ~[axiom_1.2.11.wso2v16.jar:?]
+	at org.apache.axiom.om.impl.MTOMXMLStreamWriter.close(MTOMXMLStreamWriter.java:188) ~[axiom_1.2.11.wso2v16.jar:?]
+	at org.apache.axiom.om.impl.llom.OMSerializableImpl.serializeAndConsume(OMSerializableImpl.java:197) ~[axiom_1.2.11.wso2v16.jar:?]
+	at org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:74) ~[axis2_1.6.1.wso2v38.jar:?]
+	... 56 more
+Caused by: org.apache.catalina.connector.ClientAbortException: java.io.IOException: Se ha anulado una conexión establecida por el software en su equipo host.
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:299) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:262) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:118) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at com.ctc.wstx.io.UTF8Writer.flush(UTF8Writer.java:103) ~[axiom_1.2.11.wso2v16.jar:?]
+	at com.ctc.wstx.sw.BufferingXmlWriter.flush(BufferingXmlWriter.java:225) ~[axiom_1.2.11.wso2v16.jar:?]
+	at com.ctc.wstx.sw.BufferingXmlWriter.close(BufferingXmlWriter.java:198) ~[axiom_1.2.11.wso2v16.jar:?]
+	at com.ctc.wstx.sw.BaseStreamWriter._finishDocument(BaseStreamWriter.java:1404) ~[axiom_1.2.11.wso2v16.jar:?]
+	at com.ctc.wstx.sw.BaseStreamWriter.close(BaseStreamWriter.java:247) ~[axiom_1.2.11.wso2v16.jar:?]
+	at org.apache.axiom.om.impl.MTOMXMLStreamWriter.close(MTOMXMLStreamWriter.java:188) ~[axiom_1.2.11.wso2v16.jar:?]
+	at org.apache.axiom.om.impl.llom.OMSerializableImpl.serializeAndConsume(OMSerializableImpl.java:197) ~[axiom_1.2.11.wso2v16.jar:?]
+	at org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:74) ~[axis2_1.6.1.wso2v38.jar:?]
+	... 56 more
+Caused by: java.io.IOException: Se ha anulado una conexión establecida por el software en su equipo host.
+	at sun.nio.ch.SocketDispatcher.write0(Native Method) ~[?:1.8.0_191]
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51) ~[?:1.8.0_191]
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93) ~[?:1.8.0_191]
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65) ~[?:1.8.0_191]
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:471) ~[?:1.8.0_191]
+	at org.apache.tomcat.util.net.SecureNioChannel.write(SecureNioChannel.java:787) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.NioBlockingSelector.write(NioBlockingSelector.java:101) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:152) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SecureNioChannel.flush(SecureNioChannel.java:131) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.doWrite(NioEndpoint.java:1265) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SocketWrapperBase.doWrite(SocketWrapperBase.java:793) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SocketWrapperBase.flushBlocking(SocketWrapperBase.java:746) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SocketWrapperBase.flush(SocketWrapperBase.java:736) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.Http11OutputBuffer$SocketOutputBuffer.flush(Http11OutputBuffer.java:564) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.filters.ChunkedOutputFilter.flush(ChunkedOutputFilter.java:157) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.Http11OutputBuffer.flush(Http11OutputBuffer.java:217) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.Http11Processor.flush(Http11Processor.java:1150) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProcessor.action(AbstractProcessor.java:394) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.Response.action(Response.java:209) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:295) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:262) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:118) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at com.ctc.wstx.io.UTF8Writer.flush(UTF8Writer.java:103) ~[axiom_1.2.11.wso2v16.jar:?]
+	at com.ctc.wstx.sw.BufferingXmlWriter.flush(BufferingXmlWriter.java:225) ~[axiom_1.2.11.wso2v16.jar:?]
+	at com.ctc.wstx.sw.BufferingXmlWriter.close(BufferingXmlWriter.java:198) ~[axiom_1.2.11.wso2v16.jar:?]
+	at com.ctc.wstx.sw.BaseStreamWriter._finishDocument(BaseStreamWriter.java:1404) ~[axiom_1.2.11.wso2v16.jar:?]
+	at com.ctc.wstx.sw.BaseStreamWriter.close(BaseStreamWriter.java:247) ~[axiom_1.2.11.wso2v16.jar:?]
+	at org.apache.axiom.om.impl.MTOMXMLStreamWriter.close(MTOMXMLStreamWriter.java:188) ~[axiom_1.2.11.wso2v16.jar:?]
+	at org.apache.axiom.om.impl.llom.OMSerializableImpl.serializeAndConsume(OMSerializableImpl.java:197) ~[axiom_1.2.11.wso2v16.jar:?]
+	at org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:74) ~[axis2_1.6.1.wso2v38.jar:?]
+	... 56 more
+2020-02-27T01:41:38,058 [-] [https-jsse-nio-9443-exec-50] ERROR [bridgeservlet] Servlet.service() for servlet [bridgeservlet] in context with path [/] threw exception [org.apache.axis2.AxisFault: IO Error sending response message] with root cause
+java.io.IOException: Se ha anulado una conexión establecida por el software en su equipo host.
+	at sun.nio.ch.SocketDispatcher.write0(Native Method) ~[?:1.8.0_191]
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51) ~[?:1.8.0_191]
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93) ~[?:1.8.0_191]
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65) ~[?:1.8.0_191]
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:471) ~[?:1.8.0_191]
+	at org.apache.tomcat.util.net.SecureNioChannel.write(SecureNioChannel.java:787) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.NioBlockingSelector.write(NioBlockingSelector.java:101) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:152) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SecureNioChannel.flush(SecureNioChannel.java:131) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.doWrite(NioEndpoint.java:1265) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SocketWrapperBase.doWrite(SocketWrapperBase.java:793) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SocketWrapperBase.flushBlocking(SocketWrapperBase.java:746) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SocketWrapperBase.flush(SocketWrapperBase.java:736) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.Http11OutputBuffer$SocketOutputBuffer.flush(Http11OutputBuffer.java:564) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.filters.ChunkedOutputFilter.flush(ChunkedOutputFilter.java:157) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.Http11OutputBuffer.flush(Http11OutputBuffer.java:217) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.Http11Processor.flush(Http11Processor.java:1150) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProcessor.action(AbstractProcessor.java:394) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.Response.action(Response.java:209) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:295) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:262) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:118) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at com.ctc.wstx.io.UTF8Writer.flush(UTF8Writer.java:103) ~[axiom_1.2.11.wso2v16.jar:?]
+	at com.ctc.wstx.sw.BufferingXmlWriter.flush(BufferingXmlWriter.java:225) ~[axiom_1.2.11.wso2v16.jar:?]
+	at com.ctc.wstx.sw.BufferingXmlWriter.close(BufferingXmlWriter.java:198) ~[axiom_1.2.11.wso2v16.jar:?]
+	at com.ctc.wstx.sw.BaseStreamWriter._finishDocument(BaseStreamWriter.java:1404) ~[axiom_1.2.11.wso2v16.jar:?]
+	at com.ctc.wstx.sw.BaseStreamWriter.close(BaseStreamWriter.java:247) ~[axiom_1.2.11.wso2v16.jar:?]
+	at org.apache.axiom.om.impl.MTOMXMLStreamWriter.close(MTOMXMLStreamWriter.java:188) ~[axiom_1.2.11.wso2v16.jar:?]
+	at org.apache.axiom.om.impl.llom.OMSerializableImpl.serializeAndConsume(OMSerializableImpl.java:197) ~[axiom_1.2.11.wso2v16.jar:?]
+	at org.apache.axis2.transport.http.SOAPMessageFormatter.writeTo(SOAPMessageFormatter.java:74) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.synapse.transport.passthru.PassThroughHttpSender.sendUsingOutputStream(PassThroughHttpSender.java:328) ~[synapse-nhttp-transport_2.1.7.wso2v131.jar:?]
+	at org.apache.synapse.transport.passthru.PassThroughHttpSender.invoke(PassThroughHttpSender.java:292) ~[synapse-nhttp-transport_2.1.7.wso2v131.jar:?]
+	at org.apache.axis2.engine.AxisEngine.sendFault(AxisEngine.java:525) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.transport.http.AxisServlet.handleFault(AxisServlet.java:434) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.apache.axis2.transport.http.AxisServlet.doPost(AxisServlet.java:217) ~[axis2_1.6.1.wso2v38.jar:?]
+	at org.wso2.carbon.core.transports.CarbonServlet.doPost(CarbonServlet.java:238) ~[org.wso2.carbon.core_4.5.1.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660) ~[tomcat-servlet-api_9.0.22.wso2v1.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-servlet-api_9.0.22.wso2v1.jar:?]
+	at org.eclipse.equinox.http.servlet.internal.ServletRegistration.service(ServletRegistration.java:61) ~[?:?]
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.processAlias(ProxyServlet.java:128) ~[?:?]
+	at org.eclipse.equinox.http.servlet.internal.ProxyServlet.service(ProxyServlet.java:68) ~[?:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-servlet-api_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.tomcat.ext.servlet.DelegationServlet.service(DelegationServlet.java:68) ~[org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.owasp.csrfguard.CsrfGuardFilter.doFilter(CsrfGuardFilter.java:72) ~[csrfguard_3.1.0.wso2v3.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.tomcat.ext.filter.CharacterSetFilter.doFilter(CharacterSetFilter.java:65) ~[org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.identity.context.rewrite.valve.TenantContextRewriteValve.invoke(TenantContextRewriteValve.java:80) [org.wso2.carbon.identity.context.rewrite.valve_1.3.6.jar:?]
+	at org.wso2.carbon.identity.authz.valve.AuthorizationValve.invoke(AuthorizationValve.java:100) [org.wso2.carbon.identity.authz.valve_1.3.6.jar:?]
+	at org.wso2.carbon.identity.auth.valve.AuthenticationValve.invoke(AuthenticationValve.java:74) [org.wso2.carbon.identity.auth.valve_1.3.6.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:99) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:49) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:62) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:146) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.RequestCorrelationIdValve.invoke(RequestCorrelationIdValve.java:116) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat_9.0.22.wso2v1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_191]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat_9.0.22.wso2v1.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+2020-02-27T01:48:27,358 [-] [PassThroughMessageProcessor-118]  WARN EndpointContext Endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://localhost:83/api/v1 will be marked SUSPENDED as it failed
+2020-02-27T01:48:27,357 [-] [PassThroughHTTPSender]  WARN ConnectCallback Connection refused or failed for : localhost/127.0.0.1:83
+2020-02-27T01:48:27,359 [-] [PassThroughMessageProcessor-118]  WARN EndpointContext Suspending endpoint : Georeferencia_Port_83--vv1.0_APIproductionEndpoint with address http://localhost:83/api/v1 - current suspend duration is : 30000ms - Next retry after : Thu Feb 27 01:48:57 COT 2020
+2020-02-27T02:53:07,597 [-] [https-jsse-nio-9443-exec-25] ERROR refresh:jag {}
+2020-02-27T02:53:07,632 [-] [https-jsse-nio-9443-exec-33] ERROR AMDefaultKeyManagerImpl Invalid OAuth Token : Invalid Access Token. ACTIVE access token is not found.
+2020-02-27T02:53:07,635 [-] [https-jsse-nio-9443-exec-33] ERROR WebAppAuthenticatorImpl Provided access token is invalid
+2020-02-27T10:19:43,493 [-] [https-jsse-nio-9443-exec-50] ERROR refresh:jag {}
+2020-02-27T10:19:43,666 [-] [https-jsse-nio-9443-exec-12] ERROR AMDefaultKeyManagerImpl Invalid OAuth Token : Invalid Access Token. ACTIVE access token is not found.
+2020-02-27T10:19:43,669 [-] [https-jsse-nio-9443-exec-12] ERROR WebAppAuthenticatorImpl Provided access token is invalid
+2020-02-27T20:34:36,797 [-] [PassThroughMessageProcessor-183] ERROR JWTValidator JWT token is expired
+2020-02-27T20:34:36,906 [-] [PassThroughMessageProcessor-183]  WARN APIAuthenticationHandler API authentication failure due to Access Token Expired
+2020-02-27T21:01:08,282 [-] [Thread-4]  WARN ApplicationManagementServiceComponent Templates directory not found at C:\WSO2\repository\resources\identity\authntemplates
+2020-02-27T21:01:12,394 [-] [Thread-4]  WARN IdentityEventServiceComponent Properties for default.notification.sender is not configured. This event handler will not be activated
+2020-02-27T21:01:59,062 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:01:59,064 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:01:59,064 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:02:05,459 [-] [Timer-10]  WARN AppDeployerServiceComponent Waiting for required OSGi services: org.wso2.carbon.application.deployer.synapse.service.SynapseAppDeployerService,org.wso2.carbon.mediation.initializer.services.SynapseEnvironmentService,
+2020-02-27T21:02:05,524 [-] [Timer-11]  WARN StartupFinalizerServiceComponent Waiting for required OSGi services: org.wso2.carbon.application.deployer.service.CappDeploymentService,org.wso2.carbon.server.admin.common.IServerAdmin,org.wso2.carbon.throttling.agent.ThrottlingAgent,
+2020-02-27T21:02:16,072 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:02:16,076 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:02:16,080 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:02:33,078 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:02:33,080 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:02:33,090 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:02:50,087 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:02:50,090 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:02:50,099 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:03:05,456 [-] [Timer-10]  WARN AppDeployerServiceComponent Waiting for required OSGi services: org.wso2.carbon.application.deployer.synapse.service.SynapseAppDeployerService,org.wso2.carbon.mediation.initializer.services.SynapseEnvironmentService,
+2020-02-27T21:03:05,495 [-] [Timer-11]  WARN StartupFinalizerServiceComponent Waiting for required OSGi services: org.wso2.carbon.application.deployer.service.CappDeploymentService,org.wso2.carbon.server.admin.common.IServerAdmin,org.wso2.carbon.throttling.agent.ThrottlingAgent,
+2020-02-27T21:03:07,099 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:03:07,099 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:03:07,121 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:03:24,112 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:03:24,112 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:03:24,128 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:03:41,125 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:03:41,133 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:03:41,158 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:03:58,133 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:03:58,143 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:03:58,167 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:04:05,456 [-] [Timer-10]  WARN AppDeployerServiceComponent Waiting for required OSGi services: org.wso2.carbon.application.deployer.synapse.service.SynapseAppDeployerService,org.wso2.carbon.mediation.initializer.services.SynapseEnvironmentService,
+2020-02-27T21:04:05,494 [-] [Timer-11]  WARN StartupFinalizerServiceComponent Waiting for required OSGi services: org.wso2.carbon.application.deployer.service.CappDeploymentService,org.wso2.carbon.server.admin.common.IServerAdmin,org.wso2.carbon.throttling.agent.ThrottlingAgent,
+2020-02-27T21:04:15,140 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:04:15,147 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:04:15,173 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:04:32,158 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:04:32,169 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:04:32,182 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:04:49,169 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:04:49,174 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:04:49,192 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:05:05,480 [-] [Timer-10]  WARN AppDeployerServiceComponent Waiting for required OSGi services: org.wso2.carbon.application.deployer.synapse.service.SynapseAppDeployerService,org.wso2.carbon.mediation.initializer.services.SynapseEnvironmentService,
+2020-02-27T21:05:05,525 [-] [Timer-11]  WARN StartupFinalizerServiceComponent Waiting for required OSGi services: org.wso2.carbon.application.deployer.service.CappDeploymentService,org.wso2.carbon.server.admin.common.IServerAdmin,org.wso2.carbon.throttling.agent.ThrottlingAgent,
+2020-02-27T21:05:06,180 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:05:06,180 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:05:06,199 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-27T21:05:17,619 [-] [Thread-4]  WARN QpidServiceComponent MQTT Transport is disabled as per configuration.
+2020-02-27T21:05:28,407 [-] [Thread-43]  WARN JMSListener Polling tasks on destination : tokenRevocation of type topic for listener Siddhi-JMS-Consumer#tokenRevocation have not yet started after 3 seconds ..
+2020-02-27T21:05:28,414 [-] [Thread-42]  WARN JMSListener Polling tasks on destination : throttleData of type topic for listener Siddhi-JMS-Consumer#throttleData have not yet started after 3 seconds ..
+2020-02-27T21:05:31,752 [-] [JMSThreads62245d0a-4fb7-4b2e-924d-f968581d9f90-1]  WARN JMSUtils Cannot locate destination : throttleData
+2020-02-27T21:05:31,752 [-] [JMSThreads8f202b0a-c4ce-48d4-86d8-082c532371b9-1]  WARN JMSUtils Cannot locate destination : tokenRevocation
+2020-02-27T21:09:04,515 [-] [https-jsse-nio-9443-exec-40] ERROR refresh:jag {}
+2020-02-27T21:09:04,830 [-] [https-jsse-nio-9443-exec-1] ERROR AMDefaultKeyManagerImpl Invalid OAuth Token : Invalid Access Token. ACTIVE access token is not found.
+2020-02-27T21:09:04,859 [-] [https-jsse-nio-9443-exec-1] ERROR WebAppAuthenticatorImpl Provided access token is invalid
+2020-02-27T22:06:21,322 [-] [HTTP-Listener I/O dispatcher-1]  WARN AccessConfiguration Error loading properties from file: access-log.properties
+2020-02-27T22:06:22,262 [-] [HTTP-Listener I/O dispatcher-1]  WARN MiscellaneousUtil Error loading properties from a file at from the System defined location: access-log.properties
+2020-02-27T22:06:22,294 [-] [HTTP-Listener I/O dispatcher-1]  WARN MiscellaneousUtil Error loading properties from a file at from the System defined location: access-log.properties
+2020-02-27T22:06:23,915 [-] [PassThroughMessageProcessor-1] ERROR JWTValidator JWT token is expired
+2020-02-27T22:06:23,942 [-] [PassThroughMessageProcessor-1]  WARN APIAuthenticationHandler API authentication failure due to Access Token Expired
+2020-02-27T23:04:42,065 [-] [https-jsse-nio-9443-exec-14] ERROR refresh:jag {}
+2020-02-27T23:04:42,207 [-] [https-jsse-nio-9443-exec-11] ERROR AMDefaultKeyManagerImpl Invalid OAuth Token : Invalid Access Token. ACTIVE access token is not found.
+2020-02-27T23:04:42,269 [-] [https-jsse-nio-9443-exec-11] ERROR WebAppAuthenticatorImpl Provided access token is invalid
+2020-02-28T08:07:54,984 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:54,984 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,342 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,345 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,347 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,358 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,361 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,364 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,371 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,371 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,374 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,375 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,395 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,404 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,407 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,424 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,436 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,396 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,439 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,439 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,443 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,444 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,448 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,450 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,452 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,454 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,454 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,456 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,461 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,457 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,473 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,476 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,477 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,480 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,482 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,483 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,486 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,488 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,491 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,493 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,494 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,495 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,503 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,504 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,506 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,499 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,548 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,587 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,589 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,594 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,596 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,598 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,602 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,602 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,604 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,605 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,608 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,609 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,613 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,623 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,628 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,783 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,627 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:57,828 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,071 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,075 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,076 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,193 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,195 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,200 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,202 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,206 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,208 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,215 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,222 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,227 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,229 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,234 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,236 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,238 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,240 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,242 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,244 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,248 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,251 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,255 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,258 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,391 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,432 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,500 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,521 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,557 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,568 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,611 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,614 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,626 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,628 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,634 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,638 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,640 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,111 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,661 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,663 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,667 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,698 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,746 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,752 [-] [DataBridge-ReconnectionService-pool-8-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:07:58,804 [-] [DataBridge-ReconnectionService-pool-4-thread-1]  WARN DataEndpointGroup No receiver is reachable at reconnection, will try to reconnect every 30 sec
+2020-02-28T08:16:58,156 [-] [Timer-15]  WARN MiscellaneousUtil Error loading properties from a file at from the System defined location: access-log.properties
+2020-02-28T21:42:59,251 [-] [Thread-4]  WARN ApplicationManagementServiceComponent Templates directory not found at C:\WSO2\repository\resources\identity\authntemplates
+2020-02-28T21:43:02,545 [-] [Thread-4]  WARN IdentityEventServiceComponent Properties for default.notification.sender is not configured. This event handler will not be activated
+2020-02-28T21:43:50,684 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-28T21:43:50,684 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-28T21:43:50,684 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-28T21:43:57,807 [-] [Timer-10]  WARN AppDeployerServiceComponent Waiting for required OSGi services: org.wso2.carbon.application.deployer.synapse.service.SynapseAppDeployerService,org.wso2.carbon.mediation.initializer.services.SynapseEnvironmentService,
+2020-02-28T21:43:57,849 [-] [Timer-11]  WARN StartupFinalizerServiceComponent Waiting for required OSGi services: org.wso2.carbon.application.deployer.service.CappDeploymentService,org.wso2.carbon.server.admin.common.IServerAdmin,org.wso2.carbon.throttling.agent.ThrottlingAgent,
+2020-02-28T21:44:07,690 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-28T21:44:07,690 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-28T21:44:07,690 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-28T21:44:24,707 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-28T21:44:24,707 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-28T21:44:24,721 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-28T21:44:41,714 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-28T21:44:41,716 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-28T21:44:41,736 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-28T21:44:57,807 [-] [Timer-10]  WARN AppDeployerServiceComponent Waiting for required OSGi services: org.wso2.carbon.application.deployer.synapse.service.SynapseAppDeployerService,org.wso2.carbon.mediation.initializer.services.SynapseEnvironmentService,
+2020-02-28T21:44:57,833 [-] [Timer-11]  WARN StartupFinalizerServiceComponent Waiting for required OSGi services: org.wso2.carbon.application.deployer.service.CappDeploymentService,org.wso2.carbon.server.admin.common.IServerAdmin,org.wso2.carbon.throttling.agent.ThrottlingAgent,
+2020-02-28T21:44:58,722 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-28T21:44:58,722 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-28T21:44:58,743 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-28T21:45:05,567 [-] [Thread-4]  WARN QpidServiceComponent MQTT Transport is disabled as per configuration.
+2020-02-28T21:45:15,518 [-] [Thread-42]  WARN JMSListener Polling tasks on destination : throttleData of type topic for listener Siddhi-JMS-Consumer#throttleData have not yet started after 3 seconds ..
+2020-02-28T21:45:15,610 [-] [Thread-43]  WARN JMSListener Polling tasks on destination : tokenRevocation of type topic for listener Siddhi-JMS-Consumer#tokenRevocation have not yet started after 3 seconds ..
+2020-02-28T21:45:19,411 [-] [JMSThreads00d6df10-6933-4ecb-a5e4-65ead18d14e9-1]  WARN JMSUtils Cannot locate destination : throttleData
+2020-02-28T21:45:19,408 [-] [JMSThreadscbc2ef0e-8948-4c85-ace5-bd19ec3a90de-1]  WARN JMSUtils Cannot locate destination : tokenRevocation
+2020-02-28T21:48:24,261 [-] [https-jsse-nio-9443-exec-14] ERROR refresh:jag {}
+2020-02-28T21:48:24,509 [-] [https-jsse-nio-9443-exec-25] ERROR AMDefaultKeyManagerImpl Invalid OAuth Token : Invalid Access Token. ACTIVE access token is not found.
+2020-02-28T21:48:24,517 [-] [https-jsse-nio-9443-exec-25] ERROR WebAppAuthenticatorImpl Provided access token is invalid
+2020-02-28T21:54:02,259 [-] [HTTP-Listener I/O dispatcher-1]  WARN AccessConfiguration Error loading properties from file: access-log.properties
+2020-02-28T21:54:02,268 [-] [HTTP-Listener I/O dispatcher-1]  WARN MiscellaneousUtil Error loading properties from a file at from the System defined location: access-log.properties
+2020-02-28T21:54:02,273 [-] [HTTP-Listener I/O dispatcher-1]  WARN MiscellaneousUtil Error loading properties from a file at from the System defined location: access-log.properties
+2020-02-28T22:09:56,674 [-] [https-jsse-nio-9443-exec-1] ERROR ApisApiServiceImpl Error occurred while sending the HEAD request to the given endpoint url:
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method) ~[?:1.8.0_191]
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85) ~[?:1.8.0_191]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350) ~[?:1.8.0_191]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206) ~[?:1.8.0_191]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188) ~[?:1.8.0_191]
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172) ~[?:1.8.0_191]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:1.8.0_191]
+	at java.net.Socket.connect(Socket.java:589) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_191]
+	at org.apache.commons.httpclient.protocol.ReflectionSocketFactory.createSocket(ReflectionSocketFactory.java:140) ~[commons-httpclient_3.1.0.wso2v6.jar:?]
+	at org.apache.commons.httpclient.protocol.DefaultProtocolSocketFactory.createSocket(DefaultProtocolSocketFactory.java:125) ~[commons-httpclient_3.1.0.wso2v6.jar:?]
+	at org.apache.commons.httpclient.HttpConnection.open(HttpConnection.java:707) ~[commons-httpclient_3.1.0.wso2v6.jar:?]
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:387) ~[commons-httpclient_3.1.0.wso2v6.jar:?]
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171) ~[commons-httpclient_3.1.0.wso2v6.jar:?]
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397) ~[commons-httpclient_3.1.0.wso2v6.jar:?]
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:323) ~[commons-httpclient_3.1.0.wso2v6.jar:?]
+	at org.wso2.carbon.apimgt.rest.api.publisher.v1.impl.ApisApiServiceImpl.sendHttpHEADRequest(ApisApiServiceImpl.java:3719) [classes/:?]
+	at org.wso2.carbon.apimgt.rest.api.publisher.v1.impl.ApisApiServiceImpl.validateEndpoint(ApisApiServiceImpl.java:2737) [classes/:?]
+	at org.wso2.carbon.apimgt.rest.api.publisher.v1.ApisApi.validateEndpoint(ApisApi.java:1027) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_191]
+	at org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:193) [cxf-rt-frontend-jaxrs-3.2.8.jar:3.2.8]
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103) [cxf-rt-frontend-jaxrs-3.2.8.jar:3.2.8]
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPost(AbstractHTTPServlet.java:220) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660) [tomcat-servlet-api_9.0.22.wso2v1.jar:?]
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.identity.context.rewrite.valve.TenantContextRewriteValve.invoke(TenantContextRewriteValve.java:80) [org.wso2.carbon.identity.context.rewrite.valve_1.3.6.jar:?]
+	at org.wso2.carbon.identity.authz.valve.AuthorizationValve.invoke(AuthorizationValve.java:100) [org.wso2.carbon.identity.authz.valve_1.3.6.jar:?]
+	at org.wso2.carbon.identity.auth.valve.AuthenticationValve.invoke(AuthenticationValve.java:74) [org.wso2.carbon.identity.auth.valve_1.3.6.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:99) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:49) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:62) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:146) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.RequestCorrelationIdValve.invoke(RequestCorrelationIdValve.java:116) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat_9.0.22.wso2v1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_191]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat_9.0.22.wso2v1.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+2020-02-28T22:10:42,941 [-] [https-jsse-nio-9443-exec-36]  WARN LocalEntryAdmin No entry exists by the key : 85885425-2230-48bf-a1a7-5e441c365e17
+2020-02-28T23:00:51,505 [-] [PassThroughMessageProcessor-221] ERROR JWTValidator JWT token is expired
+2020-02-28T23:00:51,515 [-] [PassThroughMessageProcessor-221]  WARN APIAuthenticationHandler API authentication failure due to Access Token Expired
+2020-02-29T00:08:36,235 [-] [PassThroughMessageProcessor-129] ERROR JWTValidator Invalid JWT token. XXXXXSV9ccHDX5w
+2020-02-29T00:08:36,235 [-] [PassThroughMessageProcessor-128] ERROR JWTValidator JWT token is expired
+2020-02-29T00:08:36,235 [-] [Timer-15]  WARN MiscellaneousUtil Error loading properties from a file at from the System defined location: access-log.properties
+2020-02-29T00:09:50,202 [-] [PassThroughMessageProcessor-128]  WARN APIAuthenticationHandler API authentication failure due to Access Token Expired
+2020-02-29T00:09:50,202 [-] [HTTP-Listener I/O dispatcher-1]  WARN SourceHandler Connection time out after request is read: http-incoming-173 Socket Timeout : 180000 Remote Address : /0:0:0:0:0:0:0:1:63816
+2020-02-29T00:09:50,203 [-] [PassThroughMessageProcessor-129]  WARN APIAuthenticationHandler API authentication failure due to Invalid Credentials
+2020-02-29T00:09:50,226 [-] [PassThroughMessageProcessor-128]  WARN PassThroughHttpSender Trying to submit a response to an already closed connection : http-incoming-173
+2020-02-29T01:10:06,962 [-] [PassThroughMessageProcessor-332] ERROR JWTValidator JWT token is expired
+2020-02-29T01:10:06,984 [-] [PassThroughMessageProcessor-332]  WARN APIAuthenticationHandler API authentication failure due to Access Token Expired
+2020-02-29T02:11:05,859 [-] [PassThroughMessageProcessor-11] ERROR JWTValidator JWT token is expired
+2020-02-29T02:11:05,876 [-] [PassThroughMessageProcessor-11]  WARN APIAuthenticationHandler API authentication failure due to Access Token Expired
+2020-02-29T02:25:50,211 [-] [Timer-12]  WARN EndpointContext Suspending endpoint : Carga_Excel--vv1.0_APIproductionEndpoint with address http://localhost:1902 - current suspend duration is : 30000ms - Next retry after : Sat Feb 29 02:26:20 COT 2020
+2020-02-29T02:25:52,078 [-] [Timer-12]  WARN TimeoutHandler Expiring message ID : urn:uuid:f4c13b7d-7bd1-4afa-b283-0f659ed3b127; dropping message after GLOBAL_TIMEOUT of : 120 seconds for null, URI : http://localhost:1902/Escuela/cargaDatos, Received through API : admin--Carga_Excel:vv1.0
+2020-02-29T02:25:57,101 [-] [PassThroughMessageProcessor-289]  WARN SynapseCallbackReceiver Synapse received a response for the request with message Id : urn:uuid:f4c13b7d-7bd1-4afa-b283-0f659ed3b127 and correlation_id : null But a callback is not registered (anymore) to process this response
+2020-02-29T02:39:48,613 [-] [PassThroughHTTPSender]  WARN ConnectCallback Connection refused or failed for : localhost/127.0.0.1:84
+2020-02-29T02:39:48,824 [-] [PassThroughMessageProcessor-360]  WARN EndpointContext Endpoint : Mapa-Digital_Port_84--vv1.0_APIproductionEndpoint with address http://localhost:84/api/v1/mapa-digital will be marked SUSPENDED as it failed
+2020-02-29T02:39:48,825 [-] [PassThroughMessageProcessor-360]  WARN EndpointContext Suspending endpoint : Mapa-Digital_Port_84--vv1.0_APIproductionEndpoint with address http://localhost:84/api/v1/mapa-digital - current suspend duration is : 30000ms - Next retry after : Sat Feb 29 02:40:18 COT 2020
+2020-02-29T03:11:28,770 [-] [PassThroughMessageProcessor-268] ERROR JWTValidator JWT token is expired
+2020-02-29T03:11:28,779 [-] [PassThroughMessageProcessor-268]  WARN APIAuthenticationHandler API authentication failure due to Access Token Expired
+2020-02-29T03:34:49,600 [-] [https-jsse-nio-9443-exec-30] ERROR refresh:jag {}
+2020-02-29T03:34:49,703 [-] [https-jsse-nio-9443-exec-2] ERROR AMDefaultKeyManagerImpl Invalid OAuth Token : Invalid Access Token. ACTIVE access token is not found.
+2020-02-29T03:34:49,733 [-] [https-jsse-nio-9443-exec-2] ERROR WebAppAuthenticatorImpl Provided access token is invalid
+2020-02-29T09:43:13,327 [-] [Timer-12]  WARN EndpointContext Suspending endpoint : Carga_Excel--vv1.0_APIproductionEndpoint with address http://localhost:1902 - last suspend duration was : 30000ms and current suspend duration is : 30000ms - Next retry after : Sat Feb 29 09:43:43 COT 2020
+2020-02-29T09:43:13,627 [-] [Timer-12]  WARN TimeoutHandler Expiring message ID : urn:uuid:78e0e633-5ac1-4611-a745-69e67e4ffbde; dropping message after GLOBAL_TIMEOUT of : 120 seconds for null, URI : http://localhost:1902/Escuela/cargaDatos, Received through API : admin--Carga_Excel:vv1.0
+2020-02-29T09:44:06,724 [-] [PassThroughMessageProcessor-302]  WARN SynapseCallbackReceiver Synapse received a response for the request with message Id : urn:uuid:78e0e633-5ac1-4611-a745-69e67e4ffbde and correlation_id : null But a callback is not registered (anymore) to process this response
+2020-02-29T09:57:33,201 [-] [PassThroughHTTPSender]  WARN ConnectCallback Connection refused or failed for : localhost/127.0.0.1:84
+2020-02-29T09:57:33,212 [-] [PassThroughMessageProcessor-341]  WARN EndpointContext Endpoint : Mapa-Digital_Port_84--vv1.0_APIproductionEndpoint with address http://localhost:84/api/v1/mapa-digital will be marked SUSPENDED as it failed
+2020-02-29T09:57:33,226 [-] [PassThroughMessageProcessor-341]  WARN EndpointContext Suspending endpoint : Mapa-Digital_Port_84--vv1.0_APIproductionEndpoint with address http://localhost:84/api/v1/mapa-digital - current suspend duration is : 30000ms - Next retry after : Sat Feb 29 09:58:03 COT 2020
+2020-02-29T11:39:22,950 [-] [PassThroughMessageProcessor-174] ERROR JWTValidator JWT token is expired
+2020-02-29T11:39:22,954 [-] [PassThroughMessageProcessor-174]  WARN APIAuthenticationHandler API authentication failure due to Access Token Expired
+2020-02-29T11:44:03,665 [-] [https-jsse-nio-9443-exec-50] ERROR refresh:jag {}
+2020-02-29T11:44:03,716 [-] [https-jsse-nio-9443-exec-20] ERROR AMDefaultKeyManagerImpl Invalid OAuth Token : Invalid Access Token. ACTIVE access token is not found.
+2020-02-29T11:44:03,719 [-] [https-jsse-nio-9443-exec-20] ERROR WebAppAuthenticatorImpl Provided access token is invalid
+2020-02-29T11:51:19,107 [-] [Timer-12]  WARN EndpointContext Suspending endpoint : Carga_Excel--vv1.0_APIproductionEndpoint with address http://localhost:1902 - last suspend duration was : 30000ms and current suspend duration is : 30000ms - Next retry after : Sat Feb 29 11:51:49 COT 2020
+2020-02-29T11:51:19,201 [-] [Timer-12]  WARN TimeoutHandler Expiring message ID : urn:uuid:c5245cb3-77ac-41c7-b73c-41679f9fb24d; dropping message after GLOBAL_TIMEOUT of : 120 seconds for null, URI : http://localhost:1902/Escuela/cargaDatos, Received through API : admin--Carga_Excel:vv1.0
+2020-02-29T11:51:52,301 [-] [PassThroughMessageProcessor-256]  WARN SynapseCallbackReceiver Synapse received a response for the request with message Id : urn:uuid:c5245cb3-77ac-41c7-b73c-41679f9fb24d and correlation_id : null But a callback is not registered (anymore) to process this response
+2020-02-29T11:55:49,089 [-] [Timer-12]  WARN EndpointContext Suspending endpoint : Carga_Excel--vv1.0_APIproductionEndpoint with address http://localhost:1902 - last suspend duration was : 30000ms and current suspend duration is : 30000ms - Next retry after : Sat Feb 29 11:56:19 COT 2020
+2020-02-29T11:55:49,114 [-] [Timer-12]  WARN TimeoutHandler Expiring message ID : urn:uuid:9ef37ec7-19bd-494d-902a-1f52cd64a023; dropping message after GLOBAL_TIMEOUT of : 120 seconds for null, URI : http://localhost:1902/Escuela/cargaDatos, Received through API : admin--Carga_Excel:vv1.0
+2020-02-29T11:56:02,113 [-] [PassThroughMessageProcessor-298]  WARN SynapseCallbackReceiver Synapse received a response for the request with message Id : urn:uuid:9ef37ec7-19bd-494d-902a-1f52cd64a023 and correlation_id : null But a callback is not registered (anymore) to process this response
+2020-02-29T19:02:04,710 [-] [Component Resolve Thread (Bundle 144)]  WARN ApplicationManagementServiceComponent Templates directory not found at C:\WSO2\repository\resources\identity\authntemplates
+2020-02-29T19:02:08,325 [-] [Component Resolve Thread (Bundle 144)]  WARN IdentityEventServiceComponent Properties for default.notification.sender is not configured. This event handler will not be activated
+2020-02-29T19:02:55,625 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:02:55,626 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:02:55,628 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:03:03,228 [-] [Timer-10]  WARN AppDeployerServiceComponent Waiting for required OSGi services: org.wso2.carbon.application.deployer.synapse.service.SynapseAppDeployerService,org.wso2.carbon.mediation.initializer.services.SynapseEnvironmentService,
+2020-02-29T19:03:03,252 [-] [Timer-11]  WARN StartupFinalizerServiceComponent Waiting for required OSGi services: org.wso2.carbon.application.deployer.service.CappDeploymentService,org.wso2.carbon.server.admin.common.IServerAdmin,org.wso2.carbon.throttling.agent.ThrottlingAgent,
+2020-02-29T19:03:12,630 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:03:12,641 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:03:12,642 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:03:29,647 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:03:29,648 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:03:29,652 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:03:46,653 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:03:46,655 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:03:46,657 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:04:03,229 [-] [Timer-10]  WARN AppDeployerServiceComponent Waiting for required OSGi services: org.wso2.carbon.application.deployer.synapse.service.SynapseAppDeployerService,org.wso2.carbon.mediation.initializer.services.SynapseEnvironmentService,
+2020-02-29T19:04:03,253 [-] [Timer-11]  WARN StartupFinalizerServiceComponent Waiting for required OSGi services: org.wso2.carbon.application.deployer.service.CappDeploymentService,org.wso2.carbon.server.admin.common.IServerAdmin,org.wso2.carbon.throttling.agent.ThrottlingAgent,
+2020-02-29T19:04:03,662 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:04:03,663 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:04:03,663 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:04:20,666 [-] [Timer-6]  WARN BlockingConditionRetriever Failed retrieving Blocking Conditions from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:04:20,667 [-] [Timer-7]  WARN KeyTemplateRetriever Failed retrieving throttling data from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:04:20,668 [-] [Timer-8]  WARN RevokedJWTTokensRetriever Failed retrieving revoked JWT token signatures from remote endpoint: Connection refused: connect. Retrying after 15 seconds...
+2020-02-29T19:04:27,980 [-] [Component Resolve Thread (Bundle 144)]  WARN QpidServiceComponent MQTT Transport is disabled as per configuration.
+2020-02-29T19:04:37,799 [-] [Thread-42]  WARN JMSListener Polling tasks on destination : throttleData of type topic for listener Siddhi-JMS-Consumer#throttleData have not yet started after 3 seconds ..
+2020-02-29T19:04:37,799 [-] [Thread-43]  WARN JMSListener Polling tasks on destination : tokenRevocation of type topic for listener Siddhi-JMS-Consumer#tokenRevocation have not yet started after 3 seconds ..
+2020-02-29T19:04:39,639 [-] [JMSThreadsdb777f08-0fc4-4a03-aaf9-f7da7eb0789e-1]  WARN JMSUtils Cannot locate destination : tokenRevocation
+2020-02-29T19:04:39,640 [-] [JMSThreads9f6d4455-c3af-4005-8031-ce002320afdb-1]  WARN JMSUtils Cannot locate destination : throttleData
+2020-02-29T20:10:45,770 [-] [HTTP-Listener I/O dispatcher-1]  WARN AccessConfiguration Error loading properties from file: access-log.properties
+2020-02-29T20:10:45,784 [-] [HTTP-Listener I/O dispatcher-1]  WARN MiscellaneousUtil Error loading properties from a file at from the System defined location: access-log.properties
+2020-02-29T20:10:45,793 [-] [HTTP-Listener I/O dispatcher-1]  WARN MiscellaneousUtil Error loading properties from a file at from the System defined location: access-log.properties
+2020-02-29T20:20:09,287 [-] [https-jsse-nio-9443-exec-42] ERROR refresh:jag {}
+2020-02-29T20:20:09,957 [-] [https-jsse-nio-9443-exec-48] ERROR AMDefaultKeyManagerImpl Invalid OAuth Token : Invalid Access Token. ACTIVE access token is not found.
+2020-02-29T20:20:09,987 [-] [https-jsse-nio-9443-exec-48] ERROR WebAppAuthenticatorImpl Provided access token is invalid
+2020-02-29T20:24:59,610 [-] [https-jsse-nio-9443-exec-22]  WARN AlertTypesApiServiceImpl Analytics is not enabled
+org.wso2.carbon.apimgt.impl.alertmgt.exception.AlertManagementException: Analytics Not Enabled
+	at org.wso2.carbon.apimgt.impl.alertmgt.AlertConfigManager.<init>(AlertConfigManager.java:33) ~[org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.impl.alertmgt.AlertConfigManager.getInstance_aroundBody0(AlertConfigManager.java:39) ~[org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.impl.alertmgt.AlertConfigManager.getInstance(AlertConfigManager.java:37) ~[org.wso2.carbon.apimgt.impl_6.5.349.jar:?]
+	at org.wso2.carbon.apimgt.rest.api.publisher.v1.impl.AlertTypesApiServiceImpl.getPublisherAlertTypes(AlertTypesApiServiceImpl.java:45) [classes/:?]
+	at org.wso2.carbon.apimgt.rest.api.publisher.v1.AlertTypesApi.getPublisherAlertTypes(AlertTypesApi.java:52) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_191]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_191]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_191]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_191]
+	at org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:193) [cxf-rt-frontend-jaxrs-3.2.8.jar:3.2.8]
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:103) [cxf-rt-frontend-jaxrs-3.2.8.jar:3.2.8]
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121) [cxf-core-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:216) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:301) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doGet(AbstractHTTPServlet.java:225) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) [tomcat-servlet-api_9.0.22.wso2v1.jar:?]
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:276) [cxf-rt-transports-http-3.2.8.jar:3.2.8]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.identity.context.rewrite.valve.TenantContextRewriteValve.invoke(TenantContextRewriteValve.java:80) [org.wso2.carbon.identity.context.rewrite.valve_1.3.6.jar:?]
+	at org.wso2.carbon.identity.authz.valve.AuthorizationValve.invoke(AuthorizationValve.java:100) [org.wso2.carbon.identity.authz.valve_1.3.6.jar:?]
+	at org.wso2.carbon.identity.auth.valve.AuthenticationValve.invoke(AuthenticationValve.java:74) [org.wso2.carbon.identity.auth.valve_1.3.6.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.continueInvocation(CompositeValve.java:99) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.TomcatValveContainer.invokeValves(TomcatValveContainer.java:49) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CompositeValve.invoke(CompositeValve.java:62) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CarbonStuckThreadDetectionValve.invoke(CarbonStuckThreadDetectionValve.java:146) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:678) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.CarbonContextCreatorValve.invoke(CarbonContextCreatorValve.java:57) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.wso2.carbon.tomcat.ext.valves.RequestCorrelationIdValve.invoke(RequestCorrelationIdValve.java:116) [org.wso2.carbon.tomcat.ext_4.5.1.jar:?]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587) [tomcat_9.0.22.wso2v1.jar:?]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat_9.0.22.wso2v1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_191]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat_9.0.22.wso2v1.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_191]
+2020-03-01T00:00:16,759 [-] [Timer-15]  WARN MiscellaneousUtil Error loading properties from a file at from the System defined location: access-log.properties
+2020-03-01T00:40:31,472 [-] [PassThroughMessageProcessor-247] ERROR JWTValidator JWT token is expired
+2020-03-01T00:40:31,486 [-] [PassThroughMessageProcessor-247]  WARN APIAuthenticationHandler API authentication failure due to Access Token Expired
+2020-03-01T01:42:19,094 [-] [PassThroughMessageProcessor-206] ERROR JWTValidator JWT token is expired
+2020-03-01T01:42:19,103 [-] [PassThroughMessageProcessor-206]  WARN APIAuthenticationHandler API authentication failure due to Access Token Expired
+2020-03-01T02:52:38,955 [-] [PassThroughMessageProcessor-191] ERROR JWTValidator JWT token is expired
+2020-03-01T02:52:38,980 [-] [PassThroughMessageProcessor-191]  WARN APIAuthenticationHandler API authentication failure due to Access Token Expired
+2020-03-01T12:03:39,162 [-] [https-jsse-nio-9443-exec-7] ERROR refresh:jag {}
+2020-03-01T12:03:39,215 [-] [https-jsse-nio-9443-exec-33] ERROR AMDefaultKeyManagerImpl Invalid OAuth Token : Invalid Access Token. ACTIVE access token is not found.
+2020-03-01T12:03:39,237 [-] [https-jsse-nio-9443-exec-33] ERROR WebAppAuthenticatorImpl Provided access token is invalid
+2020-03-01T14:40:34,597 [-] [PassThroughMessageProcessor-126] ERROR JWTValidator JWT token is expired
+2020-03-01T14:40:34,610 [-] [PassThroughMessageProcessor-126]  WARN APIAuthenticationHandler API authentication failure due to Access Token Expired
+2020-03-01T15:40:40,090 [-] [PassThroughMessageProcessor-61] ERROR JWTValidator JWT token is expired
+2020-03-01T15:40:40,108 [-] [PassThroughMessageProcessor-61]  WARN APIAuthenticationHandler API authentication failure due to Access Token Expired
+2020-03-01T17:23:51,248 [-] [PassThroughMessageProcessor-72] ERROR JWTValidator JWT token is expired
+2020-03-01T17:23:51,256 [-] [PassThroughMessageProcessor-72]  WARN APIAuthenticationHandler API authentication failure due to Access Token Expired

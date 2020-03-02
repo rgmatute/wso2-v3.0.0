@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><localEntry xmlns="http://ws.apache.org/ns/synapse" key="85885425-2230-48bf-a1a7-5e441c365e17">{
+  "openapi" : "3.0.1",
+  "info" : {
+    "title" : "Carga_Excel",
+    "version" : "v1.0"
+  },
+  "servers" : [ {
+    "url" : "/"
+  } ],
+  "security" : [ {
+    "default" : [ ]
+  } ],
+  "paths" : {
+    "/Escuela/cargaDatos" : {
+      "post" : {
+        "description" : "Esto sirve para importar los datos masivamente desde un excel.",
+        "parameters" : [ ],
+        "requestBody" : {
+          "content" : {
+            "application/json" : {
+              "schema" : {
+                "type" : "object"
+              }
+            }
+          },
+          "required" : false
+        },
+        "responses" : {
+          "200" : {
+            "description" : "ok"
+          }
+        },
+        "security" : [ {
+          "default" : [ ]
+        } ],
+        "x-auth-type" : "None",
+        "x-throttling-tier" : null
+      }
+    }
+  },
+  "components" : {
+    "securitySchemes" : {
+      "default" : {
+        "type" : "oauth2",
+        "flows" : {
+          "implicit" : {
+            "authorizationUrl" : "https://test.com",
+            "scopes" : { }
+          }
+        }
+      }
+    }
+  }
+}</localEntry>

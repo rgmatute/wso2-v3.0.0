@@ -1,0 +1,154 @@
+TID: [-1234] [2020-02-28 08:07:58,671]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:58,671]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:58,997]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,106]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,129]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,174]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,195]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,225]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,243]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,318]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,334]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,392]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,411]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,455]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,456]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,489]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,538]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,567]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,608]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,619]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,655]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,704]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,713]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,730]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,752]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,771]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,785]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,825]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,887]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,941]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:07:59,967]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,018]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,130]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,171]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,190]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,192]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,256]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,343]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,349]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,361]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,446]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,460]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,472]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,480]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,488]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,494]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,503]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,750]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,837]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,843]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,845]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,852]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,853]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,905]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,905]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,929]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:00,946]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:01,034]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:01,153]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:01,207]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:01,216]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:01,244]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:01,286]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:01,303]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:01,329]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:01,337]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:01,388]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:01,473]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:01,488]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:01,518]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:01,521]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:02,827]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:02,850]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:02,864]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:02,876]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:02,877]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:02,885]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:02,914]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:02,920]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:02,921]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:02,926]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:02,927]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:02,975]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:02,975]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:02,981]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:02,997]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,002]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,009]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,015]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,016]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,022]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,046]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,046]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,058]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,068]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,074]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,118]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,140]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,248]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,258]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,276]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,281]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,293]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,312]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,323]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 08:08:03,334]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 11:26:32,328]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-Roles-of-User Target=admin Data={"Filter":"*","Roles":["Internal/subscriber","Application/admin_admin_publisher","Application/admin_rest_api_import_export","Internal/creator","Application/admin_admin_store","Internal/publisher","Application/admin_rest_api_store","Internal/everyone","Application/admin_georeferencia_PRODUCTION","admin","Internal/analytics"]} Outcome=Success
+TID: [-1234] [2020-02-28 21:43:08,861]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 21:45:00,979]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 21:45:12,209]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 21:45:12,240]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 21:45:14,817]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 21:45:14,818]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 21:45:14,827]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 21:45:18,642]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 21:45:18,644]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 21:45:19,452]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-Roles-of-User Target=admin Data={"Filter":"*","Roles":["Internal/subscriber","Application/admin_admin_publisher","Application/admin_rest_api_import_export","Internal/creator","Application/admin_admin_store","Internal/publisher","Application/admin_rest_api_store","Internal/everyone","Application/admin_georeferencia_PRODUCTION","admin","Internal/analytics"]} Outcome=Success
+TID: [-1234] [2020-02-28 21:48:28,722]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{"http://wso2.org/claims/username":"admin","http://wso2.org/claims/role":"Internal/subscriber,Application/admin_admin_publisher,Application/admin_rest_api_import_export,Internal/creator,Application/admin_admin_store,Internal/publisher,Application/admin_rest_api_store,Internal/everyone,Application/admin_georeferencia_PRODUCTION,admin,Internal/analytics"}} Outcome=Success
+TID: [-1234] [2020-02-28 21:48:28,905]  INFO {AUDIT_LOG} - Initiator : admin | Action : Login | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "b57e260e-aad4-4486-8c80-bc4cc58bb448","AuthenticatedUser" : "admin","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "admin_admin_publisher","RequestType" : "oidc","RelyingParty" : "9s4I5cIx9bv9VxHogQbG3ij8Pe0a","AuthenticatedIdPs" : "eyJ0eXAiOiJKV1QiLCAiYWxnIjoiSFMyNTYifQ==.eyJpc3MiOiJ3c28yIiwiZXhwIjoxNTgyOTQ0NTA4NzEyMzAwMCwiaWF0IjoxNTgyOTQ0NTA4NzEyLCJpZHBzIjpbeyJpZHAiOiJMT0NBTCIsImF1dGhlbnRpY2F0b3IiOiJCYXNpY0F1dGhlbnRpY2F0b3IifV19.zx1Got5Dhf3KGpIB4Tlm9qDIiws=" } | Result : Success 
+TID: [-1234] [2020-02-28 21:48:31,350]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 22:10:00,470]  INFO {AUDIT_LOG} - Initiator=admin@carbon.super Action=Get-Roles-of-User Target=admin Data={"Filter":"*","Roles":["Internal/subscriber","Application/admin_admin_publisher","Application/admin_rest_api_import_export","Internal/creator","Application/admin_admin_store","Internal/publisher","Application/admin_rest_api_store","Internal/everyone","Application/admin_georeferencia_PRODUCTION","admin","Internal/analytics"]} Outcome=Success
+TID: [-1234] [2020-02-28 22:10:36,939]  INFO {AUDIT_LOG} - {"performedBy":"admin","action":"created","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"Carga_Excel\",\"context\":\"\\\/api\\\/import\\\/v1.0\",\"version\":\"v1.0\"}"}
+TID: [-1234] [2020-02-28 22:10:40,463]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 22:10:40,629]  INFO {AUDIT_LOG} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:10:40,591-0500]
+TID: [-1234] [2020-02-28 22:10:42,320]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 22:10:42,327]  INFO {AUDIT_LOG} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:10:42,326-0500]
+TID: [-1234] [2020-02-28 22:10:48,490]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 22:10:48,510]  INFO {AUDIT_LOG} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:10:48,498-0500]
+TID: [-1234] [2020-02-28 22:12:10,161]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 22:12:10,222]  INFO {AUDIT_LOG} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:12:10,219-0500]
+TID: [-1234] [2020-02-28 22:12:11,755]  INFO {AUDIT_LOG} - {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"Carga_Excel\",\"context\":\"\\\/api\\\/import\\\/v1.0\",\"version\":\"v1.0\"}"}
+TID: [-1234] [2020-02-28 22:12:12,189]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 22:12:12,194]  INFO {AUDIT_LOG} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:12:12,192-0500]
+TID: [-1234] [2020-02-28 22:12:12,410]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 22:12:12,421]  INFO {AUDIT_LOG} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:12:12,417-0500]
+TID: [-1234] [2020-02-28 22:12:12,610]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 22:12:12,615]  INFO {AUDIT_LOG} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:12:12,614-0500]
+TID: [-1234] [2020-02-28 22:12:13,086]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 22:12:13,233]  INFO {AUDIT_LOG} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:12:13,092-0500]
+TID: [-1234] [2020-02-28 22:12:13,585]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 22:12:13,599]  INFO {AUDIT_LOG} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:12:13,594-0500]
+TID: [-1234] [2020-02-28 22:14:00,324]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 22:14:00,341]  INFO {AUDIT_LOG} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:14:00,330-0500]
+TID: [-1234] [2020-02-28 22:14:00,804]  INFO {AUDIT_LOG} - {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"Carga_Excel\",\"context\":\"\\\/api\\\/import\\\/v1.0\",\"version\":\"v1.0\"}"}
+TID: [-1234] [2020-02-28 22:14:00,934]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 22:14:00,940]  INFO {AUDIT_LOG} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:14:00,938-0500]
+TID: [-1234] [2020-02-28 22:14:01,052]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 22:14:01,058]  INFO {AUDIT_LOG} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:14:01,056-0500]
+TID: [-1234] [2020-02-28 22:14:01,221]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 22:14:01,235]  INFO {AUDIT_LOG} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:14:01,226-0500]
+TID: [-1234] [2020-02-28 22:14:01,672]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 22:14:01,688]  INFO {AUDIT_LOG} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:14:01,678-0500]
+TID: [-1234] [2020-02-28 22:14:01,936]  INFO {AUDIT_LOG} - Initiator=wso2.system.user Action=Get-User-Claim-Values Target=admin Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2020-02-28 22:14:01,958]  INFO {AUDIT_LOG} - 'admin@carbon.super [-1234]' logged in at [2020-02-28 22:14:01,939-0500]
